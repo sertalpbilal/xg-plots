@@ -1,0 +1,7 @@
+.clickable-game {
+    cursor: pointer;
+}
+
+.clickable-game:hover {
+    background-color: beige !important;
+}
