@@ -1,7 +1,108 @@
+body {
+    background-color: #efe9e6;
+}
+
+.svg-plot {
+    border: 1px solid gray;
+}
+
+* {
+    font-family: 'Cabin', sans-serif;
+}
+
+.border-left-variant {
+    border-left: 1px solid red;
+}
+
 .clickable-game {
     cursor: pointer;
 }
 
 .clickable-game:hover {
     background-color: beige !important;
+}
+
+.xg-line {
+    /* stroke: black; */
+    stroke-width: 5px;
+}
+
+.goal-circle {
+    fill-opacity: 1;
+    fill: white;
+    stroke-width: 5px;
+    stroke-opacity: 1;
+    r: 12;
+}
+
+.minor-x {
+    stroke: black;
+    stroke-width: 2px;
+    stroke-opacity: 0.1;
+    stroke-dasharray: 8,7;
+}
+
+.major-x {
+    stroke: black;
+    stroke-width: 2px;
+    stroke-opacity: 0.5;
+    stroke-dasharray: 8,7;
+}
+
+.outer {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    overflow: visible;
+}
+
+/* .outer-left {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    overflow: visible;
+} */
+
+.inner {
+    font-size: 9pt;
+}
+
+.scoreline {
+    font-size: 28pt;
+}
+
+.xgline {
+    font-size: 15pt;
+}
+
+.teamline {
+    font-size: 28pt;
+}
+
+.mr-10 {
+    margin-right: 15px;
+}
+
+.crestimg {
+    height: 90px;
+}
+
+.goal-text {
+    /* background-color: red; */
+    background-color: #ffffffd6;
+    border: 1px solid black;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.box-name {
+    font-size: 15pt;
+}
+
+.box-value {
+    font-size: 12pt;
 }
