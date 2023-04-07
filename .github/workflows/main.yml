@@ -1,0 +1,38 @@
+name: Scan-Games
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  build-and-run:
+    name: Scan new games
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check current directory
+        run: pwd
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Make sure data folder exists
+        run: mkdir -p ./data
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run Python script
+        run: cd src && python fetch_games.py
+      - name: Add changes to the branch
+        run: |
+          git add -u
+          git add data
+          git add index.json
+          git config user.name "Github Action"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Automated build $GITHUB_RUN_ID"
+          git push
