@@ -20,41 +20,57 @@
 
 <body>
     <div class="container" id="app">
-        <div class="m-2 text-center">
+        <div class="text-center">
             <div class="mb-2"><a href="index.html"><< Back</a></div>
+            <div class="mb-2 d-flex">
+                <div class="form-group">
+                    <label for="homeColor">Home Color</label>
+                    <select class="form-control" id="homeColor" v-model="home_color"  @change="plot_xg">
+                      <option v-for="i in home_color_options" :style="{'backgroundColor': i}">{{ '' + i }}</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="awayColor">Away Color</label>
+                    <select class="form-control" id="awayColor" v-model="away_color"  @change="plot_xg">
+                      <option v-for="i in away_color_options" :style="{'backgroundColor': i}">{{ '' + i }}</option>
+                    </select>
+                </div>
+            </div>
             <div class="mb-2">
                 <div id="xg_race"></div>
             </div>
             <div class="mb-4">
                 <div class="mb-2">Game Shots</div>
-                <table class="table table-sm table-striped">
-                    <thead>
-                        <tr>
-                            <!-- <th>Shot</th> -->
-                            <th>Result</th>
-                            <th>Player</th>
-                            <th>Min</th>
-                            <th>Situation</th>
-                            <th>Shot Type</th>
-                            <th>Shot xG</th>
-                            <th class="border-left-variant">Home xG</th>
-                            <th>Away xG</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr v-for="shot in shots">
-                            <!-- <td>{{ shot }}</td> -->
-                            <td>{{ shot.eventType }}</td>
-                            <td>{{ shot.playerName }}</td>
-                            <td>{{ shot.min }}</td>
-                            <td>{{ shot.situation }}</td>
-                            <td>{{ shot.shotType }}</td>
-                            <td>{{ _.round(shot.expectedGoals,3).toFixed(3) }}</td>
-                            <td class="border-left-variant">{{ _.round(_.sum(shots.filter(i => i.min <= shot.min && i.teamId == game_json.general.homeTeam.id).map(i => i.expectedGoals)),3).toFixed(3) }}</td>
-                            <td>{{ _.round(_.sum(shots.filter(i => i.min <= shot.min && i.teamId == game_json.general.awayTeam.id).map(i => i.expectedGoals)),3).toFixed(3) }}</td>
-                        </tr>
-                    </tbody>
-                </table>
+                <div class="table-responsive">
+                    <table class="table table-sm table-striped text-v-small">
+                        <thead>
+                            <tr>
+                                <!-- <th>Shot</th> -->
+                                <th>Result</th>
+                                <th>Player</th>
+                                <th>Min</th>
+                                <th>Situation</th>
+                                <th>Shot Type</th>
+                                <th>Shot xG</th>
+                                <th class="border-left-variant">Home xG</th>
+                                <th>Away xG</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr v-for="shot in shots">
+                                <!-- <td>{{ shot }}</td> -->
+                                <td :style="{color: shot.eventType == 'Goal' ? 'steelblue': 'darkred'}">{{ shot.eventType }}</td>
+                                <td>{{ shot.playerName }}</td>
+                                <td>{{ shot.min }}</td>
+                                <td>{{ shot.situation }}</td>
+                                <td>{{ shot.shotType }}</td>
+                                <td>{{ _.round(shot.expectedGoals,3).toFixed(3) }}</td>
+                                <td class="border-left-variant">{{ _.round(_.sum(shots.filter(i => i.min <= shot.min && i.teamId == game_json.general.homeTeam.id).map(i => i.expectedGoals)),3).toFixed(3) }}</td>
+                                <td>{{ _.round(_.sum(shots.filter(i => i.min <= shot.min && i.teamId == game_json.general.awayTeam.id).map(i => i.expectedGoals)),3).toFixed(3) }}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
             </div>
         </div>
     </div>

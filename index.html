@@ -23,26 +23,29 @@
     <div class="container" id="app">
         <div class="m-2 text-center">
             <div class="mb-2">Select a game</div>
-            <table class="table table-sm table-striped">
-                <thead>
-                    <tr>
-                        <th>ID</th>
-                        <th>Home</th>
-                        <th>Away</th>
-                        <th>Round</th>
-                        <th>Time</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr class="clickable-game" v-for="game in reverse_ordered" @click="open_game_page" :data-href="'game.html?id=' + game.matchId">
-                        <td>{{ game.matchId }}</td>
-                        <td>{{ game.homeTeam.name }}</td>
-                        <td>{{ game.awayTeam.name }}</td>
-                        <td>{{ game.matchRound }}</td>
-                        <td>{{ game.matchTimeUTC }}</td>
-                    </tr>
-                </tbody>
-            </table>
+            <div class="table-responsive">
+                
+                <table class="table table-sm table-striped text-v-small">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Home</th>
+                            <th>Away</th>
+                            <th>Round</th>
+                            <th>Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="clickable-game" v-for="game in reverse_ordered" @click="open_game_page" :data-href="'game.html?id=' + game.matchId">
+                            <td>{{ game.matchId }}</td>
+                            <td>{{ game.homeTeam.name }}</td>
+                            <td>{{ game.awayTeam.name }}</td>
+                            <td>{{ game.matchRound }}</td>
+                            <td>{{ game.matchTimeUTC }}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
         </div>
     </div>
 

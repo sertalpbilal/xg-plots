@@ -6,22 +6,40 @@ var app = new Vue({
         game_json: undefined,
         plot_xg: plot_game_xg,
         home_color: '#000000',
-        away_color: '#000000'
+        away_color: '#000000',
+        home_color_options: ['#000000', '#FFFFFF', "#4e79a7","#f28e2c","#e15759","#76b7b2"],
+        away_color_options: ['#000000', '#FFFFFF', "#4e79a7","#f28e2c","#e15759","#76b7b2"]
     },
     computed: {
-        set_colors() {
-            this.home_color = this.game_json.general.teamColors.home;
-            this.away_color = this.game_json.general.teamColors.away;
-        },
         shots () {
             if (_.isEmpty(this.game_json)) { return []}
             return this.game_json.content.shotmap.shots
         }
     },
     methods: {
+        set_colors() {
+            this.home_color_options.push(this.game_json.general.teamColors.homeColors.color)
+            this.home_color_options.push(this.game_json.general.teamColors.homeColors.colorAlternate)
+            this.home_color_options.push(this.game_json.general.teamColors.homeColors.colorAway)
+            this.home_color_options.push(this.game_json.general.teamColors.homeColors.colorAwayAlternate)
+            this.home_color = this.game_json.general.teamColors.home;
 
+            this.away_color_options.push(this.game_json.general.teamColors.awayColors.color)
+            this.away_color_options.push(this.game_json.general.teamColors.awayColors.colorAlternate)
+            this.away_color_options.push(this.game_json.general.teamColors.awayColors.colorAway)
+            this.away_color_options.push(this.game_json.general.teamColors.awayColors.colorAwayAlternate)
+            this.away_color = this.game_json.general.teamColors.away;
+        },
     }
 })
+
+let name_transform = {
+    'AFC Bournemouth': 'Bournemouth',
+    'Brighton & Hove Albion': 'Brighton',
+    'Tottenham Hotspur': 'Tottenham',
+    'Wolverhampton Wanderers': 'Wolves'
+}
+let transformed = (e) => name_transform[e] ? name_transform[e]: e
 
 function plot_game_xg() {
     
@@ -136,7 +154,7 @@ function plot_game_xg() {
             .attr("stroke-opacity", 0)
         )
         .call(g => g.selectAll(".tick text")
-            .attr("font-size", "20pt")
+            .attr("font-size", "24pt")
             .attr("fill", "black"))
 
 
@@ -172,12 +190,16 @@ function plot_game_xg() {
         .attr('y2', d => y(d))
         .attr("class", "minor-x")
 
+    let side_color = (e) => e == 'home' ? app.home_color : app.away_color
+
+    debugger
+
     // Plot
     plot_area.selectAll()
         .data(['home', 'away'])
         .enter()
         .append("path")
-        .style('stroke', d => game_data.general.teamColors[d])
+        .style('stroke', d => side_color(d))
         // .attr("data-player-id", (d) => d[0].id)
         .datum(d => xg_vals[d].map(i => { return {...i, 'side': d}}))
         .attr("fill", "none")
@@ -212,27 +234,29 @@ function plot_game_xg() {
     single_goal.append('circle')
         .attr('cx', d => x(d.min))
         .attr('cy', d => y(d.xg))
-        .style('stroke', d => game_data.general.teamColors[d.side])
+        .style('stroke', d => side_color(d.side))
         .attr('class', 'goal-circle')
     single_goal.append("foreignObject")
         .attr("x", d => x(d.min) - 160)
-        .attr("y", d => y(d.xg) - 50)
+        .attr("y", d => y(d.xg) - 60)
         .attr("width", 140)
-        .attr("height", 50)
+        .attr("height", 60)
         .html(function(d) {
             return `
             <div class="outer goal-text d-flex flex-column">
-                <span class="w-100 text-center box-name" style="color: ${game_data.general.teamColors[d.side]}">${d.info.lastName}</span>
-                <span class="w-100 text-center box-value">${d.info.expectedGoals.toFixed(3)} xG</span>
+                <span class="w-100 text-center box-name" style="color: ${side_color(d.side)}">${d.info.lastName}</span>
+                <span class="w-100 text-center box-value">${d.info?.expectedGoals?.toFixed(2) || '0.00'} xG</span>
             </div>
             `
         })
+        .style("cursor", "move")
+        .call(drag)
 
     // Titles
     // Labels
     league_title = game_data['general']['parentLeagueName'] + ' ' + game_data['general']['parentLeagueSeason']
     date_title = game_data['matchTimeUTC']
-    overall_title = game_data.general.homeTeam.name + ' ' + game_data.header.status.scoreStr + ' ' + game_data.general.awayTeam.name
+    overall_title = transformed(game_data.general.homeTeam.name) + ' ' + game_data.header.status.scoreStr + ' ' + transformed(game_data.general.awayTeam.name)
 
     plot_area.append("foreignObject")
         .attr("x", 0)
@@ -243,21 +267,29 @@ function plot_game_xg() {
             return `
             <div class="outer">
                 <div class="w-100 row no-gutters">
-                    <div class="col text-right">
-                        <span class="teamline mr-10">${game_data.general.homeTeam.name}</span>
-                        <span class="crest"><img class="crestimg" src="${game_data.header.teams[0].imageUrl}" /></span>
+                    <div class="col text-right d-flex justify-content-end">
+                        <div class="d-flex flex-column mr-10">
+                            <span class="teamline" style="color: ${side_color('home')}">${transformed(game_data.general.homeTeam.name)}</span>
+                            <span class="text-center xgline">${xg_vals.home.at(-1).xg.toFixed(2)} xG</span>
+                        </div>
+                        <div class="crest"><img class="crestimg" src="${game_data.header.teams[0].imageUrl}" /></div>
                     </div>
-                    <div class="col-2 d-flex flex-column">
+                    <div class="col-2 d-flex flex-column justify-content-center">
                         <span class="scoreline">${game_data.header.status.scoreStr}</span>
-                        <span class="xgline">${xg_vals.home.at(-1).xg.toFixed(2)}&nbsp;&nbsp;xG&nbsp;&nbsp;${xg_vals.away.at(-1).xg.toFixed(2)}</span>
                     </div>
-                    <div class="col text-left">
-                        <span class="crest mr-10"><img class="crestimg" src="${game_data.header.teams[1].imageUrl}" /></span>
-                        <span class="teamline">${game_data.general.awayTeam.name}</span>
+                    <div class="col text-left d-flex">
+                        <div class="crest mr-10"><img class="crestimg" src="${game_data.header.teams[1].imageUrl}" /></div>
+                        <div class="d-flex flex-column">
+                            <span class="teamline" style="color: ${side_color('away')}">${transformed(game_data.general.awayTeam.name)}</span>
+                            <span class="text-center xgline">${xg_vals.away.at(-1).xg.toFixed(2)} xG</span>
+                        </div>
                     </div>
                 </div>
             </div>
             `
+
+            // <span class="xgline">${xg_vals.home.at(-1).xg.toFixed(2)}&nbsp;&nbsp;xG&nbsp;&nbsp;${xg_vals.away.at(-1).xg.toFixed(2)}</span>
+
             // return `
             // <div class="outer">
             //     <div class="inner w-100 text-center">
@@ -269,233 +301,6 @@ function plot_game_xg() {
 
 
     // Credit
-
-    return
-
-    // Axis
-    // const x = d3.scaleBand().domain(gws).range([0, width]).paddingInner(0.05).paddingOuter(0)
-    svg.append('g')
-        //.attr('transform', 'translate(0,' + height + ')')
-        .attr("id", "x-axis-holder")
-        .attr("class", "axis-holder")
-        .call(
-            d3.axisBottom(x)
-            .tickSize(0)
-            .tickFormat((i) => i == 0 ? "Start" : "GW" + i)
-        )
-        .attr("transform",
-            "translate(0," + height +")");
-
-    let ptype = app.plot_type
-    let max_val = d3.max(app.processed_list.map(i => Object.values(i[ptype])).flat().map(i => Math.abs(i)))
-    let yrange = d3.extent(app.processed_list.map(i => Object.values(i[ptype])).flat())
-
-    // const y = d3.scaleLinear().domain([-max_val*1.1, max_val]).range([height, 0])
-    // const y = d3.scaleLinear().domain([yrange[0]*1.1, yrange[1]*1.1]).range([height, 0])
-    
-    svg.append('g')
-        .attr("id", "y-axis-holder")
-        .attr("class", "axis-holder")
-        .call(
-            d3.axisLeft(y)
-            .tickSize(0)
-        )
-
-    // tick label
-    svg
-        // .call(g => g.selectAll(".tick line")
-        //     .attr("stroke-opacity", 0.2)
-        //     .attr("stroke-dasharray", "3,5")
-        //     .attr("stroke", "#9a9a9a")
-        // )
-        .call(g => g.selectAll(".tick text")
-            .attr("font-size", "6pt")
-            .attr("fill", "black"))
-        .call(g => g.selectAll("#x-axis-holder .domain")
-            .attr("stroke-opacity", 0))
-
-
-    // plot
-    // let plot_area = svg.append("g")
-
-    
-    let rel_player = app.processed_list.filter(i => i.total_score > 5)
-    let data = rel_player.map(i => [{'id': i.id, 'gw': 0, 'value': 0}].concat(Object.entries(i[ptype]).map(j => {return {'id': i.id, 'gw': parseInt(j[0]), 'value': parseFloat(j[1])}})))
-
-    let single_player = plot_area.append('g')
-        .selectAll()
-        .data(data)
-        .enter()
-
-    single_player.append("path")
-        .attr("data-player-id", (d) => d[0].id)
-        .datum(d => d)
-        .attr("fill", "none")
-        .attr("class", "regular-line")
-        // .attr("stroke", "blue")
-        // .attr("stroke-width", 1.5)
-        .attr("d", d3.line()
-            .curve(d3.curveNatural)
-            // .curve(d3.curveLinear)
-            .x((d) => x(d.gw) + x.bandwidth() / 2)
-            .y((d) => y(d.value))
-        )
-        .on('click', (e,d) => {
-            if (!app.highlighted_players.includes(d[0].id)) {
-                app.highlighted_players.push(d[0].id)
-                app.plot_chart()
-            }
-        })
-
-    // 0 line # before higlights!
-    plot_area.append("line")
-        .attr("x1", 0)
-        .attr("y1", y(0))
-        .attr("x2", width)
-        .attr("y2", y(0))
-        .attr("class", "zero-line")
-
-
-
-    // higlighted players
-    let raw_hdata = app.processed_list.filter(i => highlighted_players.includes(i.id))
-
-    let hcolor = d3.scaleOrdinal().domain(raw_hdata.map(i => i.id)).range(d3.schemeTableau10)
-
-    let hdata = raw_hdata.map(i => [{'id': i.id, 'gw': 0, 'value': 0}].concat(Object.entries(i[ptype]).map(j => {return {'id': i.id, 'gw': parseInt(j[0]), 'value': parseFloat(j[1])}})))
-
-    let h_player = plot_area.append('g')
-        .selectAll()
-        .data(hdata)
-        .enter()
-
-    h_player.append("path")
-        .attr("data-player-id", (d) => d[0].id)
-        .attr("stroke", (d) => hcolor(d[0].id))
-        .datum(d => d)
-        .attr("fill", "none")
-        .attr("class", "highlighted-line")
-        // .attr("stroke", "blue")
-        // .attr("stroke-width", 1.5)
-        .attr("d", d3.line()
-            .curve(d3.curveNatural)
-            // .curve(d3.curveLinear)
-            .x((d) => x(d.gw) + x.bandwidth() / 2)
-            .y((d) => y(d.value))
-        )
-        .on('click', (e,d) => {
-            if (app.highlighted_players.includes(d[0].id)) {
-                app.removePlayer(d[0].id)
-                app.plot_chart()
-            }
-        })
-
-    let h_circles = plot_area.append('g')
-        .selectAll()
-        .data(hdata)
-        .enter()
-
-    h_circles.selectAll()
-        .data(d => d)
-        .enter()
-        .append("circle")
-        .attr("cx", (d) => x(d.gw) + x.bandwidth() / 2)
-        .attr("cy", (d) => y(d.value))
-        .attr("r", 4)
-        .style("fill", (d) => hcolor(d.id))
-        .style("stroke", "white")
-        .style("stroke-width", 1)
-        .style("opacity", 1);
-
-    // name line
-    let hdata_with_y = raw_hdata.map(i => { return {...i, final_pos: i[ptype][app.final_gw] } })
-    let pnames = plot_area.append('g')
-        .selectAll()
-        .data(hdata_with_y)
-        .enter()
-    
-    pnames
-        .append('g')
-        .attr("class", "hg-player")
-        .style("cursor", "move")
-        .append('text')
-        .attr("x", width - x.bandwidth() / 2 + 4)
-        .attr("y", (d) => y(d.final_pos))
-        .attr("text-anchor", "left")
-        .attr("alignment-baseline", "middle")
-        .attr("dominant-baseline", "middle")
-        .text((d) => d.name)
-        .style("font-size", "6pt")
-        .style("fill", (d) => hcolor(d.id))
-        .style("opacity", 1);
-
-    svg.selectAll(".hg-player").call(drag)
-    
-    let plot_title = {
-        'crp_diff_cxp': 'FPL 2022/2023 | Cumulative FPL Points vs Post-GW Expected Points Difference',
-        'crp_diff_cpp': 'FPL 2022/2023 | Cumulative FPL Points vs Pre-GW Predicted Points Difference',
-        'cxp_diff_cpp': 'FPL 2022/2023 | Cumulative Post-GW Expected Points vs Pre-GW Predicted Points Difference'
-    }[ptype]
-
-    svg.append('g')
-        .append('text')
-        .attr("x", 0)
-        .attr("y", -30)
-        .attr("text-anchor", "left")
-        .attr("alignment-baseline", "middle")
-        .attr("dominant-baseline", "middle")
-        .text(plot_title)
-        .attr("class", "plot-title-main");
-
-    let plot_subtitle = {
-        'crp_diff_cxp': `Difference between FPL points and expected points using underlying stats | Expectation data by ${app.use_fix ? "FantasyFootballFix" : "@FPL_Data and fbref"} | Viz by @sertalpbilal`,
-        // 'crp_diff_cpp': 'Difference between FPL points and predicted points by FPLReview | Prediction data by @fplreview | Viz by @sertalpbilal',
-        'crp_diff_cpp': 'Difference between FPL points and predicted points by Mikkel Tokvam | Prediction data by @mikkeltokvam | Viz by @sertalpbilal',
-        // 'cxp_diff_cpp': 'Difference between expected points and predicted points | Expectation data by @FPL_Data and fbref | Prediction data by @fplreview | Viz by @sertalpbilal'
-        'cxp_diff_cpp': `Difference between expected points and predicted points | Expectation data by ${app.use_fix ? "FantasyFootballFix" : "@FPL_Data and fbref"} | Prediction data by @mikkeltokvam | Viz by @sertalpbilal`
-    }[ptype]
-
-    svg.append('g')
-        .append('text')
-        .attr("x", 0)
-        .attr("y", -15)
-        .attr("text-anchor", "left")
-        .attr("alignment-baseline", "middle")
-        .attr("dominant-baseline", "middle")
-        .text(plot_subtitle)
-        .attr("class", "plot-title-sub");
-
-    // svg.append('image')
-    //     .attr('xlink:href', 'static/img/epl_logo.png')
-    //     .attr('width', 50)
-    //     .attr('height', 50)
-    //     // .style('filter', 'drop-shadow(2px 4px 6px black)')
-    //     .attr('x', width-85)
-    //     .attr('y', -50)
-
-    svg_actual.append('g').style("transform", `translate(${raw_width-140}px, 10px)`).html(fpl_logo.replace("WREPLACE", 100).replace("HREPLACE", 100/453*104))
-
-    d3.selectAll("#line_plot #y-axis-holder g") 
-        .append("line")
-        .attr("class", "gridline")
-        .attr("x1", 0) 
-        .attr("y1", 0)
-        .attr("x2", width)
-        .attr("y2", 0)
-        .attr("stroke", "black")
-        .attr("stroke-opacity", 0.1)
-        .attr("stroke-dasharray", "3,5");
-
-    d3.selectAll("#line_plot #x-axis-holder g") 
-        .append("line")
-        .attr("class", "gridline")
-        .attr("x1", 0) 
-        .attr("y1", -height)
-        .attr("x2", 0)
-        .attr("y2", 0)
-        .attr("stroke", "black")
-        .attr("stroke-opacity", 0.1)
-        .attr("stroke-dasharray", "3,5");
 
 
 }
@@ -536,8 +341,31 @@ $(document).ready(() => {
     ]).then(() => {
         console.log('ready')
         app.$nextTick(() => {
+            app.set_colors()
             app.plot_xg()
         })
     })
 
 })
+
+
+// universal drag logic
+function dragstarted(event, d) {
+    let item = d3.select(this)
+}
+function dragged(event, d) {
+    let matrix = new WebKitCSSMatrix(window.getComputedStyle(d3.select(this).node()).transform)
+    let current_x = matrix.m41 + event.dx
+    let current_y = matrix.m42 + event.dy
+    d3.select(this).style("transform", `translate(${current_x}px, ${current_y}px)`)
+}
+
+function dragended(event, d) {
+    let item = d3.select(this)
+}
+
+var drag = d3.drag()
+    .on("start", dragstarted)
+    .on("drag", dragged)
+    .on("end", dragended);
+

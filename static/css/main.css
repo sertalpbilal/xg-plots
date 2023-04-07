@@ -76,7 +76,7 @@ body {
 }
 
 .xgline {
-    font-size: 15pt;
+    font-size: 20pt;
 }
 
 .teamline {
@@ -84,7 +84,7 @@ body {
 }
 
 .mr-10 {
-    margin-right: 15px;
+    margin-right: 20px;
 }
 
 .crestimg {
@@ -104,5 +104,15 @@ body {
 }
 
 .box-value {
-    font-size: 12pt;
+    font-size: 15pt;
+}
+
+.text-v-small {
+    font-size: 100%;
+}
+
+@media screen and (max-width: 720px) {
+    .text-v-small {
+        font-size: x-small;
+    }
 }
