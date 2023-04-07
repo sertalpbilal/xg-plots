@@ -116,3 +116,47 @@ body {
         font-size: x-small;
     }
 }
+
+#signature:before {
+    content: "";
+    position: absolute;
+    padding-left: 0px;
+    margin-left: -30px;
+    height: 20px;
+    background-color: #37003c;
+    background-position: -50px 0px;
+    z-index: 0;
+    -webkit-mask-image: url(/static/img/curve2.svg);
+    width: 50px;
+}
+
+#signature {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    /* background-image: url(/static/img/curve2.svg); */
+    background-repeat: no-repeat;
+    background-attachment: unset;
+    background-position: 0px 0px;
+    font-size: 7pt;
+}
+
+#signature div {
+    background-color: #37003c;
+    height: 20px;
+    padding-right: 8px;
+    color: wheat;
+    line-height: 20px;
+    /* letter-spacing: -0.4px; */
+    font-family: 'PremierSans-Regular';
+    position: relative;
+    bottom: 0px;
+    z-index: 2;
+    right: 0px;
+}
+
+.creditline {
+    font-size: 18pt;
+    font-weight: bold;
+    color: #af7aa1;
+}

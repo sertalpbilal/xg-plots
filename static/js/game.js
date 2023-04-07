@@ -301,7 +301,19 @@ function plot_game_xg() {
 
 
     // Credit
-
+    plot_area.append("foreignObject")
+    .attr("x", 0)
+    .attr("y", plot_height + 30)
+    .attr("width", plot_width)
+    .attr("height", plot_margin.top)
+    .html(function(d) {
+        return `
+        <div class="outer text-center">
+            <div class="text-center w-100 creditline">
+                Viz by <i style="color: #26a7de;" class="fab fa-twitter"></i>sertalpbilal | Data by OPTA
+            </div>
+        </div>
+        `})
 
 }
 
