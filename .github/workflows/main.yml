@@ -34,5 +34,7 @@ jobs:
           git add index.json
           git config user.name "Github Action"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Automated build $GITHUB_RUN_ID"
-          git push
+          if ! git diff-index --quiet HEAD; then
+              git commit -m "Automated build $GITHUB_RUN_ID"
+              git push
+          fi
