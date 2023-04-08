@@ -42,7 +42,7 @@ def generate_index():
 if __name__ == "__main__":
     games = fetch_game_ids()
     print(f"Total number of games: {len(games)}")
-    # for g in games:
-    #     download_game_data(g)
+    for g in games:
+        download_game_data(g)
     generate_index()
 

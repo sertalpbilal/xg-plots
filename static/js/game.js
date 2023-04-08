@@ -192,8 +192,6 @@ function plot_game_xg() {
 
     let side_color = (e) => e == 'home' ? app.home_color : app.away_color
 
-    debugger
-
     // Plot
     plot_area.selectAll()
         .data(['home', 'away'])
@@ -262,7 +260,7 @@ function plot_game_xg() {
         .attr("x", 0)
         .attr("y", -plot_margin.top)
         .attr("width", plot_width)
-        .attr("height", plot_margin.top)
+        .attr("height", plot_margin.top-50)
         .html(function(d) {
             return `
             <div class="outer">
@@ -299,11 +297,48 @@ function plot_game_xg() {
             // `
         })
 
+    // Axis Labels
+    plot_area
+        .append("text")
+        .attr("class", "halftext")
+        .text("1st Half")
+        .attr("y", -20)
+        .attr("x", x(22.25))
+        .attr("text-anchor", 'middle')
+        .attr("alignment-baseline", "middle")
+        .attr("dominant-baseline", "middle")
+        .attr("fill", "black")
+        .style("font-size", "20pt")
+
+    plot_area
+        .append("text")
+        .attr("class", "halftext")
+        .text("2nd Half")
+        .attr("y", -20)
+        .attr("x", x(68.25))
+        .attr("text-anchor", 'middle')
+        .attr("alignment-baseline", "middle")
+        .attr("dominant-baseline", "middle")
+        .attr("fill", "black")
+        .style("font-size", "20pt")
+
+    plot_area
+        .append("text")
+        .attr("class", "halftext")
+        .text("Minutes")
+        .attr("y", plot_height + 80)
+        .attr("x", x(45.5))
+        .attr("text-anchor", 'middle')
+        .attr("alignment-baseline", "middle")
+        .attr("dominant-baseline", "middle")
+        .attr("fill", "black")
+        .style("font-size", "20pt")
+
 
     // Credit
     plot_area.append("foreignObject")
     .attr("x", 0)
-    .attr("y", plot_height + 30)
+    .attr("y", plot_height + 48)
     .attr("width", plot_width)
     .attr("height", plot_margin.top)
     .html(function(d) {
