@@ -107,7 +107,7 @@ function plot_game_xg() {
 
     // Axis
 
-    let plot_margin = { top: 150, left: 180,  bottom: 110, right: 180 }
+    let plot_margin = { top: 150, left: 150,  bottom: 110, right: 80 }
     let plot_area = svg.append('g').attr("transform", "translate(" + plot_margin.left + "," + plot_margin.top + ")")
     let plot_width = width-plot_margin.left-plot_margin.right
     let plot_height = height-plot_margin.top-plot_margin.bottom
@@ -332,7 +332,20 @@ function plot_game_xg() {
         .attr("alignment-baseline", "middle")
         .attr("dominant-baseline", "middle")
         .attr("fill", "black")
-        .style("font-size", "20pt")
+        .style("font-size", "24pt")
+
+    plot_area
+        .append("text")
+        .attr("class", "halftext")
+        .text("Cumulative xG")
+        .attr("y", 0)
+        .attr("x", 0)
+        .attr("text-anchor", 'middle')
+        .attr("alignment-baseline", "middle")
+        .attr("dominant-baseline", "middle")
+        .attr("fill", "black")
+        .style("font-size", "24pt")
+        .style("transform", `translate(-100px, ${plot_height/2}px) rotate(-90deg)`)
 
 
     // Credit
