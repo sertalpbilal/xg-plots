@@ -30,10 +30,18 @@
                     </select>
                 </div>
                 <div class="form-group">
+                    <label for="homeColor2">Home Color Custom</label>
+                    <input type="color" id="homeColor2" v-model="home_color" style="width:85%;" @change="plot_xg">
+                </div>
+                <div class="form-group">
                     <label for="awayColor">Away Color</label>
                     <select class="form-control" id="awayColor" v-model="away_color"  @change="plot_xg">
                       <option v-for="i in away_color_options" :style="{'backgroundColor': i}">{{ '' + i }}</option>
                     </select>
+                </div>
+                <div class="form-group">
+                    <label for="awayColor2">Away Color Custom</label>
+                    <input type="color" id="awayColor2" v-model="away_color" style="width:85%;" @change="plot_xg">
                 </div>
             </div>
             <div class="mb-2">
