@@ -193,6 +193,58 @@ function plot_game_xg() {
     let side_color = (e) => e == 'home' ? app.home_color : app.away_color
 
     // Plot
+
+    // colored regions
+    // luck regions
+
+    plot_area.append("clipPath")
+      .attr("id", `below-away`)
+        .append("path")
+        .datum(xg_vals['away'])
+        .attr("d", d3.area()
+            .x((d) => x(d.min))
+            .y1(d => y(d.xg))
+            .y0(d => plot_height)
+            );
+
+    plot_area.append("clipPath")
+        .attr("id", `above-away`)
+        .append("path")
+        .datum(xg_vals['away'])
+        .attr("d", d3.area()
+            .x((d) => x(d.min))
+            .y1(d => y(d.xg))
+            .y0(d => 0)
+            );
+
+    plot_area.append('g')
+        .append("path")
+        .datum(xg_vals['home'])
+        .attr("fill", side_color('away'))
+        .attr("fill-opacity", 0.2)
+        .attr("clip-path", "url(#below-away)")
+        .attr("d", d3.area()
+            .x((d) => x(d.min))
+            .y1(d => y(d.xg))  
+            .y0(d => 0)
+            );
+
+    plot_area.append('g')
+        .append("path")
+        .datum(xg_vals['home'])
+        .attr("fill", side_color('home'))
+        .attr("fill-opacity", 0.2)
+        .attr("clip-path", "url(#above-away)")
+        .attr("d", d3.area()
+            .x((d) => x(d.min))
+            .y1(d => y(d.xg))  
+            .y0(d => plot_height)
+            );
+
+
+
+    // lines
+
     plot_area.selectAll()
         .data(['home', 'away'])
         .enter()
