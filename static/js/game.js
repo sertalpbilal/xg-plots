@@ -64,8 +64,13 @@ var app = new Vue({
         },
         players_by_xg() {
             if (_.isEmpty(this.game_xg)) { return []}
-            let game_xg = this.game_xg
+            let game_xg = _.cloneDeep(this.game_xg)
             let all_shots = game_xg['home'].concat(game_xg['away']).filter(i => i.info)
+            for (let i of all_shots) {
+                if (i.info.expectedGoals == null) {
+                    i.info.expectedGoals = 0
+                }
+            }
             let grouped = _.groupBy(all_shots, 'info.playerId')
             return _.orderBy(_.map(grouped, i => { return {values: i, 'total_xg':_.sumBy(i, 'info.expectedGoals'), 'best_xg': _.maxBy(i, 'info.expectedGoals').info.expectedGoals, 'shots': i.length, 'side': i[0].side, 'name': i[0].info.lastName}}), 'total_xg', 'desc')
 
