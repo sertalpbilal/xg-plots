@@ -8,12 +8,67 @@ var app = new Vue({
         home_color: '#000000',
         away_color: '#000000',
         home_color_options: ['#000000', '#FFFFFF', "#4e79a7","#f28e2c","#e15759","#76b7b2"],
-        away_color_options: ['#000000', '#FFFFFF', "#4e79a7","#f28e2c","#e15759","#76b7b2"]
+        away_color_options: ['#000000', '#FFFFFF', "#4e79a7","#f28e2c","#e15759","#76b7b2"],
+        highlight_player: undefined,
+        exclude_pen: false
     },
     computed: {
+        home_team_id() {
+            if (_.isEmpty(this.game_json)) { return undefined}
+            return this.game_json.general.homeTeam.id
+        },
+        away_team_id() {
+            if (_.isEmpty(this.game_json)) { return undefined}
+            return this.game_json.general.awayTeam.id
+        },
         shots () {
             if (_.isEmpty(this.game_json)) { return []}
             return this.game_json.content.shotmap.shots
+        },
+        game_xg() {
+            if (_.isEmpty(this.game_json)) { return {}}
+
+            let game_data = this.game_json
+            let home_id = game_data.general.homeTeam.id
+            let away_id = game_data.general.awayTeam.id
+            xg_vals = {'home': [{'min': 0, 'xg': 0, 'pid': null, 'info': null, 'side': 'home'}], 'away': [{'min': 0, 'xg': 0, 'pid': null, 'info': null, 'side': 'away'}]}
+            for (let shot of game_data.content.shotmap.shots) {
+                let side = shot.teamId == home_id && (!shot.isOwnGoal) ? 'home' : 'away'
+                let entry = _.cloneDeep(xg_vals[side].at(-1))
+                // base
+                // TODO: if I use d3 stepAfter, this is not needed
+                entry['pid'] = null
+                entry['min'] = shot.min
+                entry['info'] = null
+                entry['prev_xg'] = entry.xg
+                xg_vals[side].push(entry)
+                // new val
+                entry = _.cloneDeep(entry)
+                entry['pid'] = shot.playerId
+                entry['info'] = shot
+                entry['prev_xg'] = entry.xg
+                entry['xg'] += shot.expectedGoals
+                xg_vals[side].push(entry)
+            }
+            for (let side of ['home', 'away']) {
+                let last_entry = _.cloneDeep(xg_vals[side].at(-1))
+                last_entry['min'] = 91
+                last_entry['pid'] = null
+                last_entry['info'] = null
+                last_entry['prev_xg'] = last_entry.xg
+                xg_vals[side].push(last_entry)
+            }
+
+            return xg_vals
+
+        },
+        players_by_xg() {
+            if (_.isEmpty(this.game_xg)) { return []}
+            let game_xg = this.game_xg
+            let all_shots = game_xg['home'].concat(game_xg['away']).filter(i => i.info)
+            let grouped = _.groupBy(all_shots, 'info.playerId')
+            return _.orderBy(_.map(grouped, i => { return {values: i, 'total_xg':_.sumBy(i, 'info.expectedGoals'), 'best_xg': _.maxBy(i, 'info.expectedGoals').info.expectedGoals, 'shots': i.length, 'side': i[0].side, 'name': i[0].info.lastName}}), 'total_xg', 'desc')
+
         }
     },
     methods: {
@@ -30,6 +85,15 @@ var app = new Vue({
             this.away_color_options.push(this.game_json.general.teamColors.awayColors.colorAwayAlternate)
             this.away_color = this.game_json.general.teamColors.away;
         },
+        toggle_highlight(v) {
+            if (this.highlight_player == v) {
+                this.highlight_player = undefined
+            }
+            else {
+                this.highlight_player = v
+            }
+            this.plot_xg()
+        }
     }
 })
 
@@ -72,33 +136,8 @@ function plot_game_xg() {
     }
 
     // Data
-    let game_data = app.game_json
-    home_id = game_data.general.homeTeam.id
-    away_id = game_data.general.awayTeam.id
-    xg_vals = {'home': [{'min': 0, 'xg': 0, 'pid': null, 'info': null, 'side': 'home'}], 'away': [{'min': 0, 'xg': 0, 'pid': null, 'info': 'away'}]}
-    for (let shot of game_data.content.shotmap.shots) {
-        let side = shot.teamId == home_id && (!shot.isOwnGoal) ? 'home' : 'away'
-        let entry = _.cloneDeep(xg_vals[side].at(-1))
-        // base
-        // TODO: if I use d3 stepAfter, this is not needed
-        entry['pid'] = null
-        entry['min'] = shot.min
-        entry['info'] = null
-        xg_vals[side].push(entry)
-        // new val
-        entry = _.cloneDeep(entry)
-        entry['pid'] = shot.playerId
-        entry['info'] = shot
-        entry['xg'] += shot.expectedGoals
-        xg_vals[side].push(entry)
-    }
-    for (let side of ['home', 'away']) {
-        let last_entry = _.cloneDeep(xg_vals[side].at(-1))
-        last_entry['min'] = 91
-        last_entry['pid'] = null
-        last_entry['info'] = null
-        xg_vals[side].push(last_entry)
-    }
+    let game_data = _.cloneDeep(this.game_json)
+    let xg_vals = app.game_xg
     
     max_xg = Math.max(xg_vals.home.at(-1).xg, xg_vals.away.at(-1).xg)
 
@@ -242,6 +281,26 @@ function plot_game_xg() {
             );
 
 
+    // highlights
+    let hp = app.highlight_player
+    if (hp != undefined) {
+        let all_shots = _.cloneDeep(xg_vals['home'].concat(xg_vals['away']).filter(i => i.info))
+        let player_actions = all_shots.filter(i => i.info.playerId == hp)
+
+        plot_area.selectAll()
+            .data(player_actions)
+            .enter()
+            .append("line")
+            // .style('stroke', d => side_color(d))
+            .attr("fill", "none")
+            .attr("class", "highlight-line")
+            .attr("x1", d => x(d.min))
+            .attr("x2", d => x(d.min))
+            .attr("y1", d => y(d.prev_xg))
+            .attr("y2", d => y(d.xg))
+
+    }
+
 
     // lines
 
@@ -269,6 +328,9 @@ function plot_game_xg() {
         //         app.plot_chart()
         //     }
         // })
+
+
+    
 
 
     // Goals
@@ -304,7 +366,8 @@ function plot_game_xg() {
 
     // Titles
     // Labels
-    league_title = game_data['general']['parentLeagueName'] + ' ' + game_data['general']['parentLeagueSeason']
+    game_data = _.cloneDeep(app.game_json)
+    league_title = game_data.general.parentLeagueName + ' ' + game_data.general.parentLeagueSeason
     date_title = game_data['matchTimeUTC']
     overall_title = transformed(game_data.general.homeTeam.name) + ' ' + game_data.header.status.scoreStr + ' ' + transformed(game_data.general.awayTeam.name)
 

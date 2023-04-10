@@ -22,7 +22,12 @@
     <div class="container" id="app">
         <div class="text-center">
             <div class="mb-2"><a href="index.html"><< Back</a></div>
-            <div class="mb-2 d-flex">
+            
+            <div class="mb-2">
+                <div id="xg_race"></div>
+            </div>
+
+            <div class="mb-2 d-flex flex-wrap">
                 <div class="form-group">
                     <label for="homeColor">Home Color</label>
                     <select class="form-control" id="homeColor" v-model="home_color"  @change="plot_xg">
@@ -44,41 +49,83 @@
                     <input type="color" id="awayColor2" v-model="away_color" style="width:85%;" @change="plot_xg">
                 </div>
             </div>
-            <div class="mb-2">
-                <div id="xg_race"></div>
-            </div>
+
             <div class="mb-4">
-                <div class="mb-2">Game Shots</div>
-                <div class="table-responsive">
-                    <table class="table table-sm table-striped text-v-small">
-                        <thead>
-                            <tr>
-                                <!-- <th>Shot</th> -->
-                                <th>Result</th>
-                                <th>Player</th>
-                                <th>Min</th>
-                                <th>Situation</th>
-                                <th>Shot Type</th>
-                                <th>Shot xG</th>
-                                <th class="border-left-variant">Home xG</th>
-                                <th>Away xG</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr v-for="shot in shots">
-                                <!-- <td>{{ shot }}</td> -->
-                                <td :style="{color: shot.eventType == 'Goal' ? 'steelblue': 'darkred'}">{{ shot.eventType }}</td>
-                                <td>{{ shot.playerName }}</td>
-                                <td>{{ shot.min }}</td>
-                                <td>{{ shot.situation }}</td>
-                                <td>{{ shot.shotType }}</td>
-                                <td>{{ _.round(shot.expectedGoals,3).toFixed(3) }}</td>
-                                <td class="border-left-variant">{{ _.round(_.sum(shots.filter(i => i.min <= shot.min && i.teamId == game_json.general.homeTeam.id).map(i => i.expectedGoals)),3).toFixed(3) }}</td>
-                                <td>{{ _.round(_.sum(shots.filter(i => i.min <= shot.min && i.teamId == game_json.general.awayTeam.id).map(i => i.expectedGoals)),3).toFixed(3) }}</td>
-                            </tr>
-                        </tbody>
-                    </table>
+
+                <div>
+                    <ul class="nav nav-tabs text-v-small" id="myTab" role="tablist">
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link active" id="shots-tab" data-bs-toggle="tab" data-bs-target="#shots-tab-pane" type="button" role="tab" aria-controls="shots-tab-pane" aria-selected="true">Game Shots</button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="players-tab" data-bs-toggle="tab" data-bs-target="#players-tab-pane" type="button" role="tab" aria-controls="players-tab-pane" aria-selected="false">Players</button>
+                        </li>
+                    </ul>
+                    <div class="tab-content" id="myTabContent">
+                        <div class="tab-pane fade show active" id="shots-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
+                            <!-- <div class="mb-2 mt-2">Game Shots</div> -->
+                            <div class="table-responsive">
+                                <table class="table table-sm table-striped text-v-small">
+                                    <thead>
+                                        <tr>
+                                            <!-- <th>Shot</th> -->
+                                            <th>Result</th>
+                                            <th>Player</th>
+                                            <th>Min</th>
+                                            <th>Situation</th>
+                                            <th>Shot Type</th>
+                                            <th>Shot xG</th>
+                                            <th class="border-left-variant">Home xG</th>
+                                            <th>Away xG</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr v-for="shot in shots">
+                                            <!-- <td>{{ shot }}</td> -->
+                                            <td :style="{color: shot.eventType == 'Goal' ? 'steelblue': 'darkred'}">{{ shot.eventType }}</td>
+                                            <td :style="{color: shot.teamId == home_team_id ? home_color : away_color}">{{ shot.playerName }}</td>
+                                            <td>{{ shot.min }}</td>
+                                            <td>{{ shot.situation }}</td>
+                                            <td>{{ shot.shotType }}</td>
+                                            <td>{{ _.round(shot.expectedGoals,3).toFixed(3) }}</td>
+                                            <td class="border-left-variant">{{ _.round(_.sum(shots.filter(i => i.min <= shot.min && i.teamId == game_json.general.homeTeam.id).map(i => i.expectedGoals)),3).toFixed(3) }}</td>
+                                            <td>{{ _.round(_.sum(shots.filter(i => i.min <= shot.min && i.teamId == game_json.general.awayTeam.id).map(i => i.expectedGoals)),3).toFixed(3) }}</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="players-tab-pane" role="tabpanel" aria-labelledby="profile-tab" tabindex="0">
+                            <table class="table table-sm table-striped text-v-small">
+                                <thead>
+                                    <tr>
+                                        <!-- <th>Team</th> -->
+                                        <th>Display</th>
+                                        <th>Player</th>
+                                        <th>Total xG</th>
+                                        <th>Shots</th>
+                                        <th>Best xG</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr v-for="p in players_by_xg" :class="{'hplayer': highlight_player == p.values[0].info.playerId}">
+                                        <!-- <td>{{ p.side }}</td> -->
+                                        <td>
+                                            <button type="button" class="btn btn-primary btn-sm text-v-small btn-v-sm" @click="toggle_highlight(p.values[0].info.playerId)"><i class="fas fa-star"></i></button>
+                                        </td>
+                                        <td :style="{color: p.values[0].info.teamId == home_team_id ? home_color : away_color}">{{ p.name }}</td>
+                                        <td>{{ _.round(p.total_xg,2) }}</td>
+                                        <td>{{ p.shots }}</td>
+                                        <td>{{ _.round(p.best_xg,2) }}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
                 </div>
+
+
+                
             </div>
         </div>
     </div>
