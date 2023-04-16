@@ -112,8 +112,10 @@ var app = new Vue({
                     let download_name = app.game_json.seo.path + ".jpg"
                     link.download = download_name; // 'download.jpg';
                     document.body.appendChild(link);
-                    link.click();
-                    document.body.removeChild(link);
+                    setTimeout(() => {
+                        link.click();
+                        document.body.removeChild(link);
+                    }, 2500);
                 })
                 .catch(function (error) {
                     console.error('oops, something went wrong!', error);
