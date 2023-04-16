@@ -98,9 +98,33 @@ var app = new Vue({
                 this.highlight_player = v
             }
             this.plot_xg()
+        },
+        download_image() {
+            var node = document.getElementById('xg_race');
+
+            domtoimage
+                .toPng(node, copyDefaultStyles=true)
+                .then(function (dataUrl) {
+                    var img = new Image();
+                    img.src = dataUrl;
+                    var link = document.createElement('a');
+                    link.href = dataUrl;
+                    let download_name = app.game_json.seo.path + ".jpg"
+                    link.download = download_name; // 'download.jpg';
+                    document.body.appendChild(link);
+                    link.click();
+                    document.body.removeChild(link);
+                })
+                .catch(function (error) {
+                    console.error('oops, something went wrong!', error);
+                });
         }
     }
 })
+
+function download_as_image(img) {
+    
+}
 
 let name_transform = {
     'AFC Bournemouth': 'Bournemouth',
@@ -390,13 +414,13 @@ function plot_game_xg() {
                             <span class="teamline" style="color: ${side_color('home')}">${transformed(game_data.general.homeTeam.name)}</span>
                             <span class="text-center xgline">${xg_vals.home.at(-1).xg.toFixed(2)} xG</span>
                         </div>
-                        <div class="crest"><img class="crestimg" src="${game_data.header.teams[0].imageUrl}" /></div>
+                        <div class="crest"><img class="crestimg" src="https://api.allorigins.win/raw?url=${game_data.header.teams[0].imageUrl}" /></div>
                     </div>
                     <div class="col-2 d-flex flex-column justify-content-center">
                         <span class="scoreline">${game_data.header.status.scoreStr}</span>
                     </div>
                     <div class="col text-left d-flex">
-                        <div class="crest mr-10"><img class="crestimg" src="${game_data.header.teams[1].imageUrl}" /></div>
+                        <div class="crest mr-10"><img class="crestimg" src="https://api.allorigins.win/raw?url=${game_data.header.teams[1].imageUrl}" /></div>
                         <div class="d-flex flex-column">
                             <span class="teamline" style="color: ${side_color('away')}">${transformed(game_data.general.awayTeam.name)}</span>
                             <span class="text-center xgline">${xg_vals.away.at(-1).xg.toFixed(2)} xG</span>

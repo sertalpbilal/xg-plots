@@ -9,10 +9,11 @@
     <title>xG Plots - Game</title>
     <meta name="description" content="xG Plots">
     
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link href="https://cdn.jsdelivr.net/gh/gitbrent/bootstrap4-toggle@3.6.1/css/bootstrap4-toggle.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" integrity="sha512-q3eWabyZPc1XTCmF+8/LuE1ozpg5xxn7iO89yfSOd5/oKvyqLngoNGsx8jq92Y8eXJ/IRxQbEC+FGSYxtk2oiw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="static/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="static/css/bootstrap4-toggle.min.css" rel="stylesheet">
+    <!-- <link rel="stylesheet" href="static/css/fontawesome.min.css" integrity="sha512-q3eWabyZPc1XTCmF+8/LuE1ozpg5xxn7iO89yfSOd5/oKvyqLngoNGsx8jq92Y8eXJ/IRxQbEC+FGSYxtk2oiw==" crossorigin="anonymous" referrerpolicy="no-referrer" /> -->
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"> -->
+    <link href="static/css/css2.css" rel="stylesheet">
 
     <link rel="stylesheet" href="static/css/main.css">
 
@@ -22,6 +23,7 @@
     <div class="container" id="app">
         <div class="text-center">
             <div class="mb-2"><a href="index.html"><< Back</a></div>
+            <div class="mb-2"><button class="btn btn-sm btn-primary" @click="download_image">Download</button></div>
             
             <div class="mb-2">
                 <div id="xg_race"></div>
@@ -111,7 +113,7 @@
                                     <tr v-for="p in players_by_xg" :class="{'hplayer': highlight_player == p.values[0].info.playerId}">
                                         <!-- <td>{{ p.side }}</td> -->
                                         <td>
-                                            <button type="button" class="btn btn-primary btn-sm text-v-small btn-v-sm" @click="toggle_highlight(p.values[0].info.playerId)"><i class="fas fa-star"></i></button>
+                                            <button type="button" class="btn btn-primary btn-sm text-v-small btn-v-sm" @click="toggle_highlight(p.values[0].info.playerId)">★</button>
                                         </td>
                                         <td :style="{color: p.values[0].info.teamId == home_team_id ? home_color : away_color}">{{ p.name }}</td>
                                         <td>{{ _.round(p.total_xg,2) }}</td>
@@ -141,6 +143,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.21/jquery.csv.min.js" integrity="sha512-Y8iWYJDo6HiTo5xtml1g4QqHtl/PO1w+dmUpQfQSOTqKNsMhExfyPN2ncNAe9JuJUSKzwK/b6oaNPop4MXzkwg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.6.1/d3.js" integrity="sha512-pJbXh9nxFa1tkmI3Gxiay8+mKTW+QvM8aMrTSR4xcw671sTWkvlHBgnyqXCRr1HFkE0YwhoRZwcdUFFxP4D9Lg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdn.jsdelivr.net/npm/d3-scale-chromatic@3.0.0/dist/d3-scale-chromatic.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dom-to-image-more@3.1.1/dist/dom-to-image-more.min.js"></script>
 <script src="static/js/game.js"></script>
 
 </html>
