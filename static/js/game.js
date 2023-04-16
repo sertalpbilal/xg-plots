@@ -101,6 +101,7 @@ var app = new Vue({
         },
         download_image() {
             var node = document.getElementById('xg_race');
+            node.style.width = '1600px'
 
             domtoimage
                 .toPng(node, copyDefaultStyles=true)
@@ -115,6 +116,7 @@ var app = new Vue({
                     setTimeout(() => {
                         link.click();
                         document.body.removeChild(link);
+                        node.style.width = ''
                     }, 2500);
                 })
                 .catch(function (error) {
