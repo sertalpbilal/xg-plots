@@ -14,12 +14,15 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" integrity="sha512-q3eWabyZPc1XTCmF+8/LuE1ozpg5xxn7iO89yfSOd5/oKvyqLngoNGsx8jq92Y8eXJ/IRxQbEC+FGSYxtk2oiw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="static/css/css2.css" rel="stylesheet">
 
-    <link rel="stylesheet" href="static/css/main.css">
+    <link rel="stylesheet" href="static/css/main.css?id=1">
 
 </head>
 
 <body>
-    <div class="container" id="app">
+    <div class="container" id="app" :style="{'overflow': taking_screenshot ? 'hidden' : undefined}">
+        <div class="fill-screen" v-if="taking_screenshot">
+            Downloading the image...
+        </div>
         <div class="text-center">
             <div class="mb-2"><a href="index.html"><< Back</a></div>
             <div class="mb-2"><button class="btn btn-sm btn-primary" @click="download_image">Download</button></div>

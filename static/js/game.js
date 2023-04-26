@@ -10,7 +10,8 @@ var app = new Vue({
         home_color_options: ['#000000', '#FFFFFF', "#4e79a7","#f28e2c","#e15759","#76b7b2"],
         away_color_options: ['#000000', '#FFFFFF', "#4e79a7","#f28e2c","#e15759","#76b7b2"],
         highlight_player: undefined,
-        exclude_pen: false
+        exclude_pen: false,
+        taking_screenshot: false
     },
     computed: {
         home_team_id() {
@@ -78,17 +79,33 @@ var app = new Vue({
     },
     methods: {
         set_colors() {
-            this.home_color_options.push(this.game_json.general.teamColors.homeColors.color)
-            this.home_color_options.push(this.game_json.general.teamColors.homeColors.colorAlternate)
-            this.home_color_options.push(this.game_json.general.teamColors.homeColors.colorAway)
-            this.home_color_options.push(this.game_json.general.teamColors.homeColors.colorAwayAlternate)
-            this.home_color = this.game_json.general.teamColors.home;
+            try {
+                this.home_color_options.push(this.game_json.general.teamColors[0].color)
+                this.home_color_options.push(this.game_json.general.teamColors[0].colorAlternate)
+                this.home_color_options.push(this.game_json.general.teamColors[0].colorAway)
+                this.home_color_options.push(this.game_json.general.teamColors[0].colorAwayAlternate)
+                this.home_color = this.game_json.general.teamColors[0].color;
 
-            this.away_color_options.push(this.game_json.general.teamColors.awayColors.color)
-            this.away_color_options.push(this.game_json.general.teamColors.awayColors.colorAlternate)
-            this.away_color_options.push(this.game_json.general.teamColors.awayColors.colorAway)
-            this.away_color_options.push(this.game_json.general.teamColors.awayColors.colorAwayAlternate)
-            this.away_color = this.game_json.general.teamColors.away;
+                this.away_color_options.push(this.game_json.general.teamColors[1].color)
+                this.away_color_options.push(this.game_json.general.teamColors[1].colorAlternate)
+                this.away_color_options.push(this.game_json.general.teamColors[1].colorAway)
+                this.away_color_options.push(this.game_json.general.teamColors[1].colorAwayAlternate)
+                this.away_color = this.game_json.general.teamColors[1].color;
+            }
+            catch {
+                this.home_color_options.push(this.game_json.general.teamColors.homeColors.color)
+                this.home_color_options.push(this.game_json.general.teamColors.homeColors.colorAlternate)
+                this.home_color_options.push(this.game_json.general.teamColors.homeColors.colorAway)
+                this.home_color_options.push(this.game_json.general.teamColors.homeColors.colorAwayAlternate)
+                this.home_color = this.game_json.general.teamColors.home;
+
+                this.away_color_options.push(this.game_json.general.teamColors.awayColors.color)
+                this.away_color_options.push(this.game_json.general.teamColors.awayColors.colorAlternate)
+                this.away_color_options.push(this.game_json.general.teamColors.awayColors.colorAway)
+                this.away_color_options.push(this.game_json.general.teamColors.awayColors.colorAwayAlternate)
+                this.away_color = this.game_json.general.teamColors.away;
+            }
+            
         },
         toggle_highlight(v) {
             if (this.highlight_player == v) {
@@ -100,28 +117,36 @@ var app = new Vue({
             this.plot_xg()
         },
         download_image() {
-            var node = document.getElementById('xg_race');
-            node.style.width = '1600px'
 
-            domtoimage
-                .toPng(node, copyDefaultStyles=true)
-                .then(function (dataUrl) {
-                    var img = new Image();
-                    img.src = dataUrl;
-                    var link = document.createElement('a');
-                    link.href = dataUrl;
-                    let download_name = app.game_json.seo.path + ".jpg"
-                    link.download = download_name; // 'download.jpg';
-                    document.body.appendChild(link);
-                    setTimeout(() => {
-                        link.click();
-                        document.body.removeChild(link);
-                        node.style.width = ''
-                    }, 2500);
-                })
-                .catch(function (error) {
-                    console.error('oops, something went wrong!', error);
-                });
+            app.taking_screenshot = true
+
+            setTimeout(() => {
+                var node = document.getElementById('xg_race');
+                node.style.width = '1600px'
+
+                domtoimage
+                    .toPng(node, copyDefaultStyles=true)
+                    .then(function (dataUrl) {
+                        var img = new Image();
+                        img.src = dataUrl;
+                        var link = document.createElement('a');
+                        link.href = dataUrl;
+                        let download_name = app.game_json.seo.path + ".jpg"
+                        link.download = download_name; // 'download.jpg';
+                        document.body.appendChild(link);
+                        setTimeout(() => {
+                            link.click();
+                            document.body.removeChild(link);
+                            node.style.width = ''
+                            app.taking_screenshot = false
+                        }, 2500);
+                    })
+                    .catch(function (error) {
+                        console.error('oops, something went wrong!', error);
+                    });
+            }, 100)
+
+            
         }
     }
 })
