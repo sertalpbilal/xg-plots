@@ -37,7 +37,7 @@ def generate_index():
             d = json.load(f)
         games.append(d['general'])
     with open("../index.json", "w") as f:
-        json.dump(games, f)
+        json.dump(games, f, indent=2)
 
 if __name__ == "__main__":
     games = fetch_game_ids()
