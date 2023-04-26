@@ -595,6 +595,11 @@ function dragged(event, d) {
 
 function dragended(event, d) {
     let item = d3.select(this)
+    document.querySelector(".svg-plot").style.opacity = 0.99
+    setTimeout(() => {
+        document.querySelector(".svg-plot").style.opacity = 1
+    }, 1)
+    
 }
 
 var drag = d3.drag()
