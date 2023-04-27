@@ -1714,6 +1714,44 @@
     "finished": true
   },
   {
+    "matchId": "3901255",
+    "matchName": "Tottenham Hotspur-vs-Manchester United_Thu, Apr 27, 2023, 19:15 UTC",
+    "matchRound": "33",
+    "teamColors": [
+      {
+        "color": "#132257",
+        "colorAlternate": "#ffffff",
+        "colorAway": "#000000",
+        "colorAwayAlternate": "#566ACB"
+      },
+      {
+        "color": "#9f1300",
+        "colorAlternate": "#9f1300",
+        "colorAway": "#000000",
+        "colorAwayAlternate": "#FFFFFF"
+      }
+    ],
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 33",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2022/2023",
+    "homeTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "awayTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "matchTimeUTC": "Thu, Apr 27, 2023, 19:15 UTC",
+    "matchTimeUTCDate": "2023-04-27T19:15:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3900953",
     "matchName": "Crystal Palace-vs-Aston Villa_Sat, Aug 20, 2022, 14:00 UTC",
     "matchRound": "3",
@@ -8138,6 +8176,44 @@
     "finished": true
   },
   {
+    "matchId": "3901252",
+    "matchName": "Everton-vs-Newcastle United_Thu, Apr 27, 2023, 18:45 UTC",
+    "matchRound": "33",
+    "teamColors": [
+      {
+        "color": "#00369c",
+        "colorAlternate": "#3e5fd1",
+        "colorAway": "#f2acc2",
+        "colorAwayAlternate": "#f2acc2"
+      },
+      {
+        "color": "#000000",
+        "colorAlternate": "#ffffff",
+        "colorAway": "#2a45a0",
+        "colorAwayAlternate": "#2a45a0"
+      }
+    ],
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 33",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2022/2023",
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "matchTimeUTC": "Thu, Apr 27, 2023, 18:45 UTC",
+    "matchTimeUTCDate": "2023-04-27T18:45:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901084",
     "matchName": "Fulham-vs-Manchester United_Sun, Nov 13, 2022, 16:30 UTC",
     "matchRound": "16",
@@ -8574,6 +8650,44 @@
     },
     "matchTimeUTC": "Sat, Oct 8, 2022, 14:00 UTC",
     "matchTimeUTCDate": "2022-10-08T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "3901260",
+    "matchName": "Southampton-vs-AFC Bournemouth_Thu, Apr 27, 2023, 18:45 UTC",
+    "matchRound": "33",
+    "teamColors": [
+      {
+        "color": "#d71920",
+        "colorAlternate": "#d71920",
+        "colorAway": "#8fcbdf",
+        "colorAwayAlternate": "#8fcbdf"
+      },
+      {
+        "color": "#aa1818",
+        "colorAlternate": "#d32f35",
+        "colorAway": "#000000",
+        "colorAwayAlternate": "#ffffff"
+      }
+    ],
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 33",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2022/2023",
+    "homeTeam": {
+      "name": "Southampton",
+      "id": 8466
+    },
+    "awayTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "matchTimeUTC": "Thu, Apr 27, 2023, 18:45 UTC",
+    "matchTimeUTCDate": "2023-04-27T18:45:00.000Z",
     "started": true,
     "finished": true
   },
