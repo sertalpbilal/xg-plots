@@ -139,7 +139,7 @@ var app = new Vue({
                             document.body.removeChild(link);
                             node.style.width = ''
                             app.taking_screenshot = false
-                        }, 2500);
+                        }, 300);
                     })
                     .catch(function (error) {
                         console.error('oops, something went wrong!', error);
@@ -429,6 +429,30 @@ function plot_game_xg() {
     date_title = game_data['matchTimeUTC']
     overall_title = transformed(game_data.general.homeTeam.name) + ' ' + game_data.header.status.scoreStr + ' ' + transformed(game_data.general.awayTeam.name)
 
+    // let logo_url = (v) => `https://api.allorigins.win/raw?url=${v}`
+    let logo_url = (v) => `https://cors.alpscode.com/${v.replace("https://", "")}`
+
+    get_url(game_data.header.teams[0].imageUrl).then((data) => {
+        var reader = new FileReader();
+        reader.readAsDataURL(data); 
+        reader.onloadend = function() {
+            var base64data = reader.result;                
+            console.log(base64data);
+            document.querySelector("#home-image").src = base64data
+        }  
+    })
+
+    get_url(game_data.header.teams[1].imageUrl).then((data) => {
+        var reader = new FileReader();
+        reader.readAsDataURL(data); 
+        reader.onloadend = function() {
+            var base64data = reader.result;                
+            console.log(base64data);
+            document.querySelector("#away-image").src = base64data
+        }
+        
+    })
+
     plot_area.append("foreignObject")
         .attr("x", 0)
         .attr("y", -plot_margin.top)
@@ -443,13 +467,13 @@ function plot_game_xg() {
                             <span class="teamline" style="color: ${side_color('home')}">${transformed(game_data.general.homeTeam.name)}</span>
                             <span class="text-center xgline">${xg_vals.home.at(-1).xg.toFixed(2)} xG</span>
                         </div>
-                        <div class="crest"><img class="crestimg" src="https://api.allorigins.win/raw?url=${game_data.header.teams[0].imageUrl}" /></div>
+                        <div class="crest"><img class="crestimg" id="home-image" src="${logo_url(game_data.header.teams[0].imageUrl.replace("https://", ""))}" /></div>
                     </div>
                     <div class="col-2 d-flex flex-column justify-content-center">
                         <span class="scoreline">${game_data.header.status.scoreStr}</span>
                     </div>
                     <div class="col text-left d-flex">
-                        <div class="crest mr-10"><img class="crestimg" src="https://api.allorigins.win/raw?url=${game_data.header.teams[1].imageUrl}" /></div>
+                        <div class="crest mr-10"><img class="crestimg" id="away-image" src="${logo_url(game_data.header.teams[1].imageUrl.replace("https://", ""))}" /></div>
                         <div class="d-flex flex-column">
                             <span class="teamline" style="color: ${side_color('away')}">${transformed(game_data.general.awayTeam.name)}</span>
                             <span class="text-center xgline">${xg_vals.away.at(-1).xg.toFixed(2)} xG</span>
@@ -580,6 +604,33 @@ $(document).ready(() => {
     })
 
 })
+
+let proxy = "https://cors.alpscode.com"
+
+function get_url(url) {
+    return new Promise((resolve, reject) => {
+        $.ajax({
+            type: "GET",
+            url: `${proxy}/${url}`,
+            async: true,
+            headers: {
+                'Access-Control-Allow-Origin': '*',
+                'Access-Control-Allow-Methods': 'GET',
+                'X-Requested-With': 'XMLHttpRequest',
+                'Referrer-Policy': 'no-referrer-when-downgrade'
+            },
+            xhrFields:{
+                responseType: 'blob'
+            },
+            success: function(data) {
+                resolve(data);
+            },
+            error: function(xhr, status, error) {
+                reject(`Error when getting URL ${url} ${xhr} ${status} ${error}`)
+            }
+        });
+    });
+}
 
 
 // universal drag logic
