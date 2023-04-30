@@ -7970,6 +7970,44 @@
     "finished": true
   },
   {
+    "matchId": "3901269",
+    "matchName": "Liverpool-vs-Tottenham Hotspur_Sun, Apr 30, 2023, 15:30 UTC",
+    "matchRound": "34",
+    "teamColors": [
+      {
+        "color": "#d3171e",
+        "colorAlternate": "#d3171e",
+        "colorAway": "#00B2A9",
+        "colorAwayAlternate": "#ffffff"
+      },
+      {
+        "color": "#132257",
+        "colorAlternate": "#ffffff",
+        "colorAway": "#000000",
+        "colorAwayAlternate": "#566ACB"
+      }
+    ],
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 34",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2022/2023",
+    "homeTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "awayTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "matchTimeUTC": "Sun, Apr 30, 2023, 15:30 UTC",
+    "matchTimeUTCDate": "2023-04-30T15:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901143",
     "matchName": "Brentford-vs-Southampton_Sat, Feb 4, 2023, 15:00 UTC",
     "matchRound": "22",
