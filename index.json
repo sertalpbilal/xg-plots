@@ -3704,6 +3704,44 @@
     "finished": true
   },
   {
+    "matchId": "3901268",
+    "matchName": "Leicester City-vs-Everton_Mon, May 1, 2023, 19:00 UTC",
+    "matchRound": "34",
+    "teamColors": [
+      {
+        "color": "#0d47a1",
+        "colorAlternate": "#0d47a1",
+        "colorAway": "#FDBE11",
+        "colorAwayAlternate": "#FDBE11"
+      },
+      {
+        "color": "#00369c",
+        "colorAlternate": "#3e5fd1",
+        "colorAway": "#f2acc2",
+        "colorAwayAlternate": "#f2acc2"
+      }
+    ],
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 34",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2022/2023",
+    "homeTeam": {
+      "name": "Leicester City",
+      "id": 8197
+    },
+    "awayTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "matchTimeUTC": "Mon, May 1, 2023, 19:00 UTC",
+    "matchTimeUTCDate": "2023-05-01T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3900969",
     "matchName": "Nottingham Forest-vs-Tottenham Hotspur_Sun, Aug 28, 2022, 15:30 UTC",
     "matchRound": "4",
