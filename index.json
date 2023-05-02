@@ -3384,6 +3384,44 @@
     "finished": true
   },
   {
+    "matchId": "3901262",
+    "matchName": "Arsenal-vs-Chelsea_Tue, May 2, 2023, 19:00 UTC",
+    "matchRound": "34",
+    "teamColors": [
+      {
+        "color": "#bd0510",
+        "colorAlternate": "#bd0510",
+        "colorAway": "#9C824A",
+        "colorAwayAlternate": "#9C824A"
+      },
+      {
+        "color": "#064b95",
+        "colorAlternate": "#1E4492",
+        "colorAway": "#EAD73A",
+        "colorAwayAlternate": "#f2deb4"
+      }
+    ],
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 34",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2022/2023",
+    "homeTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "awayTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "matchTimeUTC": "Tue, May 2, 2023, 19:00 UTC",
+    "matchTimeUTCDate": "2023-05-02T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3900991",
     "matchName": "Wolverhampton Wanderers-vs-Southampton_Sat, Sep 3, 2022, 14:00 UTC",
     "matchRound": "6",
