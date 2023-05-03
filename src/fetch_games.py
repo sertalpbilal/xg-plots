@@ -18,6 +18,8 @@ def download_game_data(game):
     if os.path.exists(file_name):
         print(f"Game {game_id} data exists, skipping...")
         return
+    else:
+        print(f"Requesting game {game_id}...")
     r = requests.get(GAME_URL.format(match_id=game_id))
     if r.status_code == 200:
         json_data = r.json()
