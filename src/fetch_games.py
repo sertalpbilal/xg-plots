@@ -22,7 +22,11 @@ def download_game_data(game):
         print(f"Requesting game {game_id}...")
     r = requests.get(GAME_URL.format(match_id=game_id))
     if r.status_code == 200:
-        json_data = r.json()
+        try:
+            json_data = r.json()
+        except requests.exceptions.JSONDecodeError as e:
+            print("Cannot read JSON, incomplete data?")
+            return
         if not json_data['general']['started'] or not json_data['general']['finished']:
             print(f"Game {game_id} is not finished, skipping...")
             return
