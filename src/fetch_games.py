@@ -26,6 +26,7 @@ def download_game_data(game):
             json_data = r.json()
         except requests.exceptions.JSONDecodeError as e:
             print("Cannot read JSON, incomplete data?")
+            print(r.text)
             return
         if not json_data['general']['started'] or not json_data['general']['finished']:
             print(f"Game {game_id} is not finished, skipping...")
