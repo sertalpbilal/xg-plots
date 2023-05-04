@@ -8878,6 +8878,44 @@
     "finished": true
   },
   {
+    "matchId": "3901205",
+    "matchName": "Brighton & Hove Albion-vs-Manchester United_Thu, May 4, 2023, 19:00 UTC",
+    "matchRound": "28",
+    "teamColors": [
+      {
+        "color": "#0850A0",
+        "colorAlternate": "#095bb6",
+        "colorAway": "#ff5639",
+        "colorAwayAlternate": "#ff5639"
+      },
+      {
+        "color": "#9f1300",
+        "colorAlternate": "#9f1300",
+        "colorAway": "#000000",
+        "colorAwayAlternate": "#FFFFFF"
+      }
+    ],
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 28",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2022/2023",
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "matchTimeUTC": "Thu, May 4, 2023, 19:00 UTC",
+    "matchTimeUTCDate": "2023-05-04T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901201",
     "matchName": "West Ham United-vs-Aston Villa_Sun, Mar 12, 2023, 14:00 UTC",
     "matchRound": "27",
