@@ -552,6 +552,44 @@
     "finished": true
   },
   {
+    "matchId": "3901273",
+    "matchName": "Brighton & Hove Albion-vs-Everton_Mon, May 8, 2023, 16:30 UTC",
+    "matchRound": "35",
+    "teamColors": [
+      {
+        "color": "#0850A0",
+        "colorAlternate": "#095bb6",
+        "colorAway": "#ff5639",
+        "colorAwayAlternate": "#ff5639"
+      },
+      {
+        "color": "#00369c",
+        "colorAlternate": "#3e5fd1",
+        "colorAway": "#f2acc2",
+        "colorAwayAlternate": "#f2acc2"
+      }
+    ],
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 35",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2022/2023",
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "matchTimeUTC": "Mon, May 8, 2023, 16:30 UTC",
+    "matchTimeUTCDate": "2023-05-08T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901184",
     "matchName": "Brentford-vs-Fulham_Mon, Mar 6, 2023, 20:00 UTC",
     "matchRound": "26",
