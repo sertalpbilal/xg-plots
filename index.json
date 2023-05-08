@@ -5208,6 +5208,44 @@
     "finished": true
   },
   {
+    "matchId": "3901274",
+    "matchName": "Fulham-vs-Leicester City_Mon, May 8, 2023, 14:00 UTC",
+    "matchRound": "35",
+    "teamColors": [
+      {
+        "color": "#000000",
+        "colorAlternate": "#ffffff",
+        "colorAway": "#91c6ba",
+        "colorAwayAlternate": "#91c6ba"
+      },
+      {
+        "color": "#0d47a1",
+        "colorAlternate": "#0d47a1",
+        "colorAway": "#FDBE11",
+        "colorAwayAlternate": "#FDBE11"
+      }
+    ],
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 35",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2022/2023",
+    "homeTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "awayTeam": {
+      "name": "Leicester City",
+      "id": 8197
+    },
+    "matchTimeUTC": "Mon, May 8, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-05-08T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901210",
     "matchName": "Southampton-vs-Tottenham Hotspur_Sat, Mar 18, 2023, 15:00 UTC",
     "matchRound": "28",
