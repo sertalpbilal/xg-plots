@@ -9152,6 +9152,48 @@
     "finished": true
   },
   {
+    "matchId": "3901282",
+    "matchName": "Arsenal-vs-Brighton & Hove Albion_Sun, May 14, 2023, 15:30 UTC",
+    "matchRound": "36",
+    "teamColors": {
+      "darkMode": {
+        "home": "#bd0510",
+        "away": "#095bb6"
+      },
+      "lightMode": {
+        "home": "#bd0510",
+        "away": "#0850A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 36",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2022/2023",
+    "homeTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "matchTimeUTC": "Sun, May 14, 2023, 15:30 UTC",
+    "matchTimeUTCDate": "2023-05-14T15:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901144",
     "matchName": "Brighton & Hove Albion-vs-AFC Bournemouth_Sat, Feb 4, 2023, 15:00 UTC",
     "matchRound": "22",
