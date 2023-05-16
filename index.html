@@ -43,6 +43,13 @@
                             <td>{{ game.matchRound }}</td>
                             <td>{{ game.matchTimeUTC }}</td>
                         </tr>
+                        <tr class="clickable-game" @click="open_game_page" :data-href="'game.html?custom=1'">
+                            <td></td>
+                            <td>Custom</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
                     </tbody>
                 </table>
             </div>

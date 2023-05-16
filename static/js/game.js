@@ -156,6 +156,34 @@ var app = new Vue({
             }, 100)
 
             
+        },
+        upload_file() {
+            let e = document.querySelector("#f_upload")
+            let fd = new FormData();
+            let file = e.files[0];
+
+            if (file.type == "application/json") {
+                const reader = new FileReader()
+                reader.onload = (e) => {
+                    let content = JSON.parse(e.target.result)
+                    app.game_json = content
+                    
+                    app.$nextTick(() => {
+                        app.set_colors()
+                        app.plot_xg()
+                        $("#data-modal").modal('hide')
+                    })
+                };
+                reader.onerror = error => reject(error);
+                reader.readAsText(file);
+            }
+        },
+        showUploadName(e) {
+            let file_name = e.currentTarget.files[0].name;
+            $(e.currentTarget).next('label').html(file_name)
+        },
+        open_modal() {
+            $("#data-modal").modal('show')
         }
     }
 })
@@ -446,7 +474,7 @@ function plot_game_xg() {
         reader.readAsDataURL(data); 
         reader.onloadend = function() {
             var base64data = reader.result;                
-            console.log(base64data);
+            // console.log(base64data);
             document.querySelector("#home-image").src = base64data
         }  
     })
@@ -601,6 +629,10 @@ $(document).ready(() => {
     })
     console.log(queryDict)
     app.game_id = queryDict['id']
+
+    if (app.game_id == undefined) {
+        return
+    }
 
     Promise.all([
         fetch_game_json()

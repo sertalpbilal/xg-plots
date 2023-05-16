@@ -25,7 +25,7 @@
         </div>
         <div class="text-center">
             <div class="mb-2"><a href="index.html"><< Back</a></div>
-            <div class="mb-2"><button class="btn btn-sm btn-primary" @click="download_image">Download</button></div>
+            <div class="mb-2"><button class="btn btn-sm btn-primary m-2" @click="open_modal" v-if="_.isEmpty(game_json)">Upload</button><button class="btn btn-sm btn-primary m-2" @click="download_image">Download</button></div>
             
             <div class="mb-2">
                 <div id="xg_race"></div>
@@ -132,6 +132,36 @@
                 
             </div>
         </div>
+
+        <div class="modal fade" id="data-modal" tabindex="-1">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Upload Data</h5>
+                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <div class="input-group form-row">
+                                <div class="custom-file col-auto">
+                                    <input type="file" accept=".json"
+                                        class="custom-file-input upload-prediction-inputs-single" id="f_upload" @change="showUploadName" name="f_upload">
+                                    <label class="custom-file-label" for="f_upload">Choose file</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary" @click="upload_file">Upload</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
     </div>
 
 </body>
