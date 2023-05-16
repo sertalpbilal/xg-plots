@@ -79,7 +79,8 @@ var app = new Vue({
     },
     methods: {
         set_colors() {
-            try {
+            let t = this.game_json.general.teamColors
+            if (Array.isArray(t)) {
                 this.home_color_options.push(this.game_json.general.teamColors[0].color)
                 this.home_color_options.push(this.game_json.general.teamColors[0].colorAlternate)
                 this.home_color_options.push(this.game_json.general.teamColors[0].colorAway)
@@ -92,7 +93,8 @@ var app = new Vue({
                 this.away_color_options.push(this.game_json.general.teamColors[1].colorAwayAlternate)
                 this.away_color = this.game_json.general.teamColors[1].color;
             }
-            catch {
+            else if (t?.homeColors) {
+                debugger
                 this.home_color_options.push(this.game_json.general.teamColors.homeColors.color)
                 this.home_color_options.push(this.game_json.general.teamColors.homeColors.colorAlternate)
                 this.home_color_options.push(this.game_json.general.teamColors.homeColors.colorAway)
@@ -104,6 +106,13 @@ var app = new Vue({
                 this.away_color_options.push(this.game_json.general.teamColors.awayColors.colorAway)
                 this.away_color_options.push(this.game_json.general.teamColors.awayColors.colorAwayAlternate)
                 this.away_color = this.game_json.general.teamColors.away;
+            }
+            else {
+                this.home_color_options.push(this.game_json.general.teamColors.lightMode.home)
+                this.home_color = this.game_json.general.teamColors.lightMode.home;
+
+                this.away_color_options.push(this.game_json.general.teamColors.lightMode.away)
+                this.away_color = this.game_json.general.teamColors.lightMode.away;
             }
             
         },
