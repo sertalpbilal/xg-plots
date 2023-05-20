@@ -5866,6 +5866,48 @@
     "finished": true
   },
   {
+    "matchId": "3901298",
+    "matchName": "Nottingham Forest-vs-Arsenal_Sat, May 20, 2023, 16:30 UTC",
+    "matchRound": "37",
+    "teamColors": {
+      "darkMode": {
+        "home": "#E83E3E",
+        "away": "#9C824A"
+      },
+      "lightMode": {
+        "home": "#940c10",
+        "away": "#9C824A"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 37",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2022/2023",
+    "homeTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "matchTimeUTC": "Sat, May 20, 2023, 16:30 UTC",
+    "matchTimeUTCDate": "2023-05-20T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901247",
     "matchName": "Fulham-vs-Leeds United_Sat, Apr 22, 2023, 11:30 UTC",
     "matchRound": "32",
