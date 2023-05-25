@@ -5870,6 +5870,48 @@
     "finished": true
   },
   {
+    "matchId": "3901250",
+    "matchName": "Manchester United-vs-Chelsea_Thu, May 25, 2023, 19:00 UTC",
+    "matchRound": "32",
+    "teamColors": {
+      "darkMode": {
+        "home": "#9f1300",
+        "away": "#1E4492"
+      },
+      "lightMode": {
+        "home": "#9f1300",
+        "away": "#064b95"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 32",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2022/2023",
+    "homeTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "awayTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "matchTimeUTC": "Thu, May 25, 2023, 19:00 UTC",
+    "matchTimeUTCDate": "2023-05-25T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901073",
     "matchName": "Chelsea-vs-Arsenal_Sun, Nov 6, 2022, 12:00 UTC",
     "matchRound": "15",
