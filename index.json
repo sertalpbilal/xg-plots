@@ -202,6 +202,48 @@
     "finished": true
   },
   {
+    "matchId": "4193455",
+    "matchName": "Sheffield United-vs-Crystal Palace_Sat, Aug 12, 2023, 14:00 UTC",
+    "matchRound": "1",
+    "teamColors": {
+      "darkMode": {
+        "home": "#c40003",
+        "away": "#004A97"
+      },
+      "lightMode": {
+        "home": "#B10000",
+        "away": "#004A97"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 1",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Sheffield United",
+      "id": 8657
+    },
+    "awayTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "matchTimeUTC": "Sat, Aug 12, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-08-12T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901164",
     "matchName": "Brighton & Hove Albion-vs-Fulham_Sat, Feb 18, 2023, 15:00 UTC",
     "matchRound": "24",
@@ -5080,6 +5122,48 @@
     "finished": true
   },
   {
+    "matchId": "4193454",
+    "matchName": "Everton-vs-Fulham_Sat, Aug 12, 2023, 14:00 UTC",
+    "matchRound": "1",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0048e6",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#00019E",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 1",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "matchTimeUTC": "Sat, Aug 12, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-08-12T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901103",
     "matchName": "Brighton & Hove Albion-vs-Arsenal_Sat, Dec 31, 2022, 17:30 UTC",
     "matchRound": "18",
@@ -7388,6 +7472,48 @@
     },
     "matchTimeUTC": "Fri, Oct 14, 2022, 19:00 UTC",
     "matchTimeUTCDate": "2022-10-14T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4193452",
+    "matchName": "AFC Bournemouth-vs-West Ham United_Sat, Aug 12, 2023, 14:00 UTC",
+    "matchRound": "1",
+    "teamColors": {
+      "darkMode": {
+        "home": "#d32f35",
+        "away": "#1BB1E7"
+      },
+      "lightMode": {
+        "home": "#aa1818",
+        "away": "#1BB1E7"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 1",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "awayTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "matchTimeUTC": "Sat, Aug 12, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-08-12T14:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -12746,6 +12872,48 @@
     },
     "matchTimeUTC": "Sun, May 28, 2023, 15:30 UTC",
     "matchTimeUTCDate": "2023-05-28T15:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4193453",
+    "matchName": "Brighton & Hove Albion-vs-Luton Town_Sat, Aug 12, 2023, 14:00 UTC",
+    "matchRound": "1",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#FA4616"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#FA4616"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 1",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Luton Town",
+      "id": 8346
+    },
+    "matchTimeUTC": "Sat, Aug 12, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-08-12T14:00:00.000Z",
     "started": true,
     "finished": true
   },
