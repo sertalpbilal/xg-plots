@@ -5728,6 +5728,48 @@
     "finished": true
   },
   {
+    "matchId": "4193458",
+    "matchName": "Chelsea-vs-Liverpool_Sun, Aug 13, 2023, 15:30 UTC",
+    "matchRound": "1",
+    "teamColors": {
+      "darkMode": {
+        "home": "#1E4492",
+        "away": "#d3171e"
+      },
+      "lightMode": {
+        "home": "#064b95",
+        "away": "#d3171e"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 1",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "awayTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "matchTimeUTC": "Sun, Aug 13, 2023, 15:30 UTC",
+    "matchTimeUTCDate": "2023-08-13T15:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901137",
     "matchName": "Leicester City-vs-Brighton & Hove Albion_Sat, Jan 21, 2023, 15:00 UTC",
     "matchRound": "21",
