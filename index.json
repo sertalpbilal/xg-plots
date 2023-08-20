@@ -12852,6 +12852,48 @@
     "finished": true
   },
   {
+    "matchId": "4193470",
+    "matchName": "Aston Villa-vs-Everton_Sun, Aug 20, 2023, 13:00 UTC",
+    "matchRound": "2",
+    "teamColors": {
+      "darkMode": {
+        "home": "#9d2358",
+        "away": "#0048e6"
+      },
+      "lightMode": {
+        "home": "#73103c",
+        "away": "#00019E"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 2",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "awayTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "matchTimeUTC": "Sun, Aug 20, 2023, 13:00 UTC",
+    "matchTimeUTCDate": "2023-08-20T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3900950",
     "matchName": "Southampton-vs-Leeds United_Sat, Aug 13, 2022, 14:00 UTC",
     "matchRound": "2",
