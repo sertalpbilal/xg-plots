@@ -834,6 +834,48 @@
     "finished": true
   },
   {
+    "matchId": "4193471",
+    "matchName": "Crystal Palace-vs-Arsenal_Mon, Aug 21, 2023, 19:00 UTC",
+    "matchRound": "2",
+    "teamColors": {
+      "darkMode": {
+        "home": "#004A97",
+        "away": "#bd0510"
+      },
+      "lightMode": {
+        "home": "#004A97",
+        "away": "#bd0510"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 2",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "matchTimeUTC": "Mon, Aug 21, 2023, 19:00 UTC",
+    "matchTimeUTCDate": "2023-08-21T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901273",
     "matchName": "Brighton & Hove Albion-vs-Everton_Mon, May 8, 2023, 16:30 UTC",
     "matchRound": "35",
