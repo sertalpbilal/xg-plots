@@ -3122,6 +3122,48 @@
     "finished": true
   },
   {
+    "matchId": "4193482",
+    "matchName": "Brentford-vs-Crystal Palace_Sat, Aug 26, 2023, 14:00 UTC",
+    "matchRound": "3",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C00808",
+        "away": "#004A97"
+      },
+      "lightMode": {
+        "home": "#C00808",
+        "away": "#004A97"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 3",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "awayTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "matchTimeUTC": "Sat, Aug 26, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-08-26T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901125",
     "matchName": "Chelsea-vs-Crystal Palace_Sun, Jan 15, 2023, 14:00 UTC",
     "matchRound": "20",
@@ -8340,6 +8382,48 @@
     "finished": true
   },
   {
+    "matchId": "4193481",
+    "matchName": "Arsenal-vs-Fulham_Sat, Aug 26, 2023, 14:00 UTC",
+    "matchRound": "3",
+    "teamColors": {
+      "darkMode": {
+        "home": "#bd0510",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#bd0510",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 3",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "awayTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "matchTimeUTC": "Sat, Aug 26, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-08-26T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901011",
     "matchName": "Wolverhampton Wanderers-vs-Manchester City_Sat, Sep 17, 2022, 11:30 UTC",
     "matchRound": "8",
@@ -9818,6 +9902,48 @@
     },
     "matchTimeUTC": "Sat, Mar 18, 2023, 17:30 UTC",
     "matchTimeUTCDate": "2023-03-18T17:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4193486",
+    "matchName": "Everton-vs-Wolverhampton Wanderers_Sat, Aug 26, 2023, 14:00 UTC",
+    "matchRound": "3",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0048e6",
+        "away": "#FDB913"
+      },
+      "lightMode": {
+        "home": "#00019E",
+        "away": "#d99b00"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 3",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Wolverhampton Wanderers",
+      "id": 8602
+    },
+    "matchTimeUTC": "Sat, Aug 26, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-08-26T14:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -12810,6 +12936,48 @@
     },
     "matchTimeUTC": "Wed, Mar 15, 2023, 19:30 UTC",
     "matchTimeUTCDate": "2023-03-15T19:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4193487",
+    "matchName": "Manchester United-vs-Nottingham Forest_Sat, Aug 26, 2023, 14:00 UTC",
+    "matchRound": "3",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C70101",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#C70101",
+        "away": "#82AFD9"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 3",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "awayTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "matchTimeUTC": "Sat, Aug 26, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-08-26T14:00:00.000Z",
     "started": true,
     "finished": true
   },
