@@ -15422,6 +15422,48 @@
     "finished": true
   },
   {
+    "matchId": "4193480",
+    "matchName": "AFC Bournemouth-vs-Tottenham Hotspur_Sat, Aug 26, 2023, 11:30 UTC",
+    "matchRound": "3",
+    "teamColors": {
+      "darkMode": {
+        "home": "#d32f35",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#aa1818",
+        "away": "#132257"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 3",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "awayTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "matchTimeUTC": "Sat, Aug 26, 2023, 11:30 UTC",
+    "matchTimeUTCDate": "2023-08-26T11:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3900952",
     "matchName": "AFC Bournemouth-vs-Arsenal_Sat, Aug 20, 2022, 16:30 UTC",
     "matchRound": "3",
