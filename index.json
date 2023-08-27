@@ -4686,6 +4686,48 @@
     "finished": true
   },
   {
+    "matchId": "4193488",
+    "matchName": "Newcastle United-vs-Liverpool_Sun, Aug 27, 2023, 15:30 UTC",
+    "matchRound": "3",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#d3171e"
+      },
+      "lightMode": {
+        "home": "#000000",
+        "away": "#d3171e"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 3",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "awayTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "matchTimeUTC": "Sun, Aug 27, 2023, 15:30 UTC",
+    "matchTimeUTCDate": "2023-08-27T15:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901190",
     "matchName": "Southampton-vs-Leicester City_Sat, Mar 4, 2023, 17:30 UTC",
     "matchRound": "26",
