@@ -6828,6 +6828,48 @@
     "finished": true
   },
   {
+    "matchId": "4193494",
+    "matchName": "Chelsea-vs-Nottingham Forest_Sat, Sep 2, 2023, 14:00 UTC",
+    "matchRound": "4",
+    "teamColors": {
+      "darkMode": {
+        "home": "#1E4492",
+        "away": "#C8102E"
+      },
+      "lightMode": {
+        "home": "#064b95",
+        "away": "#aa001a"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 4",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "awayTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "matchTimeUTC": "Sat, Sep 2, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-09-02T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901002",
     "matchName": "Aston Villa-vs-Southampton_Fri, Sep 16, 2022, 19:00 UTC",
     "matchRound": "8",
@@ -11308,6 +11350,48 @@
     "finished": true
   },
   {
+    "matchId": "4193491",
+    "matchName": "Brentford-vs-AFC Bournemouth_Sat, Sep 2, 2023, 14:00 UTC",
+    "matchRound": "4",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C00808",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#C00808",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 4",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "awayTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "matchTimeUTC": "Sat, Sep 2, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-09-02T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3900969",
     "matchName": "Nottingham Forest-vs-Tottenham Hotspur_Sun, Aug 28, 2022, 15:30 UTC",
     "matchRound": "4",
@@ -11422,6 +11506,48 @@
     },
     "matchTimeUTC": "Sat, Apr 22, 2023, 14:00 UTC",
     "matchTimeUTCDate": "2023-04-22T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4193498",
+    "matchName": "Manchester City-vs-Fulham_Sat, Sep 2, 2023, 14:00 UTC",
+    "matchRound": "4",
+    "teamColors": {
+      "darkMode": {
+        "home": "#69A8D8",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#69A8D8",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 4",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "awayTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "matchTimeUTC": "Sat, Sep 2, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-09-02T14:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -12346,6 +12472,48 @@
     },
     "matchTimeUTC": "Sat, Sep 2, 2023, 11:30 UTC",
     "matchTimeUTCDate": "2023-09-02T11:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4193493",
+    "matchName": "Burnley-vs-Tottenham Hotspur_Sat, Sep 2, 2023, 14:00 UTC",
+    "matchRound": "4",
+    "teamColors": {
+      "darkMode": {
+        "home": "#813868",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#5E1444",
+        "away": "#9d95c1"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 4",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "awayTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "matchTimeUTC": "Sat, Sep 2, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-09-02T14:00:00.000Z",
     "started": true,
     "finished": true
   },
