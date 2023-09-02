@@ -5090,6 +5090,48 @@
     "finished": true
   },
   {
+    "matchId": "4193492",
+    "matchName": "Brighton & Hove Albion-vs-Newcastle United_Sat, Sep 2, 2023, 16:30 UTC",
+    "matchRound": "4",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#141413"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 4",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "matchTimeUTC": "Sat, Sep 2, 2023, 16:30 UTC",
+    "matchTimeUTCDate": "2023-09-02T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193489",
     "matchName": "Sheffield United-vs-Manchester City_Sun, Aug 27, 2023, 13:00 UTC",
     "matchRound": "3",
