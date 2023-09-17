@@ -14764,6 +14764,49 @@
     "finished": true
   },
   {
+    "matchId": "4193502",
+    "matchName": "Everton-vs-Arsenal_Sun, Sep 17, 2023, 15:30 UTC",
+    "matchRound": "5",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0048e6",
+        "away": "#bd0510"
+      },
+      "lightMode": {
+        "home": "#00019E",
+        "away": "#bd0510"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 5",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Sep 17, 2023, 15:30 UTC",
+    "matchTimeUTCDate": "2023-09-17T15:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901236",
     "matchName": "Manchester City-vs-Leicester City_Sat, Apr 15, 2023, 16:30 UTC",
     "matchRound": "31",
