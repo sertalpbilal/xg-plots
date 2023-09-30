@@ -1332,6 +1332,49 @@
     "finished": true
   },
   {
+    "matchId": "4193521",
+    "matchName": "Aston Villa-vs-Brighton & Hove Albion_Sat, Sep 30, 2023, 11:30 UTC",
+    "matchRound": "7",
+    "teamColors": {
+      "darkMode": {
+        "home": "#9d2358",
+        "away": "#095bb6"
+      },
+      "lightMode": {
+        "home": "#73103c",
+        "away": "#0850A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 7",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Sep 30, 2023, 11:30 UTC",
+    "matchTimeUTCDate": "2023-09-30T11:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901260",
     "matchName": "Southampton-vs-AFC Bournemouth_Thu, Apr 27, 2023, 18:45 UTC",
     "matchRound": "33",
