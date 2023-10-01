@@ -7412,6 +7412,49 @@
     "finished": true
   },
   {
+    "matchId": "4193526",
+    "matchName": "Nottingham Forest-vs-Brentford_Sun, Oct 1, 2023, 13:00 UTC",
+    "matchRound": "7",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C8102E",
+        "away": "#88acce"
+      },
+      "lightMode": {
+        "home": "#aa001a",
+        "away": "#88acce"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 7",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "awayTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Oct 1, 2023, 13:00 UTC",
+    "matchTimeUTCDate": "2023-10-01T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193497",
     "matchName": "Luton Town-vs-West Ham United_Fri, Sep 1, 2023, 19:00 UTC",
     "matchRound": "4",
