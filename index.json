@@ -3305,6 +3305,49 @@
     "finished": true
   },
   {
+    "matchId": "4193537",
+    "matchName": "Manchester United-vs-Brentford_Sat, Oct 7, 2023, 14:00 UTC",
+    "matchRound": "8",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C70101",
+        "away": "#88acce"
+      },
+      "lightMode": {
+        "home": "#C70101",
+        "away": "#88acce"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 8",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "awayTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 7, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-10-07T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3900945",
     "matchName": "Brighton & Hove Albion-vs-Newcastle United_Sat, Aug 13, 2022, 14:00 UTC",
     "matchRound": "2",
@@ -6098,6 +6141,49 @@
     },
     "matchTimeUTC": "Sat, Feb 4, 2023, 17:30 UTC",
     "matchTimeUTCDate": "2023-02-04T17:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4193534",
+    "matchName": "Everton-vs-AFC Bournemouth_Sat, Oct 7, 2023, 14:00 UTC",
+    "matchRound": "8",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0048e6",
+        "away": "#d32f35"
+      },
+      "lightMode": {
+        "home": "#00019E",
+        "away": "#aa1818"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 8",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 7, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-10-07T14:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -9039,6 +9125,49 @@
     "finished": true
   },
   {
+    "matchId": "4193532",
+    "matchName": "Burnley-vs-Chelsea_Sat, Oct 7, 2023, 14:00 UTC",
+    "matchRound": "8",
+    "teamColors": {
+      "darkMode": {
+        "home": "#813868",
+        "away": "#1E4492"
+      },
+      "lightMode": {
+        "home": "#5E1444",
+        "away": "#064b95"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 8",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "awayTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 7, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-10-07T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901092",
     "matchName": "Arsenal-vs-West Ham United_Mon, Dec 26, 2022, 20:00 UTC",
     "matchRound": "17",
@@ -10288,6 +10417,49 @@
     },
     "matchTimeUTC": "Sat, Dec 31, 2022, 17:30 UTC",
     "matchTimeUTCDate": "2022-12-31T17:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4193535",
+    "matchName": "Fulham-vs-Sheffield United_Sat, Oct 7, 2023, 14:00 UTC",
+    "matchRound": "8",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#E30613"
+      },
+      "lightMode": {
+        "home": "#000000",
+        "away": "#E30613"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 8",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "awayTeam": {
+      "name": "Sheffield United",
+      "id": 8657
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 7, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-10-07T14:00:00.000Z",
     "started": true,
     "finished": true
   },
