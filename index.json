@@ -8506,6 +8506,49 @@
     "finished": true
   },
   {
+    "matchId": "4193548",
+    "matchName": "Sheffield United-vs-Manchester United_Sat, Oct 21, 2023, 19:00 UTC",
+    "matchRound": "9",
+    "teamColors": {
+      "darkMode": {
+        "home": "#E30613",
+        "away": "#FFFFFF"
+      },
+      "lightMode": {
+        "home": "#E30613",
+        "away": "#2B3737"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 9",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Sheffield United",
+      "id": 8657
+    },
+    "awayTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 21, 2023, 19:00 UTC",
+    "matchTimeUTCDate": "2023-10-21T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193481",
     "matchName": "Arsenal-vs-Fulham_Sat, Aug 26, 2023, 14:00 UTC",
     "matchRound": "3",
