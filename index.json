@@ -1259,6 +1259,49 @@
     "finished": true
   },
   {
+    "matchId": "4193558",
+    "matchName": "West Ham United-vs-Everton_Sun, Oct 29, 2023, 13:00 UTC",
+    "matchRound": "10",
+    "teamColors": {
+      "darkMode": {
+        "home": "#8B3249",
+        "away": "#0048e6"
+      },
+      "lightMode": {
+        "home": "#66192C",
+        "away": "#00019E"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 10",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "awayTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Oct 29, 2023, 13:00 UTC",
+    "matchTimeUTCDate": "2023-10-29T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901271",
     "matchName": "Newcastle United-vs-Southampton_Sun, Apr 30, 2023, 13:00 UTC",
     "matchRound": "34",
