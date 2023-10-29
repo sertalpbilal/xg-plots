@@ -2263,6 +2263,49 @@
     "finished": true
   },
   {
+    "matchId": "4193552",
+    "matchName": "Aston Villa-vs-Luton Town_Sun, Oct 29, 2023, 14:00 UTC",
+    "matchRound": "10",
+    "teamColors": {
+      "darkMode": {
+        "home": "#9d2358",
+        "away": "#FA4616"
+      },
+      "lightMode": {
+        "home": "#73103c",
+        "away": "#FA4616"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 10",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "awayTeam": {
+      "name": "Luton Town",
+      "id": 8346
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Oct 29, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-10-29T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901173",
     "matchName": "Crystal Palace-vs-Liverpool_Sat, Feb 25, 2023, 19:45 UTC",
     "matchRound": "25",
@@ -12785,6 +12828,49 @@
     "finished": true
   },
   {
+    "matchId": "4193556",
+    "matchName": "Liverpool-vs-Nottingham Forest_Sun, Oct 29, 2023, 14:00 UTC",
+    "matchRound": "10",
+    "teamColors": {
+      "darkMode": {
+        "home": "#d3171e",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#d3171e",
+        "away": "#82AFD9"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 10",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "awayTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Oct 29, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-10-29T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193479",
     "matchName": "Wolverhampton Wanderers-vs-Brighton & Hove Albion_Sat, Aug 19, 2023, 14:00 UTC",
     "matchRound": "2",
@@ -13109,6 +13195,49 @@
     },
     "matchTimeUTC": "Sat, Oct 1, 2022, 14:00 UTC",
     "matchTimeUTCDate": "2022-10-01T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4193553",
+    "matchName": "Brighton & Hove Albion-vs-Fulham_Sun, Oct 29, 2023, 14:00 UTC",
+    "matchRound": "10",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 10",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Oct 29, 2023, 14:00 UTC",
+    "matchTimeUTCDate": "2023-10-29T14:00:00.000Z",
     "started": true,
     "finished": true
   },
