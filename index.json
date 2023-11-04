@@ -16244,6 +16244,49 @@
     "finished": true
   },
   {
+    "matchId": "4193563",
+    "matchName": "Fulham-vs-Manchester United_Sat, Nov 4, 2023, 12:30 UTC",
+    "matchRound": "11",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#C70101"
+      },
+      "lightMode": {
+        "home": "#000000",
+        "away": "#C70101"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 11",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "awayTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Nov 4, 2023, 12:30 UTC",
+    "matchTimeUTCDate": "2023-11-04T12:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901291",
     "matchName": "Southampton-vs-Fulham_Sat, May 13, 2023, 14:00 UTC",
     "matchRound": "36",
