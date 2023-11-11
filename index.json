@@ -12966,6 +12966,49 @@
     "finished": true
   },
   {
+    "matchId": "4193570",
+    "matchName": "AFC Bournemouth-vs-Newcastle United_Sat, Nov 11, 2023, 17:30 UTC",
+    "matchRound": "12",
+    "teamColors": {
+      "darkMode": {
+        "home": "#d32f35",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#aa1818",
+        "away": "#141413"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 12",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "awayTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Nov 11, 2023, 17:30 UTC",
+    "matchTimeUTCDate": "2023-11-11T17:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901136",
     "matchName": "Leeds United-vs-Brentford_Sun, Jan 22, 2023, 14:00 UTC",
     "matchRound": "21",
