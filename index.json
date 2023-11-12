@@ -4109,6 +4109,49 @@
     "finished": true
   },
   {
+    "matchId": "4193574",
+    "matchName": "Chelsea-vs-Manchester City_Sun, Nov 12, 2023, 16:30 UTC",
+    "matchRound": "12",
+    "teamColors": {
+      "darkMode": {
+        "home": "#1E4492",
+        "away": "#69A8D8"
+      },
+      "lightMode": {
+        "home": "#064b95",
+        "away": "#69A8D8"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 12",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "homeTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "awayTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Nov 12, 2023, 16:30 UTC",
+    "matchTimeUTCDate": "2023-11-12T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193519",
     "matchName": "Sheffield United-vs-Newcastle United_Sun, Sep 24, 2023, 15:30 UTC",
     "matchRound": "6",
