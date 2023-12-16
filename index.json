@@ -10710,6 +10710,51 @@
     "finished": true
   },
   {
+    "matchId": "4193694",
+    "matchName": "Burnley-vs-Everton_Sat, Dec 16, 2023, 17:30 UTC",
+    "matchRound": "17",
+    "teamColors": {
+      "darkMode": {
+        "home": "#813868",
+        "away": "#0048e6"
+      },
+      "lightMode": {
+        "home": "#5E1444",
+        "away": "#00019E"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 17",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "awayTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 16, 2023, 17:30 UTC",
+    "matchTimeUTCDate": "2023-12-16T17:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901280",
     "matchName": "West Ham United-vs-Manchester United_Sun, May 7, 2023, 18:00 UTC",
     "matchRound": "35",
