@@ -3962,6 +3962,51 @@
     "finished": true
   },
   {
+    "matchId": "4193715",
+    "matchName": "Burnley-vs-Liverpool_Tue, Dec 26, 2023, 17:30 UTC",
+    "matchRound": "19",
+    "teamColors": {
+      "darkMode": {
+        "home": "#813868",
+        "away": "#d3171e"
+      },
+      "lightMode": {
+        "home": "#5E1444",
+        "away": "#d3171e"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 19",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "awayTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Tue, Dec 26, 2023, 17:30 UTC",
+    "matchTimeUTCDate": "2023-12-26T17:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901166",
     "matchName": "Everton-vs-Leeds United_Sat, Feb 18, 2023, 15:00 UTC",
     "matchRound": "24",
