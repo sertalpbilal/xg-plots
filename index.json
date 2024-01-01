@@ -9725,6 +9725,51 @@
     "finished": true
   },
   {
+    "matchId": "4193724",
+    "matchName": "Liverpool-vs-Newcastle United_Mon, Jan 1, 2024, 20:00 UTC",
+    "matchRound": "20",
+    "teamColors": {
+      "darkMode": {
+        "home": "#d3171e",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#d3171e",
+        "away": "#141413"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 20",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "awayTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Mon, Jan 1, 2024, 20:00 UTC",
+    "matchTimeUTCDate": "2024-01-01T20:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901061",
     "matchName": "Wolverhampton Wanderers-vs-Leicester City_Sun, Oct 23, 2022, 13:00 UTC",
     "matchRound": "13",
