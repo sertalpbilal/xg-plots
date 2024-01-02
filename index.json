@@ -18011,6 +18011,51 @@
     "finished": true
   },
   {
+    "matchId": "4193729",
+    "matchName": "West Ham United-vs-Brighton & Hove Albion_Tue, Jan 2, 2024, 19:30 UTC",
+    "matchRound": "20",
+    "teamColors": {
+      "darkMode": {
+        "home": "#8B3249",
+        "away": "#095bb6"
+      },
+      "lightMode": {
+        "home": "#66192C",
+        "away": "#0850A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 20",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Tue, Jan 2, 2024, 19:30 UTC",
+    "matchTimeUTCDate": "2024-01-02T19:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901272",
     "matchName": "AFC Bournemouth-vs-Chelsea_Sat, May 6, 2023, 14:00 UTC",
     "matchRound": "35",
