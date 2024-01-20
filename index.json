@@ -4795,6 +4795,51 @@
     "finished": true
   },
   {
+    "matchId": "4193732",
+    "matchName": "Arsenal-vs-Crystal Palace_Sat, Jan 20, 2024, 12:30 UTC",
+    "matchRound": "21",
+    "teamColors": {
+      "darkMode": {
+        "home": "#bd0510",
+        "away": "#0055A5"
+      },
+      "lightMode": {
+        "home": "#bd0510",
+        "away": "#0055A5"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 21",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "awayTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Jan 20, 2024, 12:30 UTC",
+    "matchTimeUTCDate": "2024-01-20T12:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901254",
     "matchName": "Nottingham Forest-vs-Brighton & Hove Albion_Wed, Apr 26, 2023, 18:30 UTC",
     "matchRound": "33",
