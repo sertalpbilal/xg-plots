@@ -22916,6 +22916,51 @@
     "finished": true
   },
   {
+    "matchId": "4193757",
+    "matchName": "Everton-vs-Tottenham Hotspur_Sat, Feb 3, 2024, 12:30 UTC",
+    "matchRound": "23",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0048e6",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#00019E",
+        "away": "#9d95c1"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 23",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Feb 3, 2024, 12:30 UTC",
+    "matchTimeUTCDate": "2024-02-03T12:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901203",
     "matchName": "Aston Villa-vs-AFC Bournemouth_Sat, Mar 18, 2023, 15:00 UTC",
     "matchRound": "28",
