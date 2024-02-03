@@ -35,6 +35,10 @@ def download_game_data(game):
             json.dump(json_data, f)
             print(f"Game {game_id} is downloaded!")
         time.sleep(0.5)
+    else:
+        print("Request is not successful")
+        print(r.status_code)
+        time.sleep(1)
 
 def generate_index():
     game_files = glob.glob("../data/*.json")
