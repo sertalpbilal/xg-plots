@@ -1325,6 +1325,51 @@
     "finished": true
   },
   {
+    "matchId": "4193755",
+    "matchName": "Burnley-vs-Fulham_Sat, Feb 3, 2024, 15:00 UTC",
+    "matchRound": "23",
+    "teamColors": {
+      "darkMode": {
+        "home": "#813868",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#5E1444",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 23",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "awayTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Feb 3, 2024, 15:00 UTC",
+    "matchTimeUTCDate": "2024-02-03T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193658",
     "matchName": "Nottingham Forest-vs-Brighton & Hove Albion_Sat, Nov 25, 2023, 15:00 UTC",
     "matchRound": "13",
@@ -1910,6 +1955,51 @@
     },
     "matchTimeUTC": "Mon, Dec 26, 2022, 15:00 UTC",
     "matchTimeUTCDate": "2022-12-26T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4193759",
+    "matchName": "Newcastle United-vs-Luton Town_Sat, Feb 3, 2024, 15:00 UTC",
+    "matchRound": "23",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#FA4616"
+      },
+      "lightMode": {
+        "home": "#141413",
+        "away": "#FA4616"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 23",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "awayTeam": {
+      "name": "Luton Town",
+      "id": 8346
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Feb 3, 2024, 15:00 UTC",
+    "matchTimeUTCDate": "2024-02-03T15:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -5775,6 +5865,51 @@
     },
     "matchTimeUTC": "Sun, Apr 2, 2023, 15:30 UTC",
     "matchTimeUTCDate": "2023-04-02T15:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4193754",
+    "matchName": "Brighton & Hove Albion-vs-Crystal Palace_Sat, Feb 3, 2024, 15:00 UTC",
+    "matchRound": "23",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#E91D12"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#E91D12"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 23",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Feb 3, 2024, 15:00 UTC",
+    "matchTimeUTCDate": "2024-02-03T15:00:00.000Z",
     "started": true,
     "finished": true
   },
