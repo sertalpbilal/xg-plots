@@ -5009,6 +5009,51 @@
     "finished": true
   },
   {
+    "matchId": "4193766",
+    "matchName": "Manchester City-vs-Everton_Sat, Feb 10, 2024, 12:30 UTC",
+    "matchRound": "24",
+    "teamColors": {
+      "darkMode": {
+        "home": "#69A8D8",
+        "away": "#0048e6"
+      },
+      "lightMode": {
+        "home": "#69A8D8",
+        "away": "#00019E"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 24",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "awayTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Feb 10, 2024, 12:30 UTC",
+    "matchTimeUTCDate": "2024-02-10T12:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193477",
     "matchName": "Tottenham Hotspur-vs-Manchester United_Sat, Aug 19, 2023, 16:30 UTC",
     "matchRound": "2",
