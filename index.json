@@ -2493,6 +2493,51 @@
     "finished": true
   },
   {
+    "matchId": "4193782",
+    "matchName": "Arsenal-vs-Newcastle United_Sat, Feb 24, 2024, 20:00 UTC",
+    "matchRound": "26",
+    "teamColors": {
+      "darkMode": {
+        "home": "#bd0510",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#bd0510",
+        "away": "#141413"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 26",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "awayTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Feb 24, 2024, 20:00 UTC",
+    "matchTimeUTCDate": "2024-02-24T20:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193740",
     "matchName": "Sheffield United-vs-West Ham United_Sun, Jan 21, 2024, 14:00 UTC",
     "matchRound": "21",
