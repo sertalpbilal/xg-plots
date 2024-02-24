@@ -6573,6 +6573,51 @@
     "finished": true
   },
   {
+    "matchId": "4193786",
+    "matchName": "Crystal Palace-vs-Burnley_Sat, Feb 24, 2024, 15:00 UTC",
+    "matchRound": "26",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0055A5",
+        "away": "#813868"
+      },
+      "lightMode": {
+        "home": "#0055A5",
+        "away": "#5E1444"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 26",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "awayTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Feb 24, 2024, 15:00 UTC",
+    "matchTimeUTCDate": "2024-02-24T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901176",
     "matchName": "Leeds United-vs-Southampton_Sat, Feb 25, 2023, 15:00 UTC",
     "matchRound": "25",
@@ -21347,6 +21392,51 @@
     "finished": true
   },
   {
+    "matchId": "4193788",
+    "matchName": "Manchester United-vs-Fulham_Sat, Feb 24, 2024, 15:00 UTC",
+    "matchRound": "26",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C70101",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#C70101",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 26",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "awayTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Feb 24, 2024, 15:00 UTC",
+    "matchTimeUTCDate": "2024-02-24T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3900985",
     "matchName": "Chelsea-vs-West Ham United_Sat, Sep 3, 2022, 14:00 UTC",
     "matchRound": "6",
@@ -23211,6 +23301,51 @@
     "finished": true
   },
   {
+    "matchId": "4193784",
+    "matchName": "Brighton & Hove Albion-vs-Everton_Sat, Feb 24, 2024, 15:00 UTC",
+    "matchRound": "26",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#FFFFFF"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#FFA900"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 26",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Feb 24, 2024, 15:00 UTC",
+    "matchTimeUTCDate": "2024-02-24T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193454",
     "matchName": "Everton-vs-Fulham_Sat, Aug 12, 2023, 14:00 UTC",
     "matchRound": "1",
@@ -24283,6 +24418,51 @@
     },
     "matchTimeUTC": "Sat, Oct 22, 2022, 14:00 UTC",
     "matchTimeUTCDate": "2022-10-22T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4193783",
+    "matchName": "Aston Villa-vs-Nottingham Forest_Sat, Feb 24, 2024, 15:00 UTC",
+    "matchRound": "26",
+    "teamColors": {
+      "darkMode": {
+        "home": "#9d2358",
+        "away": "#FF4C4C"
+      },
+      "lightMode": {
+        "home": "#73103c",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 26",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "awayTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Feb 24, 2024, 15:00 UTC",
+    "matchTimeUTCDate": "2024-02-24T15:00:00.000Z",
     "started": true,
     "finished": true
   },
