@@ -19900,6 +19900,51 @@
     "finished": true
   },
   {
+    "matchId": "4193802",
+    "matchName": "Arsenal-vs-Brentford_Sat, Mar 9, 2024, 17:30 UTC",
+    "matchRound": "28",
+    "teamColors": {
+      "darkMode": {
+        "home": "#bd0510",
+        "away": "#88acce"
+      },
+      "lightMode": {
+        "home": "#bd0510",
+        "away": "#88acce"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 28",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "awayTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Mar 9, 2024, 17:30 UTC",
+    "matchTimeUTCDate": "2024-03-09T17:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193535",
     "matchName": "Fulham-vs-Sheffield United_Sat, Oct 7, 2023, 14:00 UTC",
     "matchRound": "8",
