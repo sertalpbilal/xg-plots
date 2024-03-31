@@ -1042,6 +1042,51 @@
     "finished": true
   },
   {
+    "matchId": "4193826",
+    "matchName": "Manchester City-vs-Arsenal_Sun, Mar 31, 2024, 15:30 UTC",
+    "matchRound": "30",
+    "teamColors": {
+      "darkMode": {
+        "home": "#69A8D8",
+        "away": "#bd0510"
+      },
+      "lightMode": {
+        "home": "#69A8D8",
+        "away": "#bd0510"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 30",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Mar 31, 2024, 15:30 UTC",
+    "matchTimeUTCDate": "2024-03-31T15:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193458",
     "matchName": "Chelsea-vs-Liverpool_Sun, Aug 13, 2023, 15:30 UTC",
     "matchRound": "1",
