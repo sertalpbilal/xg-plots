@@ -6867,6 +6867,51 @@
     "finished": true
   },
   {
+    "matchId": "4193832",
+    "matchName": "Arsenal-vs-Luton Town_Wed, Apr 3, 2024, 18:30 UTC",
+    "matchRound": "31",
+    "teamColors": {
+      "darkMode": {
+        "home": "#bd0510",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#bd0510",
+        "away": "#002858"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 31",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "awayTeam": {
+      "name": "Luton Town",
+      "id": 8346
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Wed, Apr 3, 2024, 18:30 UTC",
+    "matchTimeUTCDate": "2024-04-03T18:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193453",
     "matchName": "Brighton & Hove Albion-vs-Luton Town_Sat, Aug 12, 2023, 14:00 UTC",
     "matchRound": "1",
@@ -7883,6 +7928,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Fri, Jan 12, 2024, 19:45 UTC",
     "matchTimeUTCDate": "2024-01-12T19:45:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4193833",
+    "matchName": "Brentford-vs-Brighton & Hove Albion_Wed, Apr 3, 2024, 18:30 UTC",
+    "matchRound": "31",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C00808",
+        "away": "#095bb6"
+      },
+      "lightMode": {
+        "home": "#C00808",
+        "away": "#0850A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 31",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Wed, Apr 3, 2024, 18:30 UTC",
+    "matchTimeUTCDate": "2024-04-03T18:30:00.000Z",
     "started": true,
     "finished": true
   },
