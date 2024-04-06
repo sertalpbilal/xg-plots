@@ -18863,6 +18863,51 @@
     "finished": true
   },
   {
+    "matchId": "4193842",
+    "matchName": "Brighton & Hove Albion-vs-Arsenal_Sat, Apr 6, 2024, 16:30 UTC",
+    "matchRound": "32",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#bd0510"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#bd0510"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 32",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 6, 2024, 16:30 UTC",
+    "matchTimeUTCDate": "2024-04-06T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193780",
     "matchName": "Tottenham Hotspur-vs-Wolverhampton Wanderers_Sat, Feb 17, 2024, 15:00 UTC",
     "matchRound": "25",
