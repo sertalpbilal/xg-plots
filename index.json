@@ -28444,6 +28444,51 @@
     "finished": true
   },
   {
+    "matchId": "4193811",
+    "matchName": "Arsenal-vs-Chelsea_Tue, Apr 23, 2024, 19:00 UTC",
+    "matchRound": "29",
+    "teamColors": {
+      "darkMode": {
+        "home": "#bd0510",
+        "away": "#1E4492"
+      },
+      "lightMode": {
+        "home": "#bd0510",
+        "away": "#064b95"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 29",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "awayTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Tue, Apr 23, 2024, 19:00 UTC",
+    "matchTimeUTCDate": "2024-04-23T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3900958",
     "matchName": "Manchester United-vs-Liverpool_Mon, Aug 22, 2022, 19:00 UTC",
     "matchRound": "3",
