@@ -27985,6 +27985,51 @@
     "finished": true
   },
   {
+    "matchId": "4193873",
+    "matchName": "Everton-vs-Brentford_Sat, Apr 27, 2024, 16:30 UTC",
+    "matchRound": "35",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0051d6",
+        "away": "#C00808"
+      },
+      "lightMode": {
+        "home": "#0035b8",
+        "away": "#C00808"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 35",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 27, 2024, 16:30 UTC",
+    "matchTimeUTCDate": "2024-04-27T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901013",
     "matchName": "AFC Bournemouth-vs-Brentford_Sat, Oct 1, 2022, 14:00 UTC",
     "matchRound": "9",
