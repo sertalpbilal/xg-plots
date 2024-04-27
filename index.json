@@ -1026,6 +1026,51 @@
     "finished": true
   },
   {
+    "matchId": "4193876",
+    "matchName": "Newcastle United-vs-Sheffield United_Sat, Apr 27, 2024, 14:00 UTC",
+    "matchRound": "35",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#E30613"
+      },
+      "lightMode": {
+        "home": "#141413",
+        "away": "#E30613"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 35",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "awayTeam": {
+      "name": "Sheffield United",
+      "id": 8657
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 27, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-04-27T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193485",
     "matchName": "Chelsea-vs-Luton Town_Fri, Aug 25, 2023, 19:00 UTC",
     "matchRound": "3",
@@ -2539,6 +2584,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Feb 3, 2024, 17:30 UTC",
     "matchTimeUTCDate": "2024-02-03T17:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4193874",
+    "matchName": "Fulham-vs-Crystal Palace_Sat, Apr 27, 2024, 14:00 UTC",
+    "matchRound": "35",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#0055A5"
+      },
+      "lightMode": {
+        "home": "#000000",
+        "away": "#0055A5"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 35",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "awayTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 27, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-04-27T14:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -7240,6 +7330,51 @@
     },
     "matchTimeUTC": "Sun, Mar 5, 2023, 14:00 UTC",
     "matchTimeUTCDate": "2023-03-05T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4193875",
+    "matchName": "Manchester United-vs-Burnley_Sat, Apr 27, 2024, 14:00 UTC",
+    "matchRound": "35",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C70101",
+        "away": "#813868"
+      },
+      "lightMode": {
+        "home": "#C70101",
+        "away": "#5E1444"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 35",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "awayTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 27, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-04-27T14:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -27306,6 +27441,51 @@
     },
     "matchTimeUTC": "Sun, May 7, 2023, 15:30 UTC",
     "matchTimeUTCDate": "2023-05-07T15:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4193880",
+    "matchName": "Wolverhampton Wanderers-vs-Luton Town_Sat, Apr 27, 2024, 14:00 UTC",
+    "matchRound": "35",
+    "teamColors": {
+      "darkMode": {
+        "home": "#FDB913",
+        "away": "#FA4616"
+      },
+      "lightMode": {
+        "home": "#d99b00",
+        "away": "#FA4616"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 35",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Wolverhampton Wanderers",
+      "id": 8602
+    },
+    "awayTeam": {
+      "name": "Luton Town",
+      "id": 8346
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 27, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-04-27T14:00:00.000Z",
     "started": true,
     "finished": true
   },
