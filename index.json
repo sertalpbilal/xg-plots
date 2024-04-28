@@ -17702,6 +17702,51 @@
     "finished": true
   },
   {
+    "matchId": "4193871",
+    "matchName": "AFC Bournemouth-vs-Brighton & Hove Albion_Sun, Apr 28, 2024, 13:00 UTC",
+    "matchRound": "35",
+    "teamColors": {
+      "darkMode": {
+        "home": "#D71921",
+        "away": "#095bb6"
+      },
+      "lightMode": {
+        "home": "#D71921",
+        "away": "#0850A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 35",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Apr 28, 2024, 13:00 UTC",
+    "matchTimeUTCDate": "2024-04-28T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901125",
     "matchName": "Chelsea-vs-Crystal Palace_Sun, Jan 15, 2023, 14:00 UTC",
     "matchRound": "20",
@@ -24887,6 +24932,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Sep 30, 2023, 14:00 UTC",
     "matchTimeUTCDate": "2023-09-30T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4193878",
+    "matchName": "Tottenham Hotspur-vs-Arsenal_Sun, Apr 28, 2024, 13:00 UTC",
+    "matchRound": "35",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#bd0510"
+      },
+      "lightMode": {
+        "home": "#132257",
+        "away": "#bd0510"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 35",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Apr 28, 2024, 13:00 UTC",
+    "matchTimeUTCDate": "2024-04-28T13:00:00.000Z",
     "started": true,
     "finished": true
   },
