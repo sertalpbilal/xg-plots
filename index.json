@@ -28589,6 +28589,51 @@
     "finished": true
   },
   {
+    "matchId": "4193881",
+    "matchName": "Arsenal-vs-AFC Bournemouth_Sat, May 4, 2024, 11:30 UTC",
+    "matchRound": "36",
+    "teamColors": {
+      "darkMode": {
+        "home": "#bd0510",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#bd0510",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 36",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2023/2024",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/20720/goals.json",
+    "parentLeagueTournamentId": 20720,
+    "homeTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "awayTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, May 4, 2024, 11:30 UTC",
+    "matchTimeUTCDate": "2024-05-04T11:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901050",
     "matchName": "Liverpool-vs-West Ham United_Wed, Oct 19, 2022, 18:30 UTC",
     "matchRound": "12",
