@@ -14418,6 +14418,51 @@
     "finished": true
   },
   {
+    "matchId": "4506270",
+    "matchName": "Brentford-vs-Crystal Palace_Sun, Aug 18, 2024, 13:00 UTC",
+    "matchRound": "1",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C00808",
+        "away": "#0055A5"
+      },
+      "lightMode": {
+        "home": "#C00808",
+        "away": "#0055A5"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 1",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "awayTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Aug 18, 2024, 13:00 UTC",
+    "matchTimeUTCDate": "2024-08-18T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193500",
     "matchName": "AFC Bournemouth-vs-Chelsea_Sun, Sep 17, 2023, 13:00 UTC",
     "matchRound": "5",
