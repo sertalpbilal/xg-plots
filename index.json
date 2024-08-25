@@ -14043,6 +14043,51 @@
     "finished": true
   },
   {
+    "matchId": "4506282",
+    "matchName": "Wolverhampton Wanderers-vs-Chelsea_Sun, Aug 25, 2024, 13:00 UTC",
+    "matchRound": "2",
+    "teamColors": {
+      "darkMode": {
+        "home": "#FDB913",
+        "away": "#1E4492"
+      },
+      "lightMode": {
+        "home": "#d99b00",
+        "away": "#064b95"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 2",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Wolverhampton Wanderers",
+      "id": 8602
+    },
+    "awayTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Aug 25, 2024, 13:00 UTC",
+    "matchTimeUTCDate": "2024-08-25T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193830",
     "matchName": "Tottenham Hotspur-vs-Luton Town_Sat, Mar 30, 2024, 15:00 UTC",
     "matchRound": "30",
@@ -26163,6 +26208,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Tue, Dec 26, 2023, 12:30 UTC",
     "matchTimeUTCDate": "2023-12-26T12:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506273",
+    "matchName": "AFC Bournemouth-vs-Newcastle United_Sun, Aug 25, 2024, 13:00 UTC",
+    "matchRound": "2",
+    "teamColors": {
+      "darkMode": {
+        "home": "#D71921",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#D71921",
+        "away": "#141413"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 2",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "awayTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Aug 25, 2024, 13:00 UTC",
+    "matchTimeUTCDate": "2024-08-25T13:00:00.000Z",
     "started": true,
     "finished": true
   },
