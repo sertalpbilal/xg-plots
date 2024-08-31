@@ -9405,6 +9405,51 @@
     "finished": true
   },
   {
+    "matchId": "4506292",
+    "matchName": "West Ham United-vs-Manchester City_Sat, Aug 31, 2024, 16:30 UTC",
+    "matchRound": "3",
+    "teamColors": {
+      "darkMode": {
+        "home": "#8B3249",
+        "away": "#69A8D8"
+      },
+      "lightMode": {
+        "home": "#7B2B3A",
+        "away": "#69A8D8"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 3",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "awayTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Aug 31, 2024, 16:30 UTC",
+    "matchTimeUTCDate": "2024-08-31T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901271",
     "matchName": "Newcastle United-vs-Southampton_Sun, Apr 30, 2023, 13:00 UTC",
     "matchRound": "34",
