@@ -13456,6 +13456,51 @@
     "finished": true
   },
   {
+    "matchId": "4506283",
+    "matchName": "Arsenal-vs-Brighton & Hove Albion_Sat, Aug 31, 2024, 11:30 UTC",
+    "matchRound": "3",
+    "teamColors": {
+      "darkMode": {
+        "home": "#bd0510",
+        "away": "#095bb6"
+      },
+      "lightMode": {
+        "home": "#bd0510",
+        "away": "#0850A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 3",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Aug 31, 2024, 11:30 UTC",
+    "matchTimeUTCDate": "2024-08-31T11:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901189",
     "matchName": "Nottingham Forest-vs-Everton_Sun, Mar 5, 2023, 14:00 UTC",
     "matchRound": "26",
