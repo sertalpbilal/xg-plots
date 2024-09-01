@@ -20602,6 +20602,51 @@
     "finished": true
   },
   {
+    "matchId": "4506285",
+    "matchName": "Chelsea-vs-Crystal Palace_Sun, Sep 1, 2024, 12:30 UTC",
+    "matchRound": "3",
+    "teamColors": {
+      "darkMode": {
+        "home": "#1E4492",
+        "away": "#E91D12"
+      },
+      "lightMode": {
+        "home": "#064b95",
+        "away": "#E91D12"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 3",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "awayTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Sep 1, 2024, 12:30 UTC",
+    "matchTimeUTCDate": "2024-09-01T12:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193876",
     "matchName": "Newcastle United-vs-Sheffield United_Sat, Apr 27, 2024, 14:00 UTC",
     "matchRound": "35",
@@ -26088,6 +26133,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sun, Feb 25, 2024, 13:30 UTC",
     "matchTimeUTCDate": "2024-02-25T13:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506290",
+    "matchName": "Newcastle United-vs-Tottenham Hotspur_Sun, Sep 1, 2024, 12:30 UTC",
+    "matchRound": "3",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#1b578d"
+      },
+      "lightMode": {
+        "home": "#141413",
+        "away": "#132257"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 3",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "awayTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Sep 1, 2024, 12:30 UTC",
+    "matchTimeUTCDate": "2024-09-01T12:30:00.000Z",
     "started": true,
     "finished": true
   },
