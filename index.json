@@ -18415,6 +18415,51 @@
     "finished": true
   },
   {
+    "matchId": "4506301",
+    "matchName": "Tottenham Hotspur-vs-Arsenal_Sun, Sep 15, 2024, 13:00 UTC",
+    "matchRound": "4",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#bd0510"
+      },
+      "lightMode": {
+        "home": "#132257",
+        "away": "#bd0510"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 4",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Sep 15, 2024, 13:00 UTC",
+    "matchTimeUTCDate": "2024-09-15T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901195",
     "matchName": "Fulham-vs-Arsenal_Sun, Mar 12, 2023, 14:00 UTC",
     "matchRound": "27",
