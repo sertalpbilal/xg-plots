@@ -20909,6 +20909,50 @@
     "finished": true
   },
   {
+    "matchId": "4506304",
+    "matchName": "Brighton & Hove Albion-vs-Nottingham Forest_Sun, Sep 22, 2024, 13:00 UTC",
+    "matchRound": "5",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#C8102E"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#C8102E"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 5",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Sep 22, 2024, 13:00 UTC",
+    "matchTimeUTCDate": "2024-09-22T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901177",
     "matchName": "Leicester City-vs-Arsenal_Sat, Feb 25, 2023, 15:00 UTC",
     "matchRound": "25",
