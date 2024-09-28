@@ -6334,6 +6334,50 @@
     "finished": true
   },
   {
+    "matchId": "4506314",
+    "matchName": "Arsenal-vs-Leicester City_Sat, Sep 28, 2024, 14:00 UTC",
+    "matchRound": "6",
+    "teamColors": {
+      "darkMode": {
+        "home": "#bd0510",
+        "away": "#0f55bd"
+      },
+      "lightMode": {
+        "home": "#bd0510",
+        "away": "#0d47a1"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 6",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "awayTeam": {
+      "name": "Leicester City",
+      "id": 8197
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Sep 28, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-09-28T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193815",
     "matchName": "Everton-vs-Liverpool_Wed, Apr 24, 2024, 19:00 UTC",
     "matchRound": "29",
@@ -11930,6 +11974,50 @@
     "finished": true
   },
   {
+    "matchId": "4506316",
+    "matchName": "Chelsea-vs-Brighton & Hove Albion_Sat, Sep 28, 2024, 14:00 UTC",
+    "matchRound": "6",
+    "teamColors": {
+      "darkMode": {
+        "home": "#1E4492",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#064b95",
+        "away": "#FAB500"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 6",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Sep 28, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-09-28T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193662",
     "matchName": "Arsenal-vs-Wolverhampton Wanderers_Sat, Dec 2, 2023, 15:00 UTC",
     "matchRound": "14",
@@ -13249,6 +13337,50 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sun, Apr 7, 2024, 14:30 UTC",
     "matchTimeUTCDate": "2024-04-07T14:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506321",
+    "matchName": "Nottingham Forest-vs-Fulham_Sat, Sep 28, 2024, 14:00 UTC",
+    "matchRound": "6",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C8102E",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#C8102E",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 6",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "awayTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Sep 28, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-09-28T14:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -15555,6 +15687,50 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Feb 3, 2024, 15:00 UTC",
     "matchTimeUTCDate": "2024-02-03T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506317",
+    "matchName": "Everton-vs-Crystal Palace_Sat, Sep 28, 2024, 14:00 UTC",
+    "matchRound": "6",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0051d6",
+        "away": "#E91D12"
+      },
+      "lightMode": {
+        "home": "#0035b8",
+        "away": "#E91D12"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 6",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Sep 28, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-09-28T14:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -33309,6 +33485,50 @@
     },
     "matchTimeUTC": "Sun, May 28, 2023, 15:30 UTC",
     "matchTimeUTCDate": "2023-05-28T15:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506315",
+    "matchName": "Brentford-vs-West Ham United_Sat, Sep 28, 2024, 14:00 UTC",
+    "matchRound": "6",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C00808",
+        "away": "#1BB1E7"
+      },
+      "lightMode": {
+        "home": "#C00808",
+        "away": "#1BB1E7"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 6",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "awayTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Sep 28, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-09-28T14:00:00.000Z",
     "started": true,
     "finished": true
   },
