@@ -2830,6 +2830,50 @@
     "finished": true
   },
   {
+    "matchId": "4506313",
+    "matchName": "AFC Bournemouth-vs-Southampton_Mon, Sep 30, 2024, 19:00 UTC",
+    "matchRound": "6",
+    "teamColors": {
+      "darkMode": {
+        "home": "#D71921",
+        "away": "#17bfd4"
+      },
+      "lightMode": {
+        "home": "#D71921",
+        "away": "#00bacf"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 6",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "awayTeam": {
+      "name": "Southampton",
+      "id": 8466
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Mon, Sep 30, 2024, 19:00 UTC",
+    "matchTimeUTCDate": "2024-09-30T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901016",
     "matchName": "Leeds United-vs-Aston Villa_Sun, Oct 2, 2022, 15:30 UTC",
     "matchRound": "9",
