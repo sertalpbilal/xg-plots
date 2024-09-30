@@ -450,7 +450,7 @@ function plot_game_xg() {
         .attr("height", 60)
         .html(function(d) {
             return `
-            <div class="outer goal-text d-flex flex-column">
+            <div class="outer goal-text d-flex flex-column" contenteditable>
                 <span class="w-100 text-center box-name" style="color: ${side_color(d.side)}">${d.info.lastName}</span>
                 <span class="w-100 text-center box-value">${d.info?.isOwnGoal ? '(OG)' : d.info?.expectedGoals?.toFixed(2) + ' xG' || '0.00 xG'}</span>
             </div>
