@@ -34,7 +34,7 @@ var app = new Vue({
             let away_id = game_data.general.awayTeam.id
             xg_vals = {'home': [{'min': 0, 'xg': 0, 'pid': null, 'info': null, 'side': 'home'}], 'away': [{'min': 0, 'xg': 0, 'pid': null, 'info': null, 'side': 'away'}]}
             for (let shot of game_data.content.shotmap.shots) {
-                let side = shot.teamId == home_id && (!shot.isOwnGoal) ? 'home' : 'away'
+                let side = !(shot.teamId == home_id ^ (!shot.isOwnGoal)) ? 'home' : 'away'
                 let entry = _.cloneDeep(xg_vals[side].at(-1))
                 // base
                 // TODO: if I use d3 stepAfter, this is not needed
@@ -452,7 +452,7 @@ function plot_game_xg() {
             return `
             <div class="outer goal-text d-flex flex-column">
                 <span class="w-100 text-center box-name" style="color: ${side_color(d.side)}">${d.info.lastName}</span>
-                <span class="w-100 text-center box-value">${d.info?.expectedGoals?.toFixed(2) || '0.00'} xG</span>
+                <span class="w-100 text-center box-value">${d.info?.isOwnGoal ? '(OG)' : d.info?.expectedGoals?.toFixed(2) + ' xG' || '0.00 xG'}</span>
             </div>
             `
         })
