@@ -3707,6 +3707,50 @@
     "finished": true
   },
   {
+    "matchId": "4506325",
+    "matchName": "Brentford-vs-Wolverhampton Wanderers_Sat, Oct 5, 2024, 14:00 UTC",
+    "matchRound": "7",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C00808",
+        "away": "#FDB913"
+      },
+      "lightMode": {
+        "home": "#C00808",
+        "away": "#d99b00"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 7",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "awayTeam": {
+      "name": "Wolverhampton Wanderers",
+      "id": 8602
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 5, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-10-05T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506282",
     "matchName": "Wolverhampton Wanderers-vs-Chelsea_Sun, Aug 25, 2024, 13:00 UTC",
     "matchRound": "2",
@@ -16888,6 +16932,50 @@
     "finished": true
   },
   {
+    "matchId": "4506323",
+    "matchName": "Arsenal-vs-Southampton_Sat, Oct 5, 2024, 14:00 UTC",
+    "matchRound": "7",
+    "teamColors": {
+      "darkMode": {
+        "home": "#bd0510",
+        "away": "#17bfd4"
+      },
+      "lightMode": {
+        "home": "#bd0510",
+        "away": "#00bacf"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 7",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "awayTeam": {
+      "name": "Southampton",
+      "id": 8466
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 5, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-10-05T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901210",
     "matchName": "Southampton-vs-Tottenham Hotspur_Sat, Mar 18, 2023, 15:00 UTC",
     "matchRound": "28",
@@ -20315,6 +20403,50 @@
     },
     "matchTimeUTC": "Sat, Sep 3, 2022, 14:00 UTC",
     "matchTimeUTCDate": "2022-09-03T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506330",
+    "matchName": "Leicester City-vs-AFC Bournemouth_Sat, Oct 5, 2024, 14:00 UTC",
+    "matchRound": "7",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0f55bd",
+        "away": "#D71921"
+      },
+      "lightMode": {
+        "home": "#0d47a1",
+        "away": "#D71921"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 7",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "Leicester City",
+      "id": 8197
+    },
+    "awayTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 5, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-10-05T14:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -24189,6 +24321,50 @@
     },
     "matchTimeUTC": "Mon, Oct 3, 2022, 19:00 UTC",
     "matchTimeUTCDate": "2022-10-03T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506331",
+    "matchName": "Manchester City-vs-Fulham_Sat, Oct 5, 2024, 14:00 UTC",
+    "matchRound": "7",
+    "teamColors": {
+      "darkMode": {
+        "home": "#76b4e5",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#69A8D8",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 7",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "awayTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 5, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-10-05T14:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -34726,6 +34902,50 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Wed, Dec 6, 2023, 19:30 UTC",
     "matchTimeUTCDate": "2023-12-06T19:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506332",
+    "matchName": "West Ham United-vs-Ipswich Town_Sat, Oct 5, 2024, 14:00 UTC",
+    "matchRound": "7",
+    "teamColors": {
+      "darkMode": {
+        "home": "#8B3249",
+        "away": "#004fc2"
+      },
+      "lightMode": {
+        "home": "#7B2B3A",
+        "away": "#0333A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 7",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "awayTeam": {
+      "name": "Ipswich Town",
+      "id": 9902
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 5, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-10-05T14:00:00.000Z",
     "started": true,
     "finished": true
   },
