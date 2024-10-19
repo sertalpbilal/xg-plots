@@ -29857,6 +29857,50 @@
     "finished": true
   },
   {
+    "matchId": "4506393",
+    "matchName": "AFC Bournemouth-vs-Arsenal_Sat, Oct 19, 2024, 16:30 UTC",
+    "matchRound": "8",
+    "teamColors": {
+      "darkMode": {
+        "home": "#D71921",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#D71921",
+        "away": "#101010"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 8",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 19, 2024, 16:30 UTC",
+    "matchTimeUTCDate": "2024-10-19T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901028",
     "matchName": "Manchester City-vs-Southampton_Sat, Oct 8, 2022, 14:00 UTC",
     "matchRound": "10",
