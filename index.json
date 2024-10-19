@@ -8052,6 +8052,50 @@
     "finished": true
   },
   {
+    "matchId": "4506397",
+    "matchName": "Manchester United-vs-Brentford_Sat, Oct 19, 2024, 14:00 UTC",
+    "matchRound": "8",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C70101",
+        "away": "#88acce"
+      },
+      "lightMode": {
+        "home": "#C70101",
+        "away": "#88acce"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 8",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "awayTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 19, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-10-19T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193825",
     "matchName": "Liverpool-vs-Brighton & Hove Albion_Sun, Mar 31, 2024, 13:00 UTC",
     "matchRound": "30",
@@ -9194,6 +9238,50 @@
     "finished": true
   },
   {
+    "matchId": "4506398",
+    "matchName": "Newcastle United-vs-Brighton & Hove Albion_Sat, Oct 19, 2024, 14:00 UTC",
+    "matchRound": "8",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#095bb6"
+      },
+      "lightMode": {
+        "home": "#141413",
+        "away": "#0850A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 8",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 19, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-10-19T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193492",
     "matchName": "Brighton & Hove Albion-vs-Newcastle United_Sat, Sep 2, 2023, 16:30 UTC",
     "matchRound": "4",
@@ -9955,6 +10043,50 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sun, Apr 28, 2024, 15:30 UTC",
     "matchTimeUTCDate": "2024-04-28T15:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506395",
+    "matchName": "Ipswich Town-vs-Everton_Sat, Oct 19, 2024, 14:15 UTC",
+    "matchRound": "8",
+    "teamColors": {
+      "darkMode": {
+        "home": "#004fc2",
+        "away": "#FFFFFF"
+      },
+      "lightMode": {
+        "home": "#0333A0",
+        "away": "#FFA900"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 8",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "Ipswich Town",
+      "id": 9902
+    },
+    "awayTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 19, 2024, 14:15 UTC",
+    "matchTimeUTCDate": "2024-10-19T14:15:00.000Z",
     "started": true,
     "finished": true
   },
@@ -29843,6 +29975,50 @@
     "finished": true
   },
   {
+    "matchId": "4506394",
+    "matchName": "Fulham-vs-Aston Villa_Sat, Oct 19, 2024, 14:00 UTC",
+    "matchRound": "8",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#9d2358"
+      },
+      "lightMode": {
+        "home": "#000000",
+        "away": "#7D1142"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 8",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "awayTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 19, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-10-19T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193567",
     "matchName": "Nottingham Forest-vs-Aston Villa_Sun, Nov 5, 2023, 14:00 UTC",
     "matchRound": "11",
@@ -33338,6 +33514,50 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Wed, Jan 31, 2024, 20:15 UTC",
     "matchTimeUTCDate": "2024-01-31T20:15:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506400",
+    "matchName": "Southampton-vs-Leicester City_Sat, Oct 19, 2024, 14:00 UTC",
+    "matchRound": "8",
+    "teamColors": {
+      "darkMode": {
+        "home": "#d71920",
+        "away": "#0f55bd"
+      },
+      "lightMode": {
+        "home": "#d71920",
+        "away": "#0d47a1"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 8",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "Southampton",
+      "id": 8466
+    },
+    "awayTeam": {
+      "name": "Leicester City",
+      "id": 8197
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 19, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-10-19T14:00:00.000Z",
     "started": true,
     "finished": true
   },
