@@ -25886,6 +25886,50 @@
     "finished": true
   },
   {
+    "matchId": "4506396",
+    "matchName": "Liverpool-vs-Chelsea_Sun, Oct 20, 2024, 15:30 UTC",
+    "matchRound": "8",
+    "teamColors": {
+      "darkMode": {
+        "home": "#9d241a",
+        "away": "#1E4492"
+      },
+      "lightMode": {
+        "home": "#911712",
+        "away": "#064b95"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 8",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "homeTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "awayTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Oct 20, 2024, 15:30 UTC",
+    "matchTimeUTCDate": "2024-10-20T15:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901015",
     "matchName": "Fulham-vs-Newcastle United_Sat, Oct 1, 2022, 14:00 UTC",
     "matchRound": "9",
