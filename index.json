@@ -17113,6 +17113,51 @@
     "finished": true
   },
   {
+    "matchId": "4506413",
+    "matchName": "Leicester City-vs-Nottingham Forest_Fri, Oct 25, 2024, 19:00 UTC",
+    "matchRound": "9",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0f55bd",
+        "away": "#C8102E"
+      },
+      "lightMode": {
+        "home": "#0d47a1",
+        "away": "#C8102E"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 9",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Leicester City",
+      "id": 8197
+    },
+    "awayTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Fri, Oct 25, 2024, 19:00 UTC",
+    "matchTimeUTCDate": "2024-10-25T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193739",
     "matchName": "Newcastle United-vs-Manchester City_Sat, Jan 13, 2024, 17:30 UTC",
     "matchRound": "21",
