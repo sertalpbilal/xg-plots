@@ -20370,6 +20370,51 @@
     "finished": true
   },
   {
+    "matchId": "4506409",
+    "matchName": "Crystal Palace-vs-Tottenham Hotspur_Sun, Oct 27, 2024, 14:00 UTC",
+    "matchRound": "9",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0055A5",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#0055A5",
+        "away": "#7D99CB"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 9",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "awayTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Oct 27, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-10-27T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193538",
     "matchName": "West Ham United-vs-Newcastle United_Sun, Oct 8, 2023, 13:00 UTC",
     "matchRound": "8",
@@ -22216,6 +22261,51 @@
     "finished": true
   },
   {
+    "matchId": "4506417",
+    "matchName": "West Ham United-vs-Manchester United_Sun, Oct 27, 2024, 14:00 UTC",
+    "matchRound": "9",
+    "teamColors": {
+      "darkMode": {
+        "home": "#8B3249",
+        "away": "#FFFFFF"
+      },
+      "lightMode": {
+        "home": "#7B2B3A",
+        "away": "#2B3737"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 9",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "awayTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Oct 27, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-10-27T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193661",
     "matchName": "AFC Bournemouth-vs-Aston Villa_Sun, Dec 3, 2023, 14:00 UTC",
     "matchRound": "14",
@@ -23419,6 +23509,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Sep 28, 2024, 11:30 UTC",
     "matchTimeUTCDate": "2024-09-28T11:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506407",
+    "matchName": "Chelsea-vs-Newcastle United_Sun, Oct 27, 2024, 14:00 UTC",
+    "matchRound": "9",
+    "teamColors": {
+      "darkMode": {
+        "home": "#1E4492",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#064b95",
+        "away": "#141413"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 9",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "awayTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Oct 27, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-10-27T14:00:00.000Z",
     "started": true,
     "finished": true
   },
