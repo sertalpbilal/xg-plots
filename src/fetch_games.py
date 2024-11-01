@@ -4,24 +4,10 @@ import os
 import glob
 import time
 
-cookies = {
-    'u:location': '%7B%22countryCode%22%3A%22US%22%2C%22ccode3%22%3A%22USA%22%2C%22timezone%22%3A%22America%2FNew_York%22%2C%22ip%22%3A%222600%3A1700%3A7ee%3A14d0%3A381a%3A1572%3A2aae%3A2ae4%22%2C%22regionId%22%3A%22NC%22%2C%22regionName%22%3A%22North%20Carolina%22%2C%22metroCode%22%3A%22560%22%7D',
-}
+cookies = {}
 
 headers = {
-    'accept': '*/*',
-    'accept-language': 'en-US,en;q=0.9',
-    'dnt': '1',
-    'priority': 'u=1, i',
-    'referer': 'https://www.fotmob.com/leagues/',
-    'sec-ch-ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"',
-    'sec-ch-ua-mobile': '?0',
-    'sec-ch-ua-platform': '"Windows"',
-    'sec-fetch-dest': 'empty',
-    'sec-fetch-mode': 'cors',
-    'sec-fetch-site': 'same-origin',
-    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36',
-    'x-fm-req': 'eyJib2R5Ijp7InVybCI6Ii9hcGkvbGVhZ3Vlcz9pZD00NyZjY29kZTM9VVNBX05DIiwiY29kZSI6MTczMDMzNDY0MTcyOX0sInNpZ25hdHVyZSI6IjU1QUU1NUFEOEQ5QUExQzhBRUVFMDc2RTg3MjNBRjI3In0=',
+    "x-fm-req": "",
 }
 
 params = {
@@ -33,9 +19,18 @@ params = {
 PREM_URL = r"https://www.fotmob.com/api/leagues?id=47&ccode3=USA_NC"
 GAME_URL = r"https://www.fotmob.com/api/matchDetails?matchId={match_id}"
 
+def refresh_cookie():
+    global headers
+    r = requests.get("http://46.101.91.154:6006/")
+    result = r.json()
+    headers['x-fm-req'] = result['x-fm-req']    
+    print(headers)
+    return
+
 def fetch_game_ids():
     r = requests.get('https://www.fotmob.com/api/leagues', cookies=cookies, params=params, headers=headers)
     games = r.json()['matches']['allMatches']
+    print(r.status_code)
     return games
 
 def download_game_data(game):
@@ -77,9 +72,9 @@ def generate_index():
         json.dump(games, f, indent=2)
 
 if __name__ == "__main__":
+    refresh_cookie()
     games = fetch_game_ids()
     print(f"Total number of games: {len(games)}")
     for g in games:
         download_game_data(g)
     generate_index()
-
