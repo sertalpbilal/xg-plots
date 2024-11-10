@@ -15367,6 +15367,51 @@
     "finished": true
   },
   {
+    "matchId": "4506475",
+    "matchName": "Chelsea-vs-Arsenal_Sun, Nov 10, 2024, 16:30 UTC",
+    "matchRound": "11",
+    "teamColors": {
+      "darkMode": {
+        "home": "#1E4492",
+        "away": "#bd0510"
+      },
+      "lightMode": {
+        "home": "#064b95",
+        "away": "#bd0510"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 11",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Nov 10, 2024, 16:30 UTC",
+    "matchTimeUTCDate": "2024-11-10T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901105",
     "matchName": "Liverpool-vs-Leicester City_Fri, Dec 30, 2022, 20:00 UTC",
     "matchRound": "18",
