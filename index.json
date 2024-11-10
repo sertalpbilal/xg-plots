@@ -3554,6 +3554,51 @@
     "finished": true
   },
   {
+    "matchId": "4506480",
+    "matchName": "Tottenham Hotspur-vs-Ipswich Town_Sun, Nov 10, 2024, 14:00 UTC",
+    "matchRound": "11",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#004fc2"
+      },
+      "lightMode": {
+        "home": "#132257",
+        "away": "#E2241B"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 11",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "awayTeam": {
+      "name": "Ipswich Town",
+      "id": 9902
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Nov 10, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-11-10T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193737",
     "matchName": "Everton-vs-Aston Villa_Sun, Jan 14, 2024, 14:00 UTC",
     "matchRound": "21",
@@ -10203,6 +10248,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sun, Dec 17, 2023, 14:00 UTC",
     "matchTimeUTCDate": "2023-12-17T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506479",
+    "matchName": "Nottingham Forest-vs-Newcastle United_Sun, Nov 10, 2024, 14:00 UTC",
+    "matchRound": "11",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C8102E",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#C8102E",
+        "away": "#141413"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 11",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "awayTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Nov 10, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-11-10T14:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -33454,6 +33544,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Dec 16, 2023, 17:30 UTC",
     "matchTimeUTCDate": "2023-12-16T17:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506478",
+    "matchName": "Manchester United-vs-Leicester City_Sun, Nov 10, 2024, 14:00 UTC",
+    "matchRound": "11",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C70101",
+        "away": "#0f55bd"
+      },
+      "lightMode": {
+        "home": "#C70101",
+        "away": "#0d47a1"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 11",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "awayTeam": {
+      "name": "Leicester City",
+      "id": 8197
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Nov 10, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-11-10T14:00:00.000Z",
     "started": true,
     "finished": true
   },
