@@ -2796,6 +2796,51 @@
     "finished": true
   },
   {
+    "matchId": "4506535",
+    "matchName": "Aston Villa-vs-Crystal Palace_Sat, Nov 23, 2024, 15:00 UTC",
+    "matchRound": "12",
+    "teamColors": {
+      "darkMode": {
+        "home": "#9d2358",
+        "away": "#0055A5"
+      },
+      "lightMode": {
+        "home": "#7D1142",
+        "away": "#0055A5"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 12",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "awayTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Nov 23, 2024, 15:00 UTC",
+    "matchTimeUTCDate": "2024-11-23T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193493",
     "matchName": "Burnley-vs-Tottenham Hotspur_Sat, Sep 2, 2023, 14:00 UTC",
     "matchRound": "4",
@@ -6897,6 +6942,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Dec 9, 2023, 15:00 UTC",
     "matchTimeUTCDate": "2023-12-09T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506537",
+    "matchName": "Fulham-vs-Wolverhampton Wanderers_Sat, Nov 23, 2024, 15:00 UTC",
+    "matchRound": "12",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#F8A01A"
+      },
+      "lightMode": {
+        "home": "#000000",
+        "away": "#eb9504"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 12",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "awayTeam": {
+      "name": "Wolverhampton Wanderers",
+      "id": 8602
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Nov 23, 2024, 15:00 UTC",
+    "matchTimeUTCDate": "2024-11-23T15:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -18004,6 +18094,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Feb 3, 2024, 15:00 UTC",
     "matchTimeUTCDate": "2024-02-03T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506534",
+    "matchName": "Arsenal-vs-Nottingham Forest_Sat, Nov 23, 2024, 15:00 UTC",
+    "matchRound": "12",
+    "teamColors": {
+      "darkMode": {
+        "home": "#bd0510",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#bd0510",
+        "away": "#203866"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 12",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "awayTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Nov 23, 2024, 15:00 UTC",
+    "matchTimeUTCDate": "2024-11-23T15:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -30486,6 +30621,51 @@
     "finished": true
   },
   {
+    "matchId": "4506536",
+    "matchName": "Everton-vs-Brentford_Sat, Nov 23, 2024, 15:00 UTC",
+    "matchRound": "12",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0051d6",
+        "away": "#C00808"
+      },
+      "lightMode": {
+        "home": "#0035b8",
+        "away": "#C00808"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 12",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Nov 23, 2024, 15:00 UTC",
+    "matchTimeUTCDate": "2024-11-23T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193879",
     "matchName": "West Ham United-vs-Liverpool_Sat, Apr 27, 2024, 11:30 UTC",
     "matchRound": "35",
@@ -36826,6 +37006,51 @@
     },
     "matchTimeUTC": "Sun, Apr 23, 2023, 13:00 UTC",
     "matchTimeUTCDate": "2023-04-23T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506533",
+    "matchName": "AFC Bournemouth-vs-Brighton & Hove Albion_Sat, Nov 23, 2024, 15:00 UTC",
+    "matchRound": "12",
+    "teamColors": {
+      "darkMode": {
+        "home": "#D71921",
+        "away": "#095bb6"
+      },
+      "lightMode": {
+        "home": "#D71921",
+        "away": "#0850A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 12",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Nov 23, 2024, 15:00 UTC",
+    "matchTimeUTCDate": "2024-11-23T15:00:00.000Z",
     "started": true,
     "finished": true
   },
