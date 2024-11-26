@@ -5,15 +5,20 @@ import glob
 import time
 
 cookies = {}
+# header_name = 'x-fm-req'
+header_name = 'x-mas'
 
 headers = {
-    "x-fm-req": "",
+    header_name: ""
 }
 
 params = {
     'id': '47',
     'ccode3': 'USA_NC',
 }
+
+
+
 
 # PREM_URL = r"https://www.fotmob.com/api/leagues?id=47"
 PREM_URL = r"https://www.fotmob.com/api/leagues?id=47&ccode3=USA_NC"
@@ -23,7 +28,7 @@ def refresh_cookie():
     global headers
     r = requests.get("http://46.101.91.154:6006/")
     result = r.json()
-    headers['x-fm-req'] = result['x-fm-req']    
+    headers[header_name] = result[header_name]    
     print(headers)
     return
 
