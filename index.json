@@ -25914,6 +25914,51 @@
     "finished": true
   },
   {
+    "matchId": "4506411",
+    "matchName": "Brighton & Hove Albion-vs-Southampton_Fri, Nov 29, 2024, 20:00 UTC",
+    "matchRound": "13",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#d71920"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#d71920"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 13",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Southampton",
+      "id": 8466
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Fri, Nov 29, 2024, 20:00 UTC",
+    "matchTimeUTCDate": "2024-11-29T20:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193793",
     "matchName": "Everton-vs-West Ham United_Sat, Mar 2, 2024, 15:00 UTC",
     "matchRound": "27",
