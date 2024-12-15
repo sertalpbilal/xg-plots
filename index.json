@@ -14509,6 +14509,51 @@
     "finished": true
   },
   {
+    "matchId": "4506445",
+    "matchName": "Brighton & Hove Albion-vs-Crystal Palace_Sun, Dec 15, 2024, 14:00 UTC",
+    "matchRound": "16",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#E91D12"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#E91D12"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 16",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Dec 15, 2024, 14:00 UTC",
+    "matchTimeUTCDate": "2024-12-15T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901235",
     "matchName": "Leeds United-vs-Liverpool_Mon, Apr 17, 2023, 19:00 UTC",
     "matchRound": "31",
