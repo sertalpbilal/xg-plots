@@ -36093,6 +36093,51 @@
     "finished": true
   },
   {
+    "matchId": "4506455",
+    "matchName": "Crystal Palace-vs-Arsenal_Sat, Dec 21, 2024, 17:30 UTC",
+    "matchRound": "17",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0055A5",
+        "away": "#bd0510"
+      },
+      "lightMode": {
+        "home": "#0055A5",
+        "away": "#bd0510"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 17",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 21, 2024, 17:30 UTC",
+    "matchTimeUTCDate": "2024-12-21T17:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193770",
     "matchName": "Wolverhampton Wanderers-vs-Brentford_Sat, Feb 10, 2024, 15:00 UTC",
     "matchRound": "24",
