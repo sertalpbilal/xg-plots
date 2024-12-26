@@ -10406,6 +10406,51 @@
     "finished": true
   },
   {
+    "matchId": "4506487",
+    "matchName": "Liverpool-vs-Leicester City_Thu, Dec 26, 2024, 20:00 UTC",
+    "matchRound": "18",
+    "teamColors": {
+      "darkMode": {
+        "home": "#911712",
+        "away": "#0f55bd"
+      },
+      "lightMode": {
+        "home": "#911712",
+        "away": "#0d47a1"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 18",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "awayTeam": {
+      "name": "Leicester City",
+      "id": 8197
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Thu, Dec 26, 2024, 20:00 UTC",
+    "matchTimeUTCDate": "2024-12-26T20:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193492",
     "matchName": "Brighton & Hove Albion-vs-Newcastle United_Sat, Sep 2, 2023, 16:30 UTC",
     "matchRound": "4",
