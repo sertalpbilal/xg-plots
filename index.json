@@ -17212,6 +17212,51 @@
     "finished": true
   },
   {
+    "matchId": "4506495",
+    "matchName": "Crystal Palace-vs-Southampton_Sun, Dec 29, 2024, 15:00 UTC",
+    "matchRound": "19",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0055A5",
+        "away": "#d71920"
+      },
+      "lightMode": {
+        "home": "#0055A5",
+        "away": "#d71920"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 19",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "awayTeam": {
+      "name": "Southampton",
+      "id": 8466
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Dec 29, 2024, 15:00 UTC",
+    "matchTimeUTCDate": "2024-12-29T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901214",
     "matchName": "Brighton & Hove Albion-vs-Brentford_Sat, Apr 1, 2023, 14:00 UTC",
     "matchRound": "29",
@@ -23266,6 +23311,51 @@
     "finished": true
   },
   {
+    "matchId": "4506501",
+    "matchName": "Tottenham Hotspur-vs-Wolverhampton Wanderers_Sun, Dec 29, 2024, 15:00 UTC",
+    "matchRound": "19",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#F8A01A"
+      },
+      "lightMode": {
+        "home": "#132257",
+        "away": "#eb9504"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 19",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "awayTeam": {
+      "name": "Wolverhampton Wanderers",
+      "id": 8602
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Dec 29, 2024, 15:00 UTC",
+    "matchTimeUTCDate": "2024-12-29T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901306",
     "matchName": "Crystal Palace-vs-Nottingham Forest_Sun, May 28, 2023, 15:30 UTC",
     "matchRound": "38",
@@ -26329,6 +26419,51 @@
     "finished": true
   },
   {
+    "matchId": "4506499",
+    "matchName": "Leicester City-vs-Manchester City_Sun, Dec 29, 2024, 14:30 UTC",
+    "matchRound": "19",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0f55bd",
+        "away": "#76b4e5"
+      },
+      "lightMode": {
+        "home": "#0d47a1",
+        "away": "#69A8D8"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 19",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Leicester City",
+      "id": 8197
+    },
+    "awayTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Dec 29, 2024, 14:30 UTC",
+    "matchTimeUTCDate": "2024-12-29T14:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193890",
     "matchName": "Sheffield United-vs-Nottingham Forest_Sat, May 4, 2024, 14:00 UTC",
     "matchRound": "36",
@@ -28308,6 +28443,51 @@
     },
     "matchTimeUTC": "Sun, Feb 5, 2023, 16:30 UTC",
     "matchTimeUTCDate": "2023-02-05T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506496",
+    "matchName": "Everton-vs-Nottingham Forest_Sun, Dec 29, 2024, 15:00 UTC",
+    "matchRound": "19",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0051d6",
+        "away": "#C8102E"
+      },
+      "lightMode": {
+        "home": "#0035b8",
+        "away": "#C8102E"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 19",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Dec 29, 2024, 15:00 UTC",
+    "matchTimeUTCDate": "2024-12-29T15:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -40059,6 +40239,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Sep 30, 2023, 14:00 UTC",
     "matchTimeUTCDate": "2023-09-30T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506497",
+    "matchName": "Fulham-vs-AFC Bournemouth_Sun, Dec 29, 2024, 15:00 UTC",
+    "matchRound": "19",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#D71921"
+      },
+      "lightMode": {
+        "home": "#000000",
+        "away": "#D71921"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 19",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "awayTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Dec 29, 2024, 15:00 UTC",
+    "matchTimeUTCDate": "2024-12-29T15:00:00.000Z",
     "started": true,
     "finished": true
   }
