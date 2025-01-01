@@ -35783,6 +35783,51 @@
     "finished": true
   },
   {
+    "matchId": "4506494",
+    "matchName": "Brentford-vs-Arsenal_Wed, Jan 1, 2025, 17:30 UTC",
+    "matchRound": "19",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C00808",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#C00808",
+        "away": "#101010"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 19",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Wed, Jan 1, 2025, 17:30 UTC",
+    "matchTimeUTCDate": "2025-01-01T17:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506291",
     "matchName": "Nottingham Forest-vs-Wolverhampton Wanderers_Sat, Aug 31, 2024, 14:00 UTC",
     "matchRound": "3",
