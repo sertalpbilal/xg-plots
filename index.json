@@ -1573,6 +1573,51 @@
     "finished": true
   },
   {
+    "matchId": "4506509",
+    "matchName": "Manchester City-vs-West Ham United_Sat, Jan 4, 2025, 15:00 UTC",
+    "matchRound": "20",
+    "teamColors": {
+      "darkMode": {
+        "home": "#76b4e5",
+        "away": "#8B3249"
+      },
+      "lightMode": {
+        "home": "#69A8D8",
+        "away": "#7B2B3A"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 20",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "awayTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Jan 4, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-01-04T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901084",
     "matchName": "Fulham-vs-Manchester United_Sun, Nov 13, 2022, 16:30 UTC",
     "matchRound": "16",
@@ -9513,6 +9558,51 @@
     "finished": true
   },
   {
+    "matchId": "4506503",
+    "matchName": "AFC Bournemouth-vs-Everton_Sat, Jan 4, 2025, 15:00 UTC",
+    "matchRound": "20",
+    "teamColors": {
+      "darkMode": {
+        "home": "#D71921",
+        "away": "#0051d6"
+      },
+      "lightMode": {
+        "home": "#D71921",
+        "away": "#0035b8"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 20",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "awayTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Jan 4, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-01-04T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193490",
     "matchName": "Arsenal-vs-Manchester United_Sun, Sep 3, 2023, 15:30 UTC",
     "matchRound": "4",
@@ -10663,6 +10753,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Mar 30, 2024, 15:00 UTC",
     "matchTimeUTCDate": "2024-03-30T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506504",
+    "matchName": "Aston Villa-vs-Leicester City_Sat, Jan 4, 2025, 15:00 UTC",
+    "matchRound": "20",
+    "teamColors": {
+      "darkMode": {
+        "home": "#9d2358",
+        "away": "#0f55bd"
+      },
+      "lightMode": {
+        "home": "#7D1142",
+        "away": "#0d47a1"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 20",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "awayTeam": {
+      "name": "Leicester City",
+      "id": 8197
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Jan 4, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-01-04T15:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -14950,6 +15085,51 @@
     },
     "matchTimeUTC": "Mon, Apr 17, 2023, 19:00 UTC",
     "matchTimeUTCDate": "2023-04-17T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506510",
+    "matchName": "Southampton-vs-Brentford_Sat, Jan 4, 2025, 15:00 UTC",
+    "matchRound": "20",
+    "teamColors": {
+      "darkMode": {
+        "home": "#d71920",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#d71920",
+        "away": "#88acce"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 20",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Southampton",
+      "id": 8466
+    },
+    "awayTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Jan 4, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-01-04T15:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -38887,6 +39067,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Mon, Nov 4, 2024, 20:00 UTC",
     "matchTimeUTCDate": "2024-11-04T20:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506506",
+    "matchName": "Crystal Palace-vs-Chelsea_Sat, Jan 4, 2025, 15:00 UTC",
+    "matchRound": "20",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0055A5",
+        "away": "#f2deb4"
+      },
+      "lightMode": {
+        "home": "#0055A5",
+        "away": "#EAD73A"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 20",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "awayTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Jan 4, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-01-04T15:00:00.000Z",
     "started": true,
     "finished": true
   },
