@@ -14416,6 +14416,51 @@
     "finished": true
   },
   {
+    "matchId": "4506505",
+    "matchName": "Brighton & Hove Albion-vs-Arsenal_Sat, Jan 4, 2025, 17:30 UTC",
+    "matchRound": "20",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#bd0510"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#bd0510"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 20",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Jan 4, 2025, 17:30 UTC",
+    "matchTimeUTCDate": "2025-01-04T17:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901157",
     "matchName": "Leicester City-vs-Tottenham Hotspur_Sat, Feb 11, 2023, 15:00 UTC",
     "matchRound": "23",
