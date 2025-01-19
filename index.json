@@ -29074,6 +29074,51 @@
     "finished": true
   },
   {
+    "matchId": "4506527",
+    "matchName": "Ipswich Town-vs-Manchester City_Sun, Jan 19, 2025, 16:30 UTC",
+    "matchRound": "22",
+    "teamColors": {
+      "darkMode": {
+        "home": "#004fc2",
+        "away": "#76b4e5"
+      },
+      "lightMode": {
+        "home": "#0333A0",
+        "away": "#69A8D8"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 22",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Ipswich Town",
+      "id": 9902
+    },
+    "awayTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Jan 19, 2025, 16:30 UTC",
+    "matchTimeUTCDate": "2025-01-19T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506408",
     "matchName": "Brentford-vs-Leicester City_Sat, Nov 30, 2024, 15:00 UTC",
     "matchRound": "13",
