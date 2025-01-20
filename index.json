@@ -14574,6 +14574,51 @@
     "finished": true
   },
   {
+    "matchId": "4506525",
+    "matchName": "Chelsea-vs-Wolverhampton Wanderers_Mon, Jan 20, 2025, 20:00 UTC",
+    "matchRound": "22",
+    "teamColors": {
+      "darkMode": {
+        "home": "#1E4492",
+        "away": "#F8A01A"
+      },
+      "lightMode": {
+        "home": "#064b95",
+        "away": "#eb9504"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 22",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "awayTeam": {
+      "name": "Wolverhampton Wanderers",
+      "id": 8602
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Mon, Jan 20, 2025, 20:00 UTC",
+    "matchTimeUTCDate": "2025-01-20T20:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3900951",
     "matchName": "Wolverhampton Wanderers-vs-Fulham_Sat, Aug 13, 2022, 14:00 UTC",
     "matchRound": "2",
