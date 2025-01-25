@@ -19419,6 +19419,51 @@
     "finished": true
   },
   {
+    "matchId": "4506609",
+    "matchName": "Manchester City-vs-Chelsea_Sat, Jan 25, 2025, 17:30 UTC",
+    "matchRound": "23",
+    "teamColors": {
+      "darkMode": {
+        "home": "#76b4e5",
+        "away": "#1E4492"
+      },
+      "lightMode": {
+        "home": "#69A8D8",
+        "away": "#064b95"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 23",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "awayTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Jan 25, 2025, 17:30 UTC",
+    "matchTimeUTCDate": "2025-01-25T17:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4421797",
     "matchName": "AFC Bournemouth-vs-Luton Town_Wed, Mar 13, 2024, 19:30 UTC",
     "matchRound": "17",
