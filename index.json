@@ -42055,6 +42055,51 @@
     "finished": true
   },
   {
+    "matchId": "4506607",
+    "matchName": "Fulham-vs-Manchester United_Sun, Jan 26, 2025, 19:00 UTC",
+    "matchRound": "23",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#C70101"
+      },
+      "lightMode": {
+        "home": "#000000",
+        "away": "#C70101"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 23",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "awayTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Jan 26, 2025, 19:00 UTC",
+    "matchTimeUTCDate": "2025-01-26T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3900946",
     "matchName": "Chelsea-vs-Tottenham Hotspur_Sun, Aug 14, 2022, 15:30 UTC",
     "matchRound": "2",
