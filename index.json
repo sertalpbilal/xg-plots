@@ -30282,6 +30282,51 @@
     "finished": true
   },
   {
+    "matchId": "4506606",
+    "matchName": "Crystal Palace-vs-Brentford_Sun, Jan 26, 2025, 14:00 UTC",
+    "matchRound": "23",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0055A5",
+        "away": "#C00808"
+      },
+      "lightMode": {
+        "home": "#0055A5",
+        "away": "#C00808"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 23",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "awayTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Jan 26, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-01-26T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901162",
     "matchName": "Aston Villa-vs-Arsenal_Sat, Feb 18, 2023, 12:30 UTC",
     "matchRound": "24",
@@ -40880,6 +40925,51 @@
     },
     "matchTimeUTC": "Sat, May 13, 2023, 14:00 UTC",
     "matchTimeUTCDate": "2023-05-13T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506611",
+    "matchName": "Tottenham Hotspur-vs-Leicester City_Sun, Jan 26, 2025, 14:00 UTC",
+    "matchRound": "23",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#0f55bd"
+      },
+      "lightMode": {
+        "home": "#132257",
+        "away": "#FDBE11"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 23",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "awayTeam": {
+      "name": "Leicester City",
+      "id": 8197
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Jan 26, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-01-26T14:00:00.000Z",
     "started": true,
     "finished": true
   },
