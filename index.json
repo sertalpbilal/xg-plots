@@ -8559,6 +8559,51 @@
     "finished": true
   },
   {
+    "matchId": "4506617",
+    "matchName": "Everton-vs-Leicester City_Sat, Feb 1, 2025, 15:00 UTC",
+    "matchRound": "24",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0051d6",
+        "away": "#FDBE11"
+      },
+      "lightMode": {
+        "home": "#0035b8",
+        "away": "#FDBE11"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 24",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Leicester City",
+      "id": 8197
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Feb 1, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-02-01T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901218",
     "matchName": "Manchester City-vs-Liverpool_Sat, Apr 1, 2023, 11:30 UTC",
     "matchRound": "29",
@@ -23581,6 +23626,51 @@
     "finished": true
   },
   {
+    "matchId": "4506618",
+    "matchName": "Ipswich Town-vs-Southampton_Sat, Feb 1, 2025, 15:00 UTC",
+    "matchRound": "24",
+    "teamColors": {
+      "darkMode": {
+        "home": "#004fc2",
+        "away": "#d71920"
+      },
+      "lightMode": {
+        "home": "#0333A0",
+        "away": "#d71920"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 24",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Ipswich Town",
+      "id": 9902
+    },
+    "awayTeam": {
+      "name": "Southampton",
+      "id": 8466
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Feb 1, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-02-01T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193880",
     "matchName": "Wolverhampton Wanderers-vs-Luton Town_Sat, Apr 27, 2024, 14:00 UTC",
     "matchRound": "35",
@@ -26181,6 +26271,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Nov 4, 2023, 15:00 UTC",
     "matchTimeUTCDate": "2023-11-04T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506620",
+    "matchName": "Newcastle United-vs-Fulham_Sat, Feb 1, 2025, 15:00 UTC",
+    "matchRound": "24",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#C90000"
+      },
+      "lightMode": {
+        "home": "#141413",
+        "away": "#C90000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 24",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "awayTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Feb 1, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-02-01T15:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -32255,6 +32390,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Dec 7, 2024, 15:00 UTC",
     "matchTimeUTCDate": "2024-12-07T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506613",
+    "matchName": "AFC Bournemouth-vs-Liverpool_Sat, Feb 1, 2025, 15:00 UTC",
+    "matchRound": "24",
+    "teamColors": {
+      "darkMode": {
+        "home": "#D71921",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#D71921",
+        "away": "#00A398"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 24",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "awayTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Feb 1, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-02-01T15:00:00.000Z",
     "started": true,
     "finished": true
   },
