@@ -37503,6 +37503,51 @@
     "finished": true
   },
   {
+    "matchId": "4506621",
+    "matchName": "Nottingham Forest-vs-Brighton & Hove Albion_Sat, Feb 1, 2025, 12:30 UTC",
+    "matchRound": "24",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C8102E",
+        "away": "#095bb6"
+      },
+      "lightMode": {
+        "home": "#C8102E",
+        "away": "#0850A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 24",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Feb 1, 2025, 12:30 UTC",
+    "matchTimeUTCDate": "2025-02-01T12:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506305",
     "matchName": "Crystal Palace-vs-Manchester United_Sat, Sep 21, 2024, 16:30 UTC",
     "matchRound": "5",
