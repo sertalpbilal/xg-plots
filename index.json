@@ -9667,6 +9667,51 @@
     "finished": true
   },
   {
+    "matchId": "4506365",
+    "matchName": "Brighton & Hove Albion-vs-Aston Villa_Wed, Apr 2, 2025, 18:45 UTC",
+    "matchRound": "30",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#9d2358"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#7D1142"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 30",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Wed, Apr 2, 2025, 18:45 UTC",
+    "matchTimeUTCDate": "2025-04-02T18:45:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193738",
     "matchName": "Manchester United-vs-Tottenham Hotspur_Sun, Jan 14, 2024, 16:30 UTC",
     "matchRound": "21",
@@ -10554,6 +10599,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Tue, Jan 2, 2024, 19:30 UTC",
     "matchTimeUTCDate": "2024-01-02T19:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506372",
+    "matchName": "Liverpool-vs-Everton_Wed, Apr 2, 2025, 19:00 UTC",
+    "matchRound": "30",
+    "teamColors": {
+      "darkMode": {
+        "home": "#911712",
+        "away": "#0051d6"
+      },
+      "lightMode": {
+        "home": "#911712",
+        "away": "#0035b8"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 30",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "awayTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Wed, Apr 2, 2025, 19:00 UTC",
+    "matchTimeUTCDate": "2025-04-02T19:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -15802,6 +15892,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sun, Dec 17, 2023, 14:00 UTC",
     "matchTimeUTCDate": "2023-12-17T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506370",
+    "matchName": "Newcastle United-vs-Brentford_Wed, Apr 2, 2025, 18:45 UTC",
+    "matchRound": "30",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#C00808"
+      },
+      "lightMode": {
+        "home": "#141413",
+        "away": "#C00808"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 30",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "awayTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Wed, Apr 2, 2025, 18:45 UTC",
+    "matchTimeUTCDate": "2025-04-02T18:45:00.000Z",
     "started": true,
     "finished": true
   },
@@ -21478,6 +21613,51 @@
     },
     "matchTimeUTC": "Sat, Apr 8, 2023, 14:00 UTC",
     "matchTimeUTCDate": "2023-04-08T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506371",
+    "matchName": "Southampton-vs-Crystal Palace_Wed, Apr 2, 2025, 18:45 UTC",
+    "matchRound": "30",
+    "teamColors": {
+      "darkMode": {
+        "home": "#d71920",
+        "away": "#0055A5"
+      },
+      "lightMode": {
+        "home": "#d71920",
+        "away": "#0055A5"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 30",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Southampton",
+      "id": 8466
+    },
+    "awayTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Wed, Apr 2, 2025, 18:45 UTC",
+    "matchTimeUTCDate": "2025-04-02T18:45:00.000Z",
     "started": true,
     "finished": true
   },
@@ -28915,6 +29095,51 @@
     "finished": true
   },
   {
+    "matchId": "4506369",
+    "matchName": "Manchester City-vs-Leicester City_Wed, Apr 2, 2025, 18:45 UTC",
+    "matchRound": "30",
+    "teamColors": {
+      "darkMode": {
+        "home": "#76b4e5",
+        "away": "#0f55bd"
+      },
+      "lightMode": {
+        "home": "#69A8D8",
+        "away": "#0d47a1"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 30",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "awayTeam": {
+      "name": "Leicester City",
+      "id": 8197
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Wed, Apr 2, 2025, 18:45 UTC",
+    "matchTimeUTCDate": "2025-04-02T18:45:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193733",
     "matchName": "Brentford-vs-Nottingham Forest_Sat, Jan 20, 2024, 17:30 UTC",
     "matchRound": "21",
@@ -31520,6 +31745,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Thu, Dec 28, 2023, 20:15 UTC",
     "matchTimeUTCDate": "2023-12-28T20:15:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506363",
+    "matchName": "AFC Bournemouth-vs-Ipswich Town_Wed, Apr 2, 2025, 18:45 UTC",
+    "matchRound": "30",
+    "teamColors": {
+      "darkMode": {
+        "home": "#D71921",
+        "away": "#004fc2"
+      },
+      "lightMode": {
+        "home": "#D71921",
+        "away": "#0333A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "Round 30",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "awayTeam": {
+      "name": "Ipswich Town",
+      "id": 9902
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Wed, Apr 2, 2025, 18:45 UTC",
+    "matchTimeUTCDate": "2025-04-02T18:45:00.000Z",
     "started": true,
     "finished": true
   },
