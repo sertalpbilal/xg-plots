@@ -22675,6 +22675,51 @@
     "finished": true
   },
   {
+    "matchId": "4506379",
+    "matchName": "Leicester City-vs-Newcastle United_Mon, Apr 7, 2025, 19:00 UTC",
+    "matchRound": "31",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0f55bd",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#0d47a1",
+        "away": "#141413"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "31",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Leicester City",
+      "id": 8197
+    },
+    "awayTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Mon, Apr 7, 2025, 19:00 UTC",
+    "matchTimeUTCDate": "2025-04-07T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193674",
     "matchName": "Fulham-vs-Nottingham Forest_Wed, Dec 6, 2023, 19:30 UTC",
     "matchRound": "15",
