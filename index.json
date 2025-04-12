@@ -25765,6 +25765,51 @@
     "finished": true
   },
   {
+    "matchId": "4506384",
+    "matchName": "Arsenal-vs-Brentford_Sat, Apr 12, 2025, 16:30 UTC",
+    "matchRound": "32",
+    "teamColors": {
+      "darkMode": {
+        "home": "#bd0510",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#bd0510",
+        "away": "#88acce"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "32",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "awayTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 12, 2025, 16:30 UTC",
+    "matchTimeUTCDate": "2025-04-12T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506494",
     "matchName": "Brentford-vs-Arsenal_Wed, Jan 1, 2025, 17:30 UTC",
     "matchRound": "19",
