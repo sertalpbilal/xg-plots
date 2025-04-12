@@ -15425,6 +15425,51 @@
     "finished": true
   },
   {
+    "matchId": "4506388",
+    "matchName": "Manchester City-vs-Crystal Palace_Sat, Apr 12, 2025, 11:30 UTC",
+    "matchRound": "32",
+    "teamColors": {
+      "darkMode": {
+        "home": "#76b4e5",
+        "away": "#0055A5"
+      },
+      "lightMode": {
+        "home": "#69A8D8",
+        "away": "#0055A5"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "32",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "awayTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 12, 2025, 11:30 UTC",
+    "matchTimeUTCDate": "2025-04-12T11:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506320",
     "matchName": "Newcastle United-vs-Manchester City_Sat, Sep 28, 2024, 11:30 UTC",
     "matchRound": "6",
