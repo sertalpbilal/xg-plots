@@ -1302,6 +1302,51 @@
     "finished": true
   },
   {
+    "matchId": "4506391",
+    "matchName": "Southampton-vs-Aston Villa_Sat, Apr 12, 2025, 14:00 UTC",
+    "matchRound": "32",
+    "teamColors": {
+      "darkMode": {
+        "home": "#d71920",
+        "away": "#9d2358"
+      },
+      "lightMode": {
+        "home": "#d71920",
+        "away": "#7D1142"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "32",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Southampton",
+      "id": 8466
+    },
+    "awayTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 12, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-04-12T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193702",
     "matchName": "Crystal Palace-vs-Brighton & Hove Albion_Thu, Dec 21, 2023, 20:00 UTC",
     "matchRound": "18",
@@ -37215,6 +37260,51 @@
     "finished": true
   },
   {
+    "matchId": "4506390",
+    "matchName": "Nottingham Forest-vs-Everton_Sat, Apr 12, 2025, 14:00 UTC",
+    "matchRound": "32",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C8102E",
+        "away": "#0051d6"
+      },
+      "lightMode": {
+        "home": "#C8102E",
+        "away": "#0035b8"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "32",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "awayTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 12, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-04-12T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193563",
     "matchName": "Fulham-vs-Manchester United_Sat, Nov 4, 2023, 12:30 UTC",
     "matchRound": "11",
@@ -38569,6 +38659,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sun, Dec 17, 2023, 16:30 UTC",
     "matchTimeUTCDate": "2023-12-17T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506385",
+    "matchName": "Brighton & Hove Albion-vs-Leicester City_Sat, Apr 12, 2025, 14:00 UTC",
+    "matchRound": "32",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#FDBE11"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#FDBE11"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "32",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Leicester City",
+      "id": 8197
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 12, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-04-12T14:00:00.000Z",
     "started": true,
     "finished": true
   },
