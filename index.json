@@ -13529,6 +13529,51 @@
     "finished": true
   },
   {
+    "matchId": "4506552",
+    "matchName": "West Ham United-vs-Southampton_Sat, Apr 19, 2025, 14:00 UTC",
+    "matchRound": "33",
+    "teamColors": {
+      "darkMode": {
+        "home": "#8B3249",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#7B2B3A",
+        "away": "#00bacf"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "33",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "awayTeam": {
+      "name": "Southampton",
+      "id": 8466
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 19, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-04-19T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506329",
     "matchName": "Everton-vs-Newcastle United_Sat, Oct 5, 2024, 16:30 UTC",
     "matchRound": "7",
@@ -33412,6 +33457,51 @@
     "finished": true
   },
   {
+    "matchId": "4506546",
+    "matchName": "Everton-vs-Manchester City_Sat, Apr 19, 2025, 14:00 UTC",
+    "matchRound": "33",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0051d6",
+        "away": "#76b4e5"
+      },
+      "lightMode": {
+        "home": "#0035b8",
+        "away": "#69A8D8"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "33",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 19, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-04-19T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193711",
     "matchName": "AFC Bournemouth-vs-Fulham_Tue, Dec 26, 2023, 15:00 UTC",
     "matchRound": "19",
@@ -35909,6 +35999,51 @@
     },
     "matchTimeUTC": "Sun, Oct 16, 2022, 13:00 UTC",
     "matchTimeUTCDate": "2022-10-16T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506545",
+    "matchName": "Crystal Palace-vs-AFC Bournemouth_Sat, Apr 19, 2025, 14:00 UTC",
+    "matchRound": "33",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0055A5",
+        "away": "#D71921"
+      },
+      "lightMode": {
+        "home": "#0055A5",
+        "away": "#D71921"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "33",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "awayTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 19, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-04-19T14:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -39661,6 +39796,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Fri, Aug 16, 2024, 19:00 UTC",
     "matchTimeUTCDate": "2024-08-16T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506544",
+    "matchName": "Brentford-vs-Brighton & Hove Albion_Sat, Apr 19, 2025, 14:00 UTC",
+    "matchRound": "33",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C00808",
+        "away": "#095bb6"
+      },
+      "lightMode": {
+        "home": "#C00808",
+        "away": "#0850A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "33",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 19, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-04-19T14:00:00.000Z",
     "started": true,
     "finished": true
   },
