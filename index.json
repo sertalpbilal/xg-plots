@@ -501,6 +501,51 @@
     "finished": true
   },
   {
+    "matchId": "4506543",
+    "matchName": "Aston Villa-vs-Newcastle United_Sat, Apr 19, 2025, 16:30 UTC",
+    "matchRound": "33",
+    "teamColors": {
+      "darkMode": {
+        "home": "#9d2358",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#7D1142",
+        "away": "#141413"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "33",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "awayTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 19, 2025, 16:30 UTC",
+    "matchTimeUTCDate": "2025-04-19T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506272",
     "matchName": "Leicester City-vs-Tottenham Hotspur_Mon, Aug 19, 2024, 19:00 UTC",
     "matchRound": "1",
