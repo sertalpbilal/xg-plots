@@ -35273,6 +35273,51 @@
     "finished": true
   },
   {
+    "matchId": "4506551",
+    "matchName": "Tottenham Hotspur-vs-Nottingham Forest_Mon, Apr 21, 2025, 19:00 UTC",
+    "matchRound": "33",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#C8102E"
+      },
+      "lightMode": {
+        "home": "#132257",
+        "away": "#C8102E"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "33",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "awayTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Mon, Apr 21, 2025, 19:00 UTC",
+    "matchTimeUTCDate": "2025-04-21T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506505",
     "matchName": "Brighton & Hove Albion-vs-Arsenal_Sat, Jan 4, 2025, 17:30 UTC",
     "matchRound": "20",
