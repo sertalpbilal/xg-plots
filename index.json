@@ -16608,6 +16608,51 @@
     "finished": true
   },
   {
+    "matchId": "4506558",
+    "matchName": "Manchester City-vs-Aston Villa_Tue, Apr 22, 2025, 19:00 UTC",
+    "matchRound": "34",
+    "teamColors": {
+      "darkMode": {
+        "home": "#76b4e5",
+        "away": "#9d2358"
+      },
+      "lightMode": {
+        "home": "#69A8D8",
+        "away": "#7D1142"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "34",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "awayTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Tue, Apr 22, 2025, 19:00 UTC",
+    "matchTimeUTCDate": "2025-04-22T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506334",
     "matchName": "Brighton & Hove Albion-vs-AFC Bournemouth_Tue, Feb 25, 2025, 19:30 UTC",
     "matchRound": "27",
