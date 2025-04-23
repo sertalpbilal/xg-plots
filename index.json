@@ -33312,6 +33312,51 @@
     "finished": true
   },
   {
+    "matchId": "4506554",
+    "matchName": "Arsenal-vs-Crystal Palace_Wed, Apr 23, 2025, 19:00 UTC",
+    "matchRound": "34",
+    "teamColors": {
+      "darkMode": {
+        "home": "#bd0510",
+        "away": "#0055A5"
+      },
+      "lightMode": {
+        "home": "#bd0510",
+        "away": "#0055A5"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "34",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "awayTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Wed, Apr 23, 2025, 19:00 UTC",
+    "matchTimeUTCDate": "2025-04-23T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506376",
     "matchName": "Everton-vs-Arsenal_Sat, Apr 5, 2025, 11:30 UTC",
     "matchRound": "31",
