@@ -3014,6 +3014,51 @@
     "finished": true
   },
   {
+    "matchId": "4506555",
+    "matchName": "Brighton & Hove Albion-vs-West Ham United_Sat, Apr 26, 2025, 14:00 UTC",
+    "matchRound": "34",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#8B3249"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#7B2B3A"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "34",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 26, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-04-26T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193482",
     "matchName": "Brentford-vs-Crystal Palace_Sat, Aug 26, 2023, 14:00 UTC",
     "matchRound": "3",
@@ -24286,6 +24331,51 @@
     "finished": true
   },
   {
+    "matchId": "4506561",
+    "matchName": "Southampton-vs-Fulham_Sat, Apr 26, 2025, 14:00 UTC",
+    "matchRound": "34",
+    "teamColors": {
+      "darkMode": {
+        "home": "#d71920",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#d71920",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "34",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Southampton",
+      "id": 8466
+    },
+    "awayTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 26, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-04-26T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506552",
     "matchName": "West Ham United-vs-Southampton_Sat, Apr 19, 2025, 14:00 UTC",
     "matchRound": "33",
@@ -33272,6 +33362,51 @@
     "finished": true
   },
   {
+    "matchId": "4506559",
+    "matchName": "Newcastle United-vs-Ipswich Town_Sat, Apr 26, 2025, 14:00 UTC",
+    "matchRound": "34",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#004fc2"
+      },
+      "lightMode": {
+        "home": "#141413",
+        "away": "#0333A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "34",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "awayTeam": {
+      "name": "Ipswich Town",
+      "id": 9902
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 26, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-04-26T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193802",
     "matchName": "Arsenal-vs-Brentford_Sat, Mar 9, 2024, 17:30 UTC",
     "matchRound": "28",
@@ -35650,6 +35785,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sun, Mar 10, 2024, 14:00 UTC",
     "matchTimeUTCDate": "2024-03-10T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506562",
+    "matchName": "Wolverhampton Wanderers-vs-Leicester City_Sat, Apr 26, 2025, 14:00 UTC",
+    "matchRound": "34",
+    "teamColors": {
+      "darkMode": {
+        "home": "#F8A01A",
+        "away": "#0f55bd"
+      },
+      "lightMode": {
+        "home": "#eb9504",
+        "away": "#0d47a1"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "34",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Wolverhampton Wanderers",
+      "id": 8602
+    },
+    "awayTeam": {
+      "name": "Leicester City",
+      "id": 8197
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Apr 26, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-04-26T14:00:00.000Z",
     "started": true,
     "finished": true
   },
