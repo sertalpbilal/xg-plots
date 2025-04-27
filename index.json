@@ -34658,6 +34658,51 @@
     "finished": true
   },
   {
+    "matchId": "4506553",
+    "matchName": "AFC Bournemouth-vs-Manchester United_Sun, Apr 27, 2025, 13:00 UTC",
+    "matchRound": "34",
+    "teamColors": {
+      "darkMode": {
+        "home": "#D71921",
+        "away": "#FFFFFF"
+      },
+      "lightMode": {
+        "home": "#D71921",
+        "away": "#2B3737"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "34",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "awayTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Apr 27, 2025, 13:00 UTC",
+    "matchTimeUTCDate": "2025-04-27T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193553",
     "matchName": "Brighton & Hove Albion-vs-Fulham_Sun, Oct 29, 2023, 14:00 UTC",
     "matchRound": "10",
