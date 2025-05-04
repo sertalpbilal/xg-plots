@@ -28947,6 +28947,51 @@
     "finished": true
   },
   {
+    "matchId": "4506566",
+    "matchName": "Chelsea-vs-Liverpool_Sun, May 4, 2025, 15:30 UTC",
+    "matchRound": "35",
+    "teamColors": {
+      "darkMode": {
+        "home": "#1E4492",
+        "away": "#911712"
+      },
+      "lightMode": {
+        "home": "#064b95",
+        "away": "#911712"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "35",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "awayTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, May 4, 2025, 15:30 UTC",
+    "matchTimeUTCDate": "2025-05-04T15:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901208",
     "matchName": "Manchester City-vs-West Ham United_Wed, May 3, 2023, 19:00 UTC",
     "matchRound": "28",
