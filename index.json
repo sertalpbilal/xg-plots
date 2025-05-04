@@ -6315,6 +6315,51 @@
     "finished": true
   },
   {
+    "matchId": "4506565",
+    "matchName": "Brentford-vs-Manchester United_Sun, May 4, 2025, 13:00 UTC",
+    "matchRound": "35",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C00808",
+        "away": "#FFFFFF"
+      },
+      "lightMode": {
+        "home": "#C00808",
+        "away": "#2B3737"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "35",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "awayTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, May 4, 2025, 13:00 UTC",
+    "matchTimeUTCDate": "2025-05-04T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901006",
     "matchName": "Everton-vs-West Ham United_Sun, Sep 18, 2022, 13:15 UTC",
     "matchRound": "8",
@@ -19007,6 +19052,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Jan 4, 2025, 15:00 UTC",
     "matchTimeUTCDate": "2025-01-04T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506571",
+    "matchName": "West Ham United-vs-Tottenham Hotspur_Sun, May 4, 2025, 13:00 UTC",
+    "matchRound": "35",
+    "teamColors": {
+      "darkMode": {
+        "home": "#8B3249",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#7B2B3A",
+        "away": "#132257"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "35",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "awayTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, May 4, 2025, 13:00 UTC",
+    "matchTimeUTCDate": "2025-05-04T13:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -44809,6 +44899,51 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sun, Feb 25, 2024, 13:30 UTC",
     "matchTimeUTCDate": "2024-02-25T13:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4506572",
+    "matchName": "Brighton & Hove Albion-vs-Newcastle United_Sun, May 4, 2025, 13:00 UTC",
+    "matchRound": "35",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#141413"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "35",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "parentLeagueName": "Premier League",
+    "parentLeagueSeason": "2024/2025",
+    "parentLeagueTopScorerLink": "https://data.fotmob.com/stats/47/season/23685/goals.json",
+    "parentLeagueTournamentId": 23685,
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, May 4, 2025, 13:00 UTC",
+    "matchTimeUTCDate": "2025-05-04T13:00:00.000Z",
     "started": true,
     "finished": true
   },
