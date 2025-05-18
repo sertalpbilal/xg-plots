@@ -41008,6 +41008,47 @@
     "finished": true
   },
   {
+    "matchId": "4506589",
+    "matchName": "Everton-vs-Southampton_Sun, May 18, 2025, 11:00 UTC",
+    "matchRound": "37",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0051d6",
+        "away": "#d71920"
+      },
+      "lightMode": {
+        "home": "#0035b8",
+        "away": "#d71920"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "37",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Southampton",
+      "id": 8466
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, May 18, 2025, 11:00 UTC",
+    "matchTimeUTCDate": "2025-05-18T11:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193562",
     "matchName": "Everton-vs-Brighton & Hove Albion_Sat, Nov 4, 2023, 15:00 UTC",
     "matchRound": "11",
