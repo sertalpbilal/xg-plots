@@ -6013,6 +6013,47 @@
     "finished": true
   },
   {
+    "matchId": "4506586",
+    "matchName": "Brighton & Hove Albion-vs-Liverpool_Mon, May 19, 2025, 19:00 UTC",
+    "matchRound": "37",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#911712"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#911712"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "37",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Mon, May 19, 2025, 19:00 UTC",
+    "matchTimeUTCDate": "2025-05-19T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3900997",
     "matchName": "Leicester City-vs-Aston Villa_Tue, Apr 4, 2023, 18:45 UTC",
     "matchRound": "7",
