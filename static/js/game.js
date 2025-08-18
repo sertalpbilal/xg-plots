@@ -205,15 +205,29 @@ var app = new Vue({
         var node = document.getElementById("xg_race");
         node.style.width = "1600px";
 
+        // Options for better image quality
+        const options = {
+          copyDefaultStyles: true,
+          quality: 1.0,
+          bgcolor: "#efe9e6", // Match the background color from CSS
+          // Scale up for better quality
+          width: 1600,
+          height: 1200,
+          style: {
+            // Ensure fonts are applied
+            fontFamily: "'Manrope', 'Cabin', sans-serif"
+          }
+        };
+
         domtoimage
-          .toPng(node, (copyDefaultStyles = true))
+          .toPng(node, options)
           .then(function (dataUrl) {
             var img = new Image();
             img.src = dataUrl;
             var link = document.createElement("a");
             link.href = dataUrl;
-            let download_name = app.game_json.seo.path + ".jpg";
-            link.download = download_name; // 'download.jpg';
+            let download_name = app.game_json.seo.path + ".png";
+            link.download = download_name;
             document.body.appendChild(link);
             setTimeout(() => {
               link.click();
@@ -224,6 +238,7 @@ var app = new Vue({
           })
           .catch(function (error) {
             console.error("oops, something went wrong!", error);
+            app.taking_screenshot = false;
           });
       }, 100);
     },
