@@ -8,11 +8,16 @@
 
     <title>xG Plots - Game</title>
     <meta name="description" content="xG Plots">
-    
-    <link rel="stylesheet" href="static/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="static/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link href="static/css/bootstrap4-toggle.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" integrity="sha512-q3eWabyZPc1XTCmF+8/LuE1ozpg5xxn7iO89yfSOd5/oKvyqLngoNGsx8jq92Y8eXJ/IRxQbEC+FGSYxtk2oiw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css"
+        integrity="sha512-q3eWabyZPc1XTCmF+8/LuE1ozpg5xxn7iO89yfSOd5/oKvyqLngoNGsx8jq92Y8eXJ/IRxQbEC+FGSYxtk2oiw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="static/css/css2.css" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="static/css/main.css?id=1">
 
@@ -24,9 +29,13 @@
             Downloading the image...
         </div>
         <div class="text-center">
-            <div class="mb-2"><a href="index.html"><< Back</a></div>
-            <div class="mb-2"><button class="btn btn-sm btn-primary m-2" @click="open_modal" v-if="_.isEmpty(game_json)">Upload</button><button class="btn btn-sm btn-primary m-2" @click="download_image">Download</button></div>
-            
+            <div class="mb-2"><a href="index.html">
+                    << Back</a>
+            </div>
+            <div class="mb-2"><button class="btn btn-sm btn-primary m-2" @click="open_modal"
+                    v-if="_.isEmpty(game_json)">Upload</button><button class="btn btn-sm btn-primary m-2"
+                    @click="download_image">Download</button></div>
+
             <div class="mb-2">
                 <div id="xg_race"></div>
             </div>
@@ -34,8 +43,8 @@
             <div class="mb-2 d-flex flex-wrap">
                 <div class="form-group">
                     <label for="homeColor">Home Color</label>
-                    <select class="form-control" id="homeColor" v-model="home_color"  @change="plot_xg">
-                      <option v-for="i in home_color_options" :style="{'backgroundColor': i}">{{ '' + i }}</option>
+                    <select class="form-control" id="homeColor" v-model="home_color" @change="plot_xg">
+                        <option v-for="i in home_color_options" :style="{'backgroundColor': i}">{{ '' + i }}</option>
                     </select>
                 </div>
                 <div class="form-group">
@@ -44,8 +53,8 @@
                 </div>
                 <div class="form-group">
                     <label for="awayColor">Away Color</label>
-                    <select class="form-control" id="awayColor" v-model="away_color"  @change="plot_xg">
-                      <option v-for="i in away_color_options" :style="{'backgroundColor': i}">{{ '' + i }}</option>
+                    <select class="form-control" id="awayColor" v-model="away_color" @change="plot_xg">
+                        <option v-for="i in away_color_options" :style="{'backgroundColor': i}">{{ '' + i }}</option>
                     </select>
                 </div>
                 <div class="form-group">
@@ -59,14 +68,19 @@
                 <div>
                     <ul class="nav nav-tabs text-v-small" id="myTab" role="tablist">
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link active" id="shots-tab" data-bs-toggle="tab" data-bs-target="#shots-tab-pane" type="button" role="tab" aria-controls="shots-tab-pane" aria-selected="true">Game Shots</button>
+                            <button class="nav-link active" id="shots-tab" data-bs-toggle="tab"
+                                data-bs-target="#shots-tab-pane" type="button" role="tab" aria-controls="shots-tab-pane"
+                                aria-selected="true">Game Shots</button>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="players-tab" data-bs-toggle="tab" data-bs-target="#players-tab-pane" type="button" role="tab" aria-controls="players-tab-pane" aria-selected="false">Players</button>
+                            <button class="nav-link" id="players-tab" data-bs-toggle="tab"
+                                data-bs-target="#players-tab-pane" type="button" role="tab"
+                                aria-controls="players-tab-pane" aria-selected="false">Players</button>
                         </li>
                     </ul>
                     <div class="tab-content" id="myTabContent">
-                        <div class="tab-pane fade show active" id="shots-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
+                        <div class="tab-pane fade show active" id="shots-tab-pane" role="tabpanel"
+                            aria-labelledby="home-tab" tabindex="0">
                             <!-- <div class="mb-2 mt-2">Game Shots</div> -->
                             <div class="table-responsive">
                                 <table class="table table-sm table-striped text-v-small">
@@ -86,20 +100,27 @@
                                     <tbody>
                                         <tr v-for="shot in shots">
                                             <!-- <td>{{ shot }}</td> -->
-                                            <td :style="{color: shot.eventType == 'Goal' ? 'steelblue': 'darkred'}">{{ shot.eventType }}</td>
-                                            <td :style="{color: shot.teamId == home_team_id ? home_color : away_color}">{{ shot.playerName }}</td>
+                                            <td :style="{color: shot.eventType == 'Goal' ? 'steelblue': 'darkred'}">{{
+                                                shot.eventType }}</td>
+                                            <td :style="{color: shot.teamId == home_team_id ? home_color : away_color}">
+                                                {{ shot.playerName }}</td>
                                             <td>{{ shot.min }}</td>
                                             <td>{{ shot.situation }}</td>
                                             <td>{{ shot.shotType }}</td>
                                             <td>{{ _.round(shot.expectedGoals,3).toFixed(3) }}</td>
-                                            <td class="border-left-variant">{{ _.round(_.sum(shots.filter(i => i.min <= shot.min && i.teamId == game_json.general.homeTeam.id).map(i => i.expectedGoals)),3).toFixed(3) }}</td>
-                                            <td>{{ _.round(_.sum(shots.filter(i => i.min <= shot.min && i.teamId == game_json.general.awayTeam.id).map(i => i.expectedGoals)),3).toFixed(3) }}</td>
+                                            <td class="border-left-variant">{{ _.round(_.sum(shots.filter(i => i.min <=
+                                                    shot.min && i.teamId==game_json.general.homeTeam.id).map(i=>
+                                                    i.expectedGoals)),3).toFixed(3) }}</td>
+                                            <td>{{ _.round(_.sum(shots.filter(i => i.min <= shot.min &&
+                                                    i.teamId==game_json.general.awayTeam.id).map(i=>
+                                                    i.expectedGoals)),3).toFixed(3) }}</td>
                                         </tr>
                                     </tbody>
                                 </table>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="players-tab-pane" role="tabpanel" aria-labelledby="profile-tab" tabindex="0">
+                        <div class="tab-pane fade" id="players-tab-pane" role="tabpanel" aria-labelledby="profile-tab"
+                            tabindex="0">
                             <table class="table table-sm table-striped text-v-small">
                                 <thead>
                                     <tr>
@@ -112,12 +133,16 @@
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <tr v-for="p in players_by_xg" :class="{'hplayer': highlight_player == p.values[0].info.playerId}">
+                                    <tr v-for="p in players_by_xg"
+                                        :class="{'hplayer': highlight_player == p.values[0].info.playerId}">
                                         <!-- <td>{{ p.side }}</td> -->
                                         <td>
-                                            <button type="button" class="btn btn-primary btn-sm text-v-small btn-v-sm" @click="toggle_highlight(p.values[0].info.playerId)">★</button>
+                                            <button type="button" class="btn btn-primary btn-sm text-v-small btn-v-sm"
+                                                @click="toggle_highlight(p.values[0].info.playerId)">★</button>
                                         </td>
-                                        <td :style="{color: p.values[0].info.teamId == home_team_id ? home_color : away_color}">{{ p.name }}</td>
+                                        <td
+                                            :style="{color: p.values[0].info.teamId == home_team_id ? home_color : away_color}">
+                                            {{ p.name }}</td>
                                         <td>{{ _.round(p.total_xg,2) }}</td>
                                         <td>{{ p.shots }}</td>
                                         <td>{{ _.round(p.best_xg,2) }}</td>
@@ -129,7 +154,7 @@
                 </div>
 
 
-                
+
             </div>
         </div>
 
@@ -147,7 +172,8 @@
                             <div class="input-group form-row">
                                 <div class="custom-file col-auto">
                                     <input type="file" accept=".json"
-                                        class="custom-file-input upload-prediction-inputs-single" id="f_upload" @change="showUploadName" name="f_upload">
+                                        class="custom-file-input upload-prediction-inputs-single" id="f_upload"
+                                        @change="showUploadName" name="f_upload">
                                     <label class="custom-file-label" for="f_upload">Choose file</label>
                                 </div>
                             </div>
@@ -167,13 +193,22 @@
 </body>
 
 <script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.js" integrity="sha512-WNLxfP/8cVYL9sj8Jnp6et0BkubLP31jhTG9vhL/F5uEZmg5wEzKoXp1kJslzPQWwPT1eyMiSxlKCgzHLOTOTQ==" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/lodash@4.17.20/lodash.min.js" integrity="sha256-ur/YlHMU96MxHEsy3fHGszZHas7NzH4RQlD4tDVvFhw=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.js"
+    integrity="sha512-WNLxfP/8cVYL9sj8Jnp6et0BkubLP31jhTG9vhL/F5uEZmg5wEzKoXp1kJslzPQWwPT1eyMiSxlKCgzHLOTOTQ=="
+    crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/lodash@4.17.20/lodash.min.js"
+    integrity="sha256-ur/YlHMU96MxHEsy3fHGszZHas7NzH4RQlD4tDVvFhw=" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+    crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/gh/gitbrent/bootstrap4-toggle@3.6.1/js/bootstrap4-toggle.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.21/jquery.csv.min.js" integrity="sha512-Y8iWYJDo6HiTo5xtml1g4QqHtl/PO1w+dmUpQfQSOTqKNsMhExfyPN2ncNAe9JuJUSKzwK/b6oaNPop4MXzkwg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.6.1/d3.js" integrity="sha512-pJbXh9nxFa1tkmI3Gxiay8+mKTW+QvM8aMrTSR4xcw671sTWkvlHBgnyqXCRr1HFkE0YwhoRZwcdUFFxP4D9Lg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.21/jquery.csv.min.js"
+    integrity="sha512-Y8iWYJDo6HiTo5xtml1g4QqHtl/PO1w+dmUpQfQSOTqKNsMhExfyPN2ncNAe9JuJUSKzwK/b6oaNPop4MXzkwg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.6.1/d3.js"
+    integrity="sha512-pJbXh9nxFa1tkmI3Gxiay8+mKTW+QvM8aMrTSR4xcw671sTWkvlHBgnyqXCRr1HFkE0YwhoRZwcdUFFxP4D9Lg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdn.jsdelivr.net/npm/d3-scale-chromatic@3.0.0/dist/d3-scale-chromatic.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/dom-to-image-more@3.1.1/dist/dom-to-image-more.min.js"></script>
 <script src="static/js/game.js"></script>

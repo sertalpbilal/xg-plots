@@ -8,7 +8,7 @@ body {
 }
 
 * {
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Manrope', 'Cabin', sans-serif;
 }
 
 .border-left-variant {
@@ -149,7 +149,7 @@ body {
     color: wheat;
     line-height: 20px;
     /* letter-spacing: -0.4px; */
-    font-family: 'PremierSans-Regular';
+    font-family: 'Manrope', 'PremierSans-Regular';
     position: relative;
     bottom: 0px;
     z-index: 2;
@@ -157,9 +157,9 @@ body {
 }
 
 .creditline {
-    font-size: 18pt;
-    font-weight: bold;
-    color: #af7aa1;
+    font-size: 15pt;
+    /* font-weight: bold; */
+    color: navy;
 }
 
 .btn-v-sm {
