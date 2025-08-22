@@ -13306,6 +13306,47 @@
     "finished": true
   },
   {
+    "matchId": "4813394",
+    "matchName": "West Ham United-vs-Chelsea_Fri, Aug 22, 2025, 19:00 UTC",
+    "matchRound": "2",
+    "teamColors": {
+      "darkMode": {
+        "home": "#8B3249",
+        "away": "#1E4492"
+      },
+      "lightMode": {
+        "home": "#7B2B3A",
+        "away": "#064b95"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "2",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "awayTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Fri, Aug 22, 2025, 19:00 UTC",
+    "matchTimeUTCDate": "2025-08-22T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193562",
     "matchName": "Everton-vs-Brighton & Hove Albion_Sat, Nov 4, 2023, 15:00 UTC",
     "matchRound": "11",
