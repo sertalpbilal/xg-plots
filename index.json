@@ -18083,6 +18083,47 @@
     "finished": true
   },
   {
+    "matchId": "4813388",
+    "matchName": "Burnley-vs-Sunderland_Sat, Aug 23, 2025, 14:00 UTC",
+    "matchRound": "2",
+    "teamColors": {
+      "darkMode": {
+        "home": "#813868",
+        "away": "#DC0814"
+      },
+      "lightMode": {
+        "home": "#5E1444",
+        "away": "#DC0814"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "2",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "awayTeam": {
+      "name": "Sunderland",
+      "id": 8472
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Aug 23, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-08-23T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901146",
     "matchName": "Everton-vs-Arsenal_Sat, Feb 4, 2023, 12:30 UTC",
     "matchRound": "22",
@@ -26441,6 +26482,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Nov 25, 2023, 15:00 UTC",
     "matchTimeUTCDate": "2023-11-25T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813387",
+    "matchName": "Brentford-vs-Aston Villa_Sat, Aug 23, 2025, 14:00 UTC",
+    "matchRound": "2",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C00808",
+        "away": "#9d2358"
+      },
+      "lightMode": {
+        "home": "#C00808",
+        "away": "#7D1142"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "2",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "awayTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Aug 23, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-08-23T14:00:00.000Z",
     "started": true,
     "finished": true
   },
