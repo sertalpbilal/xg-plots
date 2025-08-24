@@ -11187,6 +11187,47 @@
     "finished": true
   },
   {
+    "matchId": "4813389",
+    "matchName": "Crystal Palace-vs-Nottingham Forest_Sun, Aug 24, 2025, 13:00 UTC",
+    "matchRound": "2",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0055A5",
+        "away": "#C8102E"
+      },
+      "lightMode": {
+        "home": "#0055A5",
+        "away": "#C8102E"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "2",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "awayTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Aug 24, 2025, 13:00 UTC",
+    "matchTimeUTCDate": "2025-08-24T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193799",
     "matchName": "Sheffield United-vs-Arsenal_Mon, Mar 4, 2024, 20:00 UTC",
     "matchRound": "27",
@@ -46005,6 +46046,47 @@
     },
     "matchTimeUTC": "Sat, Mar 11, 2023, 12:30 UTC",
     "matchTimeUTCDate": "2023-03-11T12:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813390",
+    "matchName": "Everton-vs-Brighton & Hove Albion_Sun, Aug 24, 2025, 13:00 UTC",
+    "matchRound": "2",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0051d6",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#0035b8",
+        "away": "#FAB500"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "2",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Aug 24, 2025, 13:00 UTC",
+    "matchTimeUTCDate": "2025-08-24T13:00:00.000Z",
     "started": true,
     "finished": true
   },
