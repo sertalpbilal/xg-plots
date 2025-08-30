@@ -9318,6 +9318,47 @@
     "finished": true
   },
   {
+    "matchId": "4813400",
+    "matchName": "Manchester United-vs-Burnley_Sat, Aug 30, 2025, 14:00 UTC",
+    "matchRound": "3",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C70101",
+        "away": "#813868"
+      },
+      "lightMode": {
+        "home": "#C70101",
+        "away": "#5E1444"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "3",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "awayTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Aug 30, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-08-30T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506637",
     "matchName": "Fulham-vs-Crystal Palace_Sat, Feb 22, 2025, 15:00 UTC",
     "matchRound": "26",
