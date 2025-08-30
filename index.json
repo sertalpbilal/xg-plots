@@ -25653,6 +25653,47 @@
     "finished": true
   },
   {
+    "matchId": "4813397",
+    "matchName": "Chelsea-vs-Fulham_Sat, Aug 30, 2025, 11:30 UTC",
+    "matchRound": "3",
+    "teamColors": {
+      "darkMode": {
+        "home": "#1E4492",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#064b95",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "3",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "awayTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Aug 30, 2025, 11:30 UTC",
+    "matchTimeUTCDate": "2025-08-30T11:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901229",
     "matchName": "Southampton-vs-Manchester City_Sat, Apr 8, 2023, 16:30 UTC",
     "matchRound": "30",
