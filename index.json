@@ -1631,6 +1631,47 @@
     "finished": true
   },
   {
+    "matchId": "4813395",
+    "matchName": "Aston Villa-vs-Crystal Palace_Sun, Aug 31, 2025, 18:00 UTC",
+    "matchRound": "3",
+    "teamColors": {
+      "darkMode": {
+        "home": "#9d2358",
+        "away": "#0055A5"
+      },
+      "lightMode": {
+        "home": "#7D1142",
+        "away": "#0055A5"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "3",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "awayTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Aug 31, 2025, 18:00 UTC",
+    "matchTimeUTCDate": "2025-08-31T18:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506585",
     "matchName": "Brentford-vs-Fulham_Sun, May 18, 2025, 14:00 UTC",
     "matchRound": "37",
