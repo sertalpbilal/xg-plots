@@ -10499,6 +10499,47 @@
     "finished": true
   },
   {
+    "matchId": "4813396",
+    "matchName": "Brighton & Hove Albion-vs-Manchester City_Sun, Aug 31, 2025, 13:00 UTC",
+    "matchRound": "3",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#76b4e5"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#69A8D8"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "3",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Aug 31, 2025, 13:00 UTC",
+    "matchTimeUTCDate": "2025-08-31T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901192",
     "matchName": "AFC Bournemouth-vs-Liverpool_Sat, Mar 11, 2023, 12:30 UTC",
     "matchRound": "27",
@@ -15141,6 +15182,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sun, May 5, 2024, 13:00 UTC",
     "matchTimeUTCDate": "2024-05-05T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813401",
+    "matchName": "Nottingham Forest-vs-West Ham United_Sun, Aug 31, 2025, 13:00 UTC",
+    "matchRound": "3",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C8102E",
+        "away": "#179ddb"
+      },
+      "lightMode": {
+        "home": "#C8102E",
+        "away": "#1BB1E7"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "3",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "awayTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Aug 31, 2025, 13:00 UTC",
+    "matchTimeUTCDate": "2025-08-31T13:00:00.000Z",
     "started": true,
     "finished": true
   },
