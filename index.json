@@ -27890,6 +27890,47 @@
     "finished": true
   },
   {
+    "matchId": "4813399",
+    "matchName": "Liverpool-vs-Arsenal_Sun, Aug 31, 2025, 15:30 UTC",
+    "matchRound": "3",
+    "teamColors": {
+      "darkMode": {
+        "home": "#911712",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#911712",
+        "away": "#101010"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "3",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Aug 31, 2025, 15:30 UTC",
+    "matchTimeUTCDate": "2025-08-31T15:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506613",
     "matchName": "AFC Bournemouth-vs-Liverpool_Sat, Feb 1, 2025, 15:00 UTC",
     "matchRound": "24",
