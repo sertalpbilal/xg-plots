@@ -17056,6 +17056,47 @@
     "finished": true
   },
   {
+    "matchId": "4813413",
+    "matchName": "Newcastle United-vs-Wolverhampton Wanderers_Sat, Sep 13, 2025, 14:00 UTC",
+    "matchRound": "4",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#F8A01A"
+      },
+      "lightMode": {
+        "home": "#141413",
+        "away": "#eb9504"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "4",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "awayTeam": {
+      "name": "Wolverhampton Wanderers",
+      "id": 8602
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Sep 13, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-09-13T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506567",
     "matchName": "Crystal Palace-vs-Nottingham Forest_Mon, May 5, 2025, 19:00 UTC",
     "matchRound": "35",
@@ -27544,6 +27585,47 @@
     "finished": true
   },
   {
+    "matchId": "4813405",
+    "matchName": "AFC Bournemouth-vs-Brighton & Hove Albion_Sat, Sep 13, 2025, 14:00 UTC",
+    "matchRound": "4",
+    "teamColors": {
+      "darkMode": {
+        "home": "#D71921",
+        "away": "#095bb6"
+      },
+      "lightMode": {
+        "home": "#D71921",
+        "away": "#0850A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "4",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Sep 13, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-09-13T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901132",
     "matchName": "Arsenal-vs-Manchester United_Sun, Jan 22, 2023, 16:30 UTC",
     "matchRound": "21",
@@ -29456,6 +29538,47 @@
     },
     "matchTimeUTC": "Sat, Sep 17, 2022, 16:30 UTC",
     "matchTimeUTCDate": "2022-09-17T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813409",
+    "matchName": "Crystal Palace-vs-Sunderland_Sat, Sep 13, 2025, 14:00 UTC",
+    "matchRound": "4",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0055A5",
+        "away": "#DC0814"
+      },
+      "lightMode": {
+        "home": "#0055A5",
+        "away": "#DC0814"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "4",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "awayTeam": {
+      "name": "Sunderland",
+      "id": 8472
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Sep 13, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-09-13T14:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -32613,6 +32736,47 @@
     "finished": true
   },
   {
+    "matchId": "4813411",
+    "matchName": "Fulham-vs-Leeds United_Sat, Sep 13, 2025, 14:00 UTC",
+    "matchRound": "4",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#FFCD00"
+      },
+      "lightMode": {
+        "home": "#000000",
+        "away": "#0060A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "4",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "awayTeam": {
+      "name": "Leeds United",
+      "id": 8463
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Sep 13, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-09-13T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901110",
     "matchName": "West Ham United-vs-Brentford_Fri, Dec 30, 2022, 19:45 UTC",
     "matchRound": "18",
@@ -33525,6 +33689,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Feb 1, 2025, 15:00 UTC",
     "matchTimeUTCDate": "2025-02-01T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813410",
+    "matchName": "Everton-vs-Aston Villa_Sat, Sep 13, 2025, 14:00 UTC",
+    "matchRound": "4",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0051d6",
+        "away": "#9d2358"
+      },
+      "lightMode": {
+        "home": "#0035b8",
+        "away": "#7D1142"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "4",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Sep 13, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-09-13T14:00:00.000Z",
     "started": true,
     "finished": true
   },
