@@ -31700,6 +31700,47 @@
     "finished": true
   },
   {
+    "matchId": "4813407",
+    "matchName": "Brentford-vs-Chelsea_Sat, Sep 13, 2025, 19:00 UTC",
+    "matchRound": "4",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C00808",
+        "away": "#1E4492"
+      },
+      "lightMode": {
+        "home": "#C00808",
+        "away": "#064b95"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "4",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "awayTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Sep 13, 2025, 19:00 UTC",
+    "matchTimeUTCDate": "2025-09-13T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506387",
     "matchName": "Liverpool-vs-West Ham United_Sun, Apr 13, 2025, 13:00 UTC",
     "matchRound": "32",
