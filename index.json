@@ -46608,6 +46608,47 @@
     "finished": true
   },
   {
+    "matchId": "4813414",
+    "matchName": "West Ham United-vs-Tottenham Hotspur_Sat, Sep 13, 2025, 16:30 UTC",
+    "matchRound": "4",
+    "teamColors": {
+      "darkMode": {
+        "home": "#8B3249",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#7B2B3A",
+        "away": "#132257"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "4",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "awayTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Sep 13, 2025, 16:30 UTC",
+    "matchTimeUTCDate": "2025-09-13T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193841",
     "matchName": "Aston Villa-vs-Brentford_Sat, Apr 6, 2024, 14:00 UTC",
     "matchRound": "32",
