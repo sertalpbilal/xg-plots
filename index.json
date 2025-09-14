@@ -861,6 +861,47 @@
     "finished": true
   },
   {
+    "matchId": "4813408",
+    "matchName": "Burnley-vs-Liverpool_Sun, Sep 14, 2025, 13:00 UTC",
+    "matchRound": "4",
+    "teamColors": {
+      "darkMode": {
+        "home": "#813868",
+        "away": "#911712"
+      },
+      "lightMode": {
+        "home": "#5E1444",
+        "away": "#911712"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "4",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "awayTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Sep 14, 2025, 13:00 UTC",
+    "matchTimeUTCDate": "2025-09-14T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506490",
     "matchName": "Nottingham Forest-vs-Tottenham Hotspur_Thu, Dec 26, 2024, 15:00 UTC",
     "matchRound": "18",
