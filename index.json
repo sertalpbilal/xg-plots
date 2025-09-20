@@ -15350,6 +15350,47 @@
     "finished": true
   },
   {
+    "matchId": "4813420",
+    "matchName": "Liverpool-vs-Everton_Sat, Sep 20, 2025, 11:30 UTC",
+    "matchRound": "5",
+    "teamColors": {
+      "darkMode": {
+        "home": "#911712",
+        "away": "#0051d6"
+      },
+      "lightMode": {
+        "home": "#911712",
+        "away": "#0035b8"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "5",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "awayTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Sep 20, 2025, 11:30 UTC",
+    "matchTimeUTCDate": "2025-09-20T11:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4813401",
     "matchName": "Nottingham Forest-vs-West Ham United_Sun, Aug 31, 2025, 13:00 UTC",
     "matchRound": "3",
