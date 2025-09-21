@@ -10035,6 +10035,47 @@
     "finished": true
   },
   {
+    "matchId": "4813415",
+    "matchName": "AFC Bournemouth-vs-Newcastle United_Sun, Sep 21, 2025, 13:00 UTC",
+    "matchRound": "5",
+    "teamColors": {
+      "darkMode": {
+        "home": "#D71921",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#D71921",
+        "away": "#141413"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "5",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "awayTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Sep 21, 2025, 13:00 UTC",
+    "matchTimeUTCDate": "2025-09-21T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4813377",
     "matchName": "Nottingham Forest-vs-Brentford_Sun, Aug 17, 2025, 13:00 UTC",
     "matchRound": "1",
@@ -33100,6 +33141,47 @@
     },
     "matchTimeUTC": "Fri, Dec 30, 2022, 19:45 UTC",
     "matchTimeUTCDate": "2022-12-30T19:45:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813422",
+    "matchName": "Sunderland-vs-Aston Villa_Sun, Sep 21, 2025, 13:00 UTC",
+    "matchRound": "5",
+    "teamColors": {
+      "darkMode": {
+        "home": "#DC0814",
+        "away": "#9d2358"
+      },
+      "lightMode": {
+        "home": "#DC0814",
+        "away": "#7D1142"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "5",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Sunderland",
+      "id": 8472
+    },
+    "awayTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Sep 21, 2025, 13:00 UTC",
+    "matchTimeUTCDate": "2025-09-21T13:00:00.000Z",
     "started": true,
     "finished": true
   },
