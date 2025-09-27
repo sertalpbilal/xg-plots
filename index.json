@@ -15218,6 +15218,47 @@
     "finished": true
   },
   {
+    "matchId": "4813431",
+    "matchName": "Manchester City-vs-Burnley_Sat, Sep 27, 2025, 14:00 UTC",
+    "matchRound": "6",
+    "teamColors": {
+      "darkMode": {
+        "home": "#76b4e5",
+        "away": "#813868"
+      },
+      "lightMode": {
+        "home": "#69A8D8",
+        "away": "#5E1444"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "6",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "awayTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Sep 27, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-09-27T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193761",
     "matchName": "Aston Villa-vs-Manchester United_Sun, Feb 11, 2024, 16:30 UTC",
     "matchRound": "24",
@@ -31794,6 +31835,47 @@
     },
     "matchTimeUTC": "Sat, Feb 11, 2023, 15:00 UTC",
     "matchTimeUTCDate": "2023-02-11T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813430",
+    "matchName": "Leeds United-vs-AFC Bournemouth_Sat, Sep 27, 2025, 14:00 UTC",
+    "matchRound": "6",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#D71921"
+      },
+      "lightMode": {
+        "home": "#0060A0",
+        "away": "#D71921"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "6",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Leeds United",
+      "id": 8463
+    },
+    "awayTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Sep 27, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-09-27T14:00:00.000Z",
     "started": true,
     "finished": true
   },
