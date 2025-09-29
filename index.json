@@ -31583,6 +31583,47 @@
     "finished": true
   },
   {
+    "matchId": "4813429",
+    "matchName": "Everton-vs-West Ham United_Mon, Sep 29, 2025, 19:00 UTC",
+    "matchRound": "6",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0051d6",
+        "away": "#8B3249"
+      },
+      "lightMode": {
+        "home": "#0035b8",
+        "away": "#7B2B3A"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "6",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Mon, Sep 29, 2025, 19:00 UTC",
+    "matchTimeUTCDate": "2025-09-29T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193506",
     "matchName": "Nottingham Forest-vs-Burnley_Mon, Sep 18, 2023, 18:45 UTC",
     "matchRound": "5",
