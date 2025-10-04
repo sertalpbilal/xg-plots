@@ -654,6 +654,47 @@
     "finished": true
   },
   {
+    "matchId": "4813439",
+    "matchName": "Chelsea-vs-Liverpool_Sat, Oct 4, 2025, 16:30 UTC",
+    "matchRound": "7",
+    "teamColors": {
+      "darkMode": {
+        "home": "#1E4492",
+        "away": "#911712"
+      },
+      "lightMode": {
+        "home": "#064b95",
+        "away": "#911712"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "7",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "awayTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 4, 2025, 16:30 UTC",
+    "matchTimeUTCDate": "2025-10-04T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193458",
     "matchName": "Chelsea-vs-Liverpool_Sun, Aug 13, 2023, 15:30 UTC",
     "matchRound": "1",
