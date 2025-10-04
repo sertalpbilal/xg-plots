@@ -15095,6 +15095,47 @@
     "finished": true
   },
   {
+    "matchId": "4813442",
+    "matchName": "Manchester United-vs-Sunderland_Sat, Oct 4, 2025, 14:00 UTC",
+    "matchRound": "7",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C70101",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#C70101",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "7",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "awayTeam": {
+      "name": "Sunderland",
+      "id": 8472
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 4, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-10-04T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193513",
     "matchName": "Burnley-vs-Manchester United_Sat, Sep 23, 2023, 19:00 UTC",
     "matchRound": "6",
@@ -15642,6 +15683,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Feb 24, 2024, 15:00 UTC",
     "matchTimeUTCDate": "2024-02-24T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813436",
+    "matchName": "Arsenal-vs-West Ham United_Sat, Oct 4, 2025, 14:00 UTC",
+    "matchRound": "7",
+    "teamColors": {
+      "darkMode": {
+        "home": "#bd0510",
+        "away": "#179ddb"
+      },
+      "lightMode": {
+        "home": "#bd0510",
+        "away": "#1BB1E7"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "7",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "awayTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 4, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-10-04T14:00:00.000Z",
     "started": true,
     "finished": true
   },
