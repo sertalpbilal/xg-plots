@@ -20445,6 +20445,47 @@
     "finished": true
   },
   {
+    "matchId": "4813437",
+    "matchName": "Aston Villa-vs-Burnley_Sun, Oct 5, 2025, 13:00 UTC",
+    "matchRound": "7",
+    "teamColors": {
+      "darkMode": {
+        "home": "#9d2358",
+        "away": "#50b3de"
+      },
+      "lightMode": {
+        "home": "#7D1142",
+        "away": "#50b3de"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "7",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "awayTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Oct 5, 2025, 13:00 UTC",
+    "matchTimeUTCDate": "2025-10-05T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193756",
     "matchName": "Chelsea-vs-Wolverhampton Wanderers_Sun, Feb 4, 2024, 14:00 UTC",
     "matchRound": "23",
@@ -26789,6 +26830,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Apr 26, 2025, 11:30 UTC",
     "matchTimeUTCDate": "2025-04-26T11:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813440",
+    "matchName": "Everton-vs-Crystal Palace_Sun, Oct 5, 2025, 13:00 UTC",
+    "matchRound": "7",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0051d6",
+        "away": "#E91D12"
+      },
+      "lightMode": {
+        "home": "#0035b8",
+        "away": "#E91D12"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "7",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Oct 5, 2025, 13:00 UTC",
+    "matchTimeUTCDate": "2025-10-05T13:00:00.000Z",
     "started": true,
     "finished": true
   },
