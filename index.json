@@ -6419,6 +6419,47 @@
     "finished": true
   },
   {
+    "matchId": "4813444",
+    "matchName": "Wolverhampton Wanderers-vs-Brighton & Hove Albion_Sun, Oct 5, 2025, 13:00 UTC",
+    "matchRound": "7",
+    "teamColors": {
+      "darkMode": {
+        "home": "#F8A01A",
+        "away": "#095bb6"
+      },
+      "lightMode": {
+        "home": "#eb9504",
+        "away": "#0850A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "7",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Wolverhampton Wanderers",
+      "id": 8602
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Oct 5, 2025, 13:00 UTC",
+    "matchTimeUTCDate": "2025-10-05T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506415",
     "matchName": "Manchester City-vs-Southampton_Sat, Oct 26, 2024, 14:00 UTC",
     "matchRound": "9",
@@ -24929,6 +24970,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Wed, Dec 27, 2023, 19:30 UTC",
     "matchTimeUTCDate": "2023-12-27T19:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813443",
+    "matchName": "Newcastle United-vs-Nottingham Forest_Sun, Oct 5, 2025, 13:00 UTC",
+    "matchRound": "7",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#C8102E"
+      },
+      "lightMode": {
+        "home": "#141413",
+        "away": "#C8102E"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "7",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "awayTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Oct 5, 2025, 13:00 UTC",
+    "matchTimeUTCDate": "2025-10-05T13:00:00.000Z",
     "started": true,
     "finished": true
   },
