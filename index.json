@@ -24035,6 +24035,47 @@
     "finished": true
   },
   {
+    "matchId": "4813451",
+    "matchName": "Nottingham Forest-vs-Chelsea_Sat, Oct 18, 2025, 11:30 UTC",
+    "matchRound": "8",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C8102E",
+        "away": "#1E4492"
+      },
+      "lightMode": {
+        "home": "#C8102E",
+        "away": "#064b95"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "8",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "awayTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 18, 2025, 11:30 UTC",
+    "matchTimeUTCDate": "2025-10-18T11:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506558",
     "matchName": "Manchester City-vs-Aston Villa_Tue, Apr 22, 2025, 19:00 UTC",
     "matchRound": "34",
