@@ -36396,6 +36396,47 @@
     "finished": true
   },
   {
+    "matchId": "4813449",
+    "matchName": "Liverpool-vs-Manchester United_Sun, Oct 19, 2025, 15:30 UTC",
+    "matchRound": "8",
+    "teamColors": {
+      "darkMode": {
+        "home": "#911712",
+        "away": "#FFFFFF"
+      },
+      "lightMode": {
+        "home": "#911712",
+        "away": "#2B3737"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "8",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "awayTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Oct 19, 2025, 15:30 UTC",
+    "matchTimeUTCDate": "2025-10-19T15:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193577",
     "matchName": "Manchester United-vs-Luton Town_Sat, Nov 11, 2023, 15:00 UTC",
     "matchRound": "12",
