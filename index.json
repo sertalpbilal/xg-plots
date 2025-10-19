@@ -7589,6 +7589,47 @@
     "finished": true
   },
   {
+    "matchId": "4813453",
+    "matchName": "Tottenham Hotspur-vs-Aston Villa_Sun, Oct 19, 2025, 13:00 UTC",
+    "matchRound": "8",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#9d2358"
+      },
+      "lightMode": {
+        "home": "#132257",
+        "away": "#7D1142"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "8",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "awayTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Oct 19, 2025, 13:00 UTC",
+    "matchTimeUTCDate": "2025-10-19T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193557",
     "matchName": "Manchester United-vs-Manchester City_Sun, Oct 29, 2023, 15:30 UTC",
     "matchRound": "10",
