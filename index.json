@@ -12138,6 +12138,47 @@
     "finished": true
   },
   {
+    "matchId": "4813459",
+    "matchName": "Chelsea-vs-Sunderland_Sat, Oct 25, 2025, 14:00 UTC",
+    "matchRound": "9",
+    "teamColors": {
+      "darkMode": {
+        "home": "#1E4492",
+        "away": "#DC0814"
+      },
+      "lightMode": {
+        "home": "#064b95",
+        "away": "#DC0814"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "9",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "awayTeam": {
+      "name": "Sunderland",
+      "id": 8472
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 25, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-10-25T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3900993",
     "matchName": "AFC Bournemouth-vs-Brighton & Hove Albion_Tue, Apr 4, 2023, 18:45 UTC",
     "matchRound": "7",
@@ -34216,6 +34257,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Mar 2, 2024, 15:00 UTC",
     "matchTimeUTCDate": "2024-03-02T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813463",
+    "matchName": "Newcastle United-vs-Fulham_Sat, Oct 25, 2025, 14:00 UTC",
+    "matchRound": "9",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#C90000"
+      },
+      "lightMode": {
+        "home": "#141413",
+        "away": "#C90000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "9",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "awayTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 25, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-10-25T14:00:00.000Z",
     "started": true,
     "finished": true
   },
