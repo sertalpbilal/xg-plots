@@ -50935,6 +50935,47 @@
     "finished": true
   },
   {
+    "matchId": "4813462",
+    "matchName": "Manchester United-vs-Brighton & Hove Albion_Sat, Oct 25, 2025, 16:30 UTC",
+    "matchRound": "9",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C70101",
+        "away": "#095bb6"
+      },
+      "lightMode": {
+        "home": "#C70101",
+        "away": "#0850A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "9",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 25, 2025, 16:30 UTC",
+    "matchTimeUTCDate": "2025-10-25T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901013",
     "matchName": "AFC Bournemouth-vs-Brentford_Sat, Oct 1, 2022, 14:00 UTC",
     "matchRound": "9",
