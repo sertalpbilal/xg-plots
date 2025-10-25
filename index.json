@@ -15974,6 +15974,47 @@
     "finished": true
   },
   {
+    "matchId": "4813458",
+    "matchName": "Brentford-vs-Liverpool_Sat, Oct 25, 2025, 19:00 UTC",
+    "matchRound": "9",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C00808",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#C00808",
+        "away": "#00A398"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "9",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "awayTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Oct 25, 2025, 19:00 UTC",
+    "matchTimeUTCDate": "2025-10-25T19:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4813436",
     "matchName": "Arsenal-vs-West Ham United_Sat, Oct 4, 2025, 14:00 UTC",
     "matchRound": "7",
