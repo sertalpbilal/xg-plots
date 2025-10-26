@@ -40578,6 +40578,47 @@
     "finished": true
   },
   {
+    "matchId": "4813460",
+    "matchName": "Everton-vs-Tottenham Hotspur_Sun, Oct 26, 2025, 16:30 UTC",
+    "matchRound": "9",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0051d6",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#0035b8",
+        "away": "#7D99CB"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "9",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Oct 26, 2025, 16:30 UTC",
+    "matchTimeUTCDate": "2025-10-26T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193729",
     "matchName": "West Ham United-vs-Brighton & Hove Albion_Tue, Jan 2, 2024, 19:30 UTC",
     "matchRound": "20",
