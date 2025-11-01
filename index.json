@@ -25858,6 +25858,47 @@
     "finished": true
   },
   {
+    "matchId": "4813467",
+    "matchName": "Crystal Palace-vs-Brentford_Sat, Nov 1, 2025, 15:00 UTC",
+    "matchRound": "10",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0055A5",
+        "away": "#C00808"
+      },
+      "lightMode": {
+        "home": "#0055A5",
+        "away": "#C00808"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "10",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "awayTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Nov 1, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-11-01T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3900960",
     "matchName": "Tottenham Hotspur-vs-Wolverhampton Wanderers_Sat, Aug 20, 2022, 11:30 UTC",
     "matchRound": "3",
@@ -36061,6 +36102,47 @@
     "finished": true
   },
   {
+    "matchId": "4813468",
+    "matchName": "Fulham-vs-Wolverhampton Wanderers_Sat, Nov 1, 2025, 15:00 UTC",
+    "matchRound": "10",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#F8A01A"
+      },
+      "lightMode": {
+        "home": "#000000",
+        "away": "#eb9504"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "10",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "awayTeam": {
+      "name": "Wolverhampton Wanderers",
+      "id": 8602
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Nov 1, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-11-01T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4813450",
     "matchName": "Manchester City-vs-Everton_Sat, Oct 18, 2025, 14:00 UTC",
     "matchRound": "8",
@@ -40489,6 +40571,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Mar 30, 2024, 15:00 UTC",
     "matchTimeUTCDate": "2024-03-30T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813466",
+    "matchName": "Burnley-vs-Arsenal_Sat, Nov 1, 2025, 15:00 UTC",
+    "matchRound": "10",
+    "teamColors": {
+      "darkMode": {
+        "home": "#813868",
+        "away": "#bd0510"
+      },
+      "lightMode": {
+        "home": "#5E1444",
+        "away": "#bd0510"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "10",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Nov 1, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-11-01T15:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -45525,6 +45648,47 @@
     "finished": true
   },
   {
+    "matchId": "4813471",
+    "matchName": "Nottingham Forest-vs-Manchester United_Sat, Nov 1, 2025, 15:00 UTC",
+    "matchRound": "10",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C8102E",
+        "away": "#FFFFFF"
+      },
+      "lightMode": {
+        "home": "#C8102E",
+        "away": "#2B3737"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "10",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "awayTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Nov 1, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-11-01T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3900954",
     "matchName": "Everton-vs-Nottingham Forest_Sat, Aug 20, 2022, 14:00 UTC",
     "matchRound": "3",
@@ -48793,6 +48957,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sun, Oct 20, 2024, 15:30 UTC",
     "matchTimeUTCDate": "2024-10-20T15:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813465",
+    "matchName": "Brighton & Hove Albion-vs-Leeds United_Sat, Nov 1, 2025, 15:00 UTC",
+    "matchRound": "10",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#FFCD00"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "10",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Leeds United",
+      "id": 8463
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Nov 1, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-11-01T15:00:00.000Z",
     "started": true,
     "finished": true
   },
