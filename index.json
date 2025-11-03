@@ -35890,6 +35890,47 @@
     "finished": true
   },
   {
+    "matchId": "4813472",
+    "matchName": "Sunderland-vs-Everton_Mon, Nov 3, 2025, 20:00 UTC",
+    "matchRound": "10",
+    "teamColors": {
+      "darkMode": {
+        "home": "#DC0814",
+        "away": "#0051d6"
+      },
+      "lightMode": {
+        "home": "#DC0814",
+        "away": "#0035b8"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "10",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Sunderland",
+      "id": 8472
+    },
+    "awayTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Mon, Nov 3, 2025, 20:00 UTC",
+    "matchTimeUTCDate": "2025-11-03T20:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3900996",
     "matchName": "Leeds United-vs-Nottingham Forest_Tue, Apr 4, 2023, 18:45 UTC",
     "matchRound": "7",
