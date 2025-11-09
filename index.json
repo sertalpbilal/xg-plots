@@ -38084,6 +38084,47 @@
     "finished": true
   },
   {
+    "matchId": "4813475",
+    "matchName": "Aston Villa-vs-AFC Bournemouth_Sun, Nov 9, 2025, 14:00 UTC",
+    "matchRound": "11",
+    "teamColors": {
+      "darkMode": {
+        "home": "#9d2358",
+        "away": "#D71921"
+      },
+      "lightMode": {
+        "home": "#7D1142",
+        "away": "#D71921"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "11",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "awayTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Nov 9, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-11-09T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506632",
     "matchName": "West Ham United-vs-Brentford_Sat, Feb 15, 2025, 15:00 UTC",
     "matchRound": "25",
@@ -50472,6 +50513,47 @@
     "finished": true
   },
   {
+    "matchId": "4813481",
+    "matchName": "Nottingham Forest-vs-Leeds United_Sun, Nov 9, 2025, 14:00 UTC",
+    "matchRound": "11",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C8102E",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#C8102E",
+        "away": "#0060A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "11",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "awayTeam": {
+      "name": "Leeds United",
+      "id": 8463
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Nov 9, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-11-09T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506284",
     "matchName": "Brentford-vs-Southampton_Sat, Aug 31, 2024, 14:00 UTC",
     "matchRound": "3",
@@ -52897,6 +52979,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Apr 13, 2024, 14:00 UTC",
     "matchTimeUTCDate": "2024-04-13T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813478",
+    "matchName": "Crystal Palace-vs-Brighton & Hove Albion_Sun, Nov 9, 2025, 14:00 UTC",
+    "matchRound": "11",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0055A5",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#0055A5",
+        "away": "#FAB500"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "11",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Nov 9, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-11-09T14:00:00.000Z",
     "started": true,
     "finished": true
   },
