@@ -34,7 +34,7 @@ def refresh_cookie():
 
 def fetch_game_ids():
     r = requests.get('https://www.fotmob.com/api/leagues', cookies=cookies, params=params, headers=headers)
-    games = r.json()['matches']['allMatches']
+    games = r.json()['fixtures']['allMatches']
     print(r.status_code)
     return games
 
