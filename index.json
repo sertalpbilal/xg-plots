@@ -3455,6 +3455,47 @@
     "finished": true
   },
   {
+    "matchId": "4813499",
+    "matchName": "Everton-vs-Newcastle United_Sat, Nov 29, 2025, 17:30 UTC",
+    "matchRound": "13",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0051d6",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#0035b8",
+        "away": "#141413"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "13",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Nov 29, 2025, 17:30 UTC",
+    "matchTimeUTCDate": "2025-11-29T17:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4813448",
     "matchName": "Fulham-vs-Arsenal_Sat, Oct 18, 2025, 16:30 UTC",
     "matchRound": "8",
