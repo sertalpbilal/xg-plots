@@ -3194,6 +3194,47 @@
     "finished": true
   },
   {
+    "matchId": "4813500",
+    "matchName": "Manchester City-vs-Leeds United_Sat, Nov 29, 2025, 15:00 UTC",
+    "matchRound": "13",
+    "teamColors": {
+      "darkMode": {
+        "home": "#76b4e5",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#69A8D8",
+        "away": "#0060A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "13",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "awayTeam": {
+      "name": "Leeds United",
+      "id": 8463
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Nov 29, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-11-29T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193820",
     "matchName": "Wolverhampton Wanderers-vs-AFC Bournemouth_Wed, Apr 24, 2024, 18:45 UTC",
     "matchRound": "29",
@@ -22511,6 +22552,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sun, Nov 23, 2025, 14:00 UTC",
     "matchTimeUTCDate": "2025-11-23T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813502",
+    "matchName": "Sunderland-vs-AFC Bournemouth_Sat, Nov 29, 2025, 15:00 UTC",
+    "matchRound": "13",
+    "teamColors": {
+      "darkMode": {
+        "home": "#DC0814",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#DC0814",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "13",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Sunderland",
+      "id": 8472
+    },
+    "awayTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Nov 29, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-11-29T15:00:00.000Z",
     "started": true,
     "finished": true
   },
