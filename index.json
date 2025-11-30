@@ -16507,6 +16507,47 @@
     "finished": true
   },
   {
+    "matchId": "4813498",
+    "matchName": "Crystal Palace-vs-Manchester United_Sun, Nov 30, 2025, 12:00 UTC",
+    "matchRound": "13",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0055A5",
+        "away": "#C70101"
+      },
+      "lightMode": {
+        "home": "#0055A5",
+        "away": "#C70101"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "13",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "awayTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Nov 30, 2025, 12:00 UTC",
+    "matchTimeUTCDate": "2025-11-30T12:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4813458",
     "matchName": "Brentford-vs-Liverpool_Sat, Oct 25, 2025, 19:00 UTC",
     "matchRound": "9",
