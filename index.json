@@ -1781,6 +1781,47 @@
     "finished": true
   },
   {
+    "matchId": "4813511",
+    "matchName": "Liverpool-vs-Sunderland_Wed, Dec 3, 2025, 20:15 UTC",
+    "matchRound": "14",
+    "teamColors": {
+      "darkMode": {
+        "home": "#911712",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#911712",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "14",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "awayTeam": {
+      "name": "Sunderland",
+      "id": 8472
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Wed, Dec 3, 2025, 20:15 UTC",
+    "matchTimeUTCDate": "2025-12-03T20:15:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506449",
     "matchName": "Newcastle United-vs-Leicester City_Sat, Dec 14, 2024, 15:00 UTC",
     "matchRound": "16",
@@ -22144,6 +22185,47 @@
     },
     "matchTimeUTC": "Sat, Mar 18, 2023, 15:00 UTC",
     "matchTimeUTCDate": "2023-03-18T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813510",
+    "matchName": "Leeds United-vs-Chelsea_Wed, Dec 3, 2025, 20:15 UTC",
+    "matchRound": "14",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#1E4492"
+      },
+      "lightMode": {
+        "home": "#0060A0",
+        "away": "#EAD73A"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "14",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Leeds United",
+      "id": 8463
+    },
+    "awayTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Wed, Dec 3, 2025, 20:15 UTC",
+    "matchTimeUTCDate": "2025-12-03T20:15:00.000Z",
     "started": true,
     "finished": true
   },
