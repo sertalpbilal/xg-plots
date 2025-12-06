@@ -8459,6 +8459,47 @@
     "finished": true
   },
   {
+    "matchId": "4813523",
+    "matchName": "Tottenham Hotspur-vs-Brentford_Sat, Dec 6, 2025, 15:00 UTC",
+    "matchRound": "15",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#C00808"
+      },
+      "lightMode": {
+        "home": "#132257",
+        "away": "#C00808"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "15",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "awayTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 6, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-12-06T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3900977",
     "matchName": "West Ham United-vs-Tottenham Hotspur_Wed, Aug 31, 2022, 18:45 UTC",
     "matchRound": "5",
@@ -17721,6 +17762,47 @@
     },
     "matchTimeUTC": "Sat, Feb 4, 2023, 15:00 UTC",
     "matchTimeUTCDate": "2023-02-04T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813515",
+    "matchName": "AFC Bournemouth-vs-Chelsea_Sat, Dec 6, 2025, 15:00 UTC",
+    "matchRound": "15",
+    "teamColors": {
+      "darkMode": {
+        "home": "#D71921",
+        "away": "#1E4492"
+      },
+      "lightMode": {
+        "home": "#D71921",
+        "away": "#064b95"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "15",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "awayTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 6, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-12-06T15:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -37038,6 +37120,47 @@
     "finished": true
   },
   {
+    "matchId": "4813521",
+    "matchName": "Manchester City-vs-Sunderland_Sat, Dec 6, 2025, 15:00 UTC",
+    "matchRound": "15",
+    "teamColors": {
+      "darkMode": {
+        "home": "#76b4e5",
+        "away": "#DC0814"
+      },
+      "lightMode": {
+        "home": "#69A8D8",
+        "away": "#DC0814"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "15",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "awayTeam": {
+      "name": "Sunderland",
+      "id": 8472
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 6, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-12-06T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4813421",
     "matchName": "Manchester United-vs-Chelsea_Sat, Sep 20, 2025, 16:30 UTC",
     "matchRound": "5",
@@ -49304,6 +49427,47 @@
     },
     "matchTimeUTC": "Sun, Jan 22, 2023, 14:00 UTC",
     "matchTimeUTCDate": "2023-01-22T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813518",
+    "matchName": "Everton-vs-Nottingham Forest_Sat, Dec 6, 2025, 15:00 UTC",
+    "matchRound": "15",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0051d6",
+        "away": "#C8102E"
+      },
+      "lightMode": {
+        "home": "#0035b8",
+        "away": "#C8102E"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "15",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 6, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-12-06T15:00:00.000Z",
     "started": true,
     "finished": true
   },
