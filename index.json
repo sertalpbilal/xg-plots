@@ -31279,6 +31279,47 @@
     "finished": true
   },
   {
+    "matchId": "4813516",
+    "matchName": "Aston Villa-vs-Arsenal_Sat, Dec 6, 2025, 12:30 UTC",
+    "matchRound": "15",
+    "teamColors": {
+      "darkMode": {
+        "home": "#9d2358",
+        "away": "#bd0510"
+      },
+      "lightMode": {
+        "home": "#7D1142",
+        "away": "#bd0510"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "15",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 6, 2025, 12:30 UTC",
+    "matchTimeUTCDate": "2025-12-06T12:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506338",
     "matchName": "Wolverhampton Wanderers-vs-Fulham_Tue, Feb 25, 2025, 19:30 UTC",
     "matchRound": "27",
