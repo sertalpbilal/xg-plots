@@ -13589,6 +13589,47 @@
     "finished": true
   },
   {
+    "matchId": "4813522",
+    "matchName": "Newcastle United-vs-Burnley_Sat, Dec 6, 2025, 15:00 UTC",
+    "matchRound": "15",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#813868"
+      },
+      "lightMode": {
+        "home": "#141413",
+        "away": "#5E1444"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "15",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "awayTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 6, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-12-06T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4813480",
     "matchName": "Manchester City-vs-Liverpool_Sun, Nov 9, 2025, 16:30 UTC",
     "matchRound": "11",
