@@ -1992,6 +1992,47 @@
     "finished": true
   },
   {
+    "matchId": "4813517",
+    "matchName": "Brighton & Hove Albion-vs-West Ham United_Sun, Dec 7, 2025, 14:00 UTC",
+    "matchRound": "15",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#8B3249"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#7B2B3A"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "15",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Dec 7, 2025, 14:00 UTC",
+    "matchTimeUTCDate": "2025-12-07T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901227",
     "matchName": "Liverpool-vs-Arsenal_Sun, Apr 9, 2023, 15:30 UTC",
     "matchRound": "30",
