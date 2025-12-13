@@ -40495,6 +40495,47 @@
     "finished": true
   },
   {
+    "matchId": "4813525",
+    "matchName": "Arsenal-vs-Wolverhampton Wanderers_Sat, Dec 13, 2025, 20:00 UTC",
+    "matchRound": "16",
+    "teamColors": {
+      "darkMode": {
+        "home": "#bd0510",
+        "away": "#F8A01A"
+      },
+      "lightMode": {
+        "home": "#bd0510",
+        "away": "#eb9504"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "16",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "awayTeam": {
+      "name": "Wolverhampton Wanderers",
+      "id": 8602
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 13, 2025, 20:00 UTC",
+    "matchTimeUTCDate": "2025-12-13T20:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193670",
     "matchName": "West Ham United-vs-Crystal Palace_Sun, Dec 3, 2023, 14:00 UTC",
     "matchRound": "14",
