@@ -36969,6 +36969,47 @@
     "finished": true
   },
   {
+    "matchId": "4813528",
+    "matchName": "Chelsea-vs-Everton_Sat, Dec 13, 2025, 15:00 UTC",
+    "matchRound": "16",
+    "teamColors": {
+      "darkMode": {
+        "home": "#1E4492",
+        "away": "#FEEDB8"
+      },
+      "lightMode": {
+        "home": "#064b95",
+        "away": "#dbcb98"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "16",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "awayTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 13, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-12-13T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193735",
     "matchName": "Burnley-vs-Luton Town_Fri, Jan 12, 2024, 19:45 UTC",
     "matchRound": "21",
@@ -49842,6 +49883,47 @@
     },
     "matchTimeUTC": "Sat, Feb 11, 2023, 15:00 UTC",
     "matchTimeUTCDate": "2023-02-11T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813530",
+    "matchName": "Liverpool-vs-Brighton & Hove Albion_Sat, Dec 13, 2025, 15:00 UTC",
+    "matchRound": "16",
+    "teamColors": {
+      "darkMode": {
+        "home": "#911712",
+        "away": "#095bb6"
+      },
+      "lightMode": {
+        "home": "#911712",
+        "away": "#0850A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "16",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 13, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-12-13T15:00:00.000Z",
     "started": true,
     "finished": true
   },
