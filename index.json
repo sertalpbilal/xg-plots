@@ -1691,6 +1691,47 @@
     "finished": true
   },
   {
+    "matchId": "4813538",
+    "matchName": "Everton-vs-Arsenal_Sat, Dec 20, 2025, 20:00 UTC",
+    "matchRound": "17",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0051d6",
+        "away": "#bd0510"
+      },
+      "lightMode": {
+        "home": "#0035b8",
+        "away": "#bd0510"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "17",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 20, 2025, 20:00 UTC",
+    "matchTimeUTCDate": "2025-12-20T20:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193856",
     "matchName": "Liverpool-vs-Crystal Palace_Sun, Apr 14, 2024, 13:00 UTC",
     "matchRound": "33",
