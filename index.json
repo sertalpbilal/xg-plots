@@ -8457,6 +8457,47 @@
     "finished": true
   },
   {
+    "matchId": "4813542",
+    "matchName": "Newcastle United-vs-Chelsea_Sat, Dec 20, 2025, 12:30 UTC",
+    "matchRound": "17",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#1E4492"
+      },
+      "lightMode": {
+        "home": "#141413",
+        "away": "#064b95"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "17",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "awayTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 20, 2025, 12:30 UTC",
+    "matchTimeUTCDate": "2025-12-20T12:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4813403",
     "matchName": "Tottenham Hotspur-vs-AFC Bournemouth_Sat, Aug 30, 2025, 14:00 UTC",
     "matchRound": "3",
