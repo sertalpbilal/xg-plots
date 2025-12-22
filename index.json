@@ -39513,6 +39513,47 @@
     "finished": true
   },
   {
+    "matchId": "4813539",
+    "matchName": "Fulham-vs-Nottingham Forest_Mon, Dec 22, 2025, 20:00 UTC",
+    "matchRound": "17",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#C8102E"
+      },
+      "lightMode": {
+        "home": "#000000",
+        "away": "#C8102E"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "17",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "awayTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Mon, Dec 22, 2025, 20:00 UTC",
+    "matchTimeUTCDate": "2025-12-22T20:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4813536",
     "matchName": "Aston Villa-vs-Manchester United_Sun, Dec 21, 2025, 16:30 UTC",
     "matchRound": "17",
