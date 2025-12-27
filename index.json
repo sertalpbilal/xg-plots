@@ -16157,6 +16157,47 @@
     "finished": true
   },
   {
+    "matchId": "4813547",
+    "matchName": "Burnley-vs-Everton_Sat, Dec 27, 2025, 15:00 UTC",
+    "matchRound": "18",
+    "teamColors": {
+      "darkMode": {
+        "home": "#813868",
+        "away": "#0051d6"
+      },
+      "lightMode": {
+        "home": "#5E1444",
+        "away": "#0035b8"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "18",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "awayTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 27, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-12-27T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506321",
     "matchName": "Nottingham Forest-vs-Fulham_Sat, Sep 28, 2024, 14:00 UTC",
     "matchRound": "6",
@@ -16486,6 +16527,47 @@
     },
     "matchTimeUTC": "Sat, Apr 15, 2023, 14:00 UTC",
     "matchTimeUTCDate": "2023-04-15T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813550",
+    "matchName": "Liverpool-vs-Wolverhampton Wanderers_Sat, Dec 27, 2025, 15:00 UTC",
+    "matchRound": "18",
+    "teamColors": {
+      "darkMode": {
+        "home": "#911712",
+        "away": "#F8A01A"
+      },
+      "lightMode": {
+        "home": "#911712",
+        "away": "#eb9504"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "18",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "awayTeam": {
+      "name": "Wolverhampton Wanderers",
+      "id": 8602
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 27, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-12-27T15:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -20451,6 +20533,47 @@
     },
     "matchTimeUTC": "Sun, Aug 13, 2023, 13:00 UTC",
     "matchTimeUTCDate": "2023-08-13T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813554",
+    "matchName": "West Ham United-vs-Fulham_Sat, Dec 27, 2025, 15:00 UTC",
+    "matchRound": "18",
+    "teamColors": {
+      "darkMode": {
+        "home": "#8B3249",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#7B2B3A",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "18",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "awayTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 27, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-12-27T15:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -33565,6 +33688,47 @@
     "finished": true
   },
   {
+    "matchId": "4813546",
+    "matchName": "Brentford-vs-AFC Bournemouth_Sat, Dec 27, 2025, 15:00 UTC",
+    "matchRound": "18",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C00808",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#C00808",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "18",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "awayTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 27, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-12-27T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193678",
     "matchName": "Wolverhampton Wanderers-vs-Burnley_Tue, Dec 5, 2023, 19:30 UTC",
     "matchRound": "15",
@@ -41192,6 +41356,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sun, Dec 3, 2023, 14:00 UTC",
     "matchTimeUTCDate": "2023-12-03T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813545",
+    "matchName": "Arsenal-vs-Brighton & Hove Albion_Sat, Dec 27, 2025, 15:00 UTC",
+    "matchRound": "18",
+    "teamColors": {
+      "darkMode": {
+        "home": "#bd0510",
+        "away": "#095bb6"
+      },
+      "lightMode": {
+        "home": "#bd0510",
+        "away": "#0850A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "18",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 27, 2025, 15:00 UTC",
+    "matchTimeUTCDate": "2025-12-27T15:00:00.000Z",
     "started": true,
     "finished": true
   },
