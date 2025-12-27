@@ -25288,6 +25288,47 @@
     "finished": true
   },
   {
+    "matchId": "4813552",
+    "matchName": "Nottingham Forest-vs-Manchester City_Sat, Dec 27, 2025, 12:30 UTC",
+    "matchRound": "18",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C8102E",
+        "away": "#76b4e5"
+      },
+      "lightMode": {
+        "home": "#C8102E",
+        "away": "#69A8D8"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "18",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "awayTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Dec 27, 2025, 12:30 UTC",
+    "matchTimeUTCDate": "2025-12-27T12:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506296",
     "matchName": "Crystal Palace-vs-Leicester City_Sat, Sep 14, 2024, 14:00 UTC",
     "matchRound": "4",
