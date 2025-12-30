@@ -23055,6 +23055,47 @@
     "finished": true
   },
   {
+    "matchId": "4813558",
+    "matchName": "Chelsea-vs-AFC Bournemouth_Tue, Dec 30, 2025, 19:30 UTC",
+    "matchRound": "19",
+    "teamColors": {
+      "darkMode": {
+        "home": "#1E4492",
+        "away": "#D71921"
+      },
+      "lightMode": {
+        "home": "#064b95",
+        "away": "#D71921"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "19",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "awayTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Tue, Dec 30, 2025, 19:30 UTC",
+    "matchTimeUTCDate": "2025-12-30T19:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506465",
     "matchName": "Ipswich Town-vs-Leicester City_Sat, Nov 2, 2024, 15:00 UTC",
     "matchRound": "10",
@@ -34531,6 +34572,47 @@
     },
     "matchTimeUTC": "Sat, Apr 1, 2023, 14:00 UTC",
     "matchTimeUTCDate": "2023-04-01T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813557",
+    "matchName": "Burnley-vs-Newcastle United_Tue, Dec 30, 2025, 19:30 UTC",
+    "matchRound": "19",
+    "teamColors": {
+      "darkMode": {
+        "home": "#813868",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#5E1444",
+        "away": "#141413"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "19",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "awayTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Tue, Dec 30, 2025, 19:30 UTC",
+    "matchTimeUTCDate": "2025-12-30T19:30:00.000Z",
     "started": true,
     "finished": true
   },
@@ -51118,6 +51200,47 @@
     "finished": true
   },
   {
+    "matchId": "4813564",
+    "matchName": "West Ham United-vs-Brighton & Hove Albion_Tue, Dec 30, 2025, 19:30 UTC",
+    "matchRound": "19",
+    "teamColors": {
+      "darkMode": {
+        "home": "#8B3249",
+        "away": "#095bb6"
+      },
+      "lightMode": {
+        "home": "#7B2B3A",
+        "away": "#0850A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "19",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Tue, Dec 30, 2025, 19:30 UTC",
+    "matchTimeUTCDate": "2025-12-30T19:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506447",
     "matchName": "Liverpool-vs-Fulham_Sat, Dec 14, 2024, 15:00 UTC",
     "matchRound": "16",
@@ -53768,6 +53891,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sun, Dec 29, 2024, 15:00 UTC",
     "matchTimeUTCDate": "2024-12-29T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813562",
+    "matchName": "Nottingham Forest-vs-Everton_Tue, Dec 30, 2025, 19:30 UTC",
+    "matchRound": "19",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C8102E",
+        "away": "#0051d6"
+      },
+      "lightMode": {
+        "home": "#C8102E",
+        "away": "#0035b8"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "19",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "awayTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Tue, Dec 30, 2025, 19:30 UTC",
+    "matchTimeUTCDate": "2025-12-30T19:30:00.000Z",
     "started": true,
     "finished": true
   },
