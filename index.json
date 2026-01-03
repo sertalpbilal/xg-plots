@@ -827,6 +827,47 @@
     "finished": true
   },
   {
+    "matchId": "4813567",
+    "matchName": "Brighton & Hove Albion-vs-Burnley_Sat, Jan 3, 2026, 15:00 UTC",
+    "matchRound": "20",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#813868"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#5E1444"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "20",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Jan 3, 2026, 15:00 UTC",
+    "matchTimeUTCDate": "2026-01-03T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3900957",
     "matchName": "Leicester City-vs-Southampton_Sat, Aug 20, 2022, 14:00 UTC",
     "matchRound": "3",
@@ -48098,6 +48139,47 @@
     },
     "matchTimeUTC": "Sun, Aug 21, 2022, 13:00 UTC",
     "matchTimeUTCDate": "2022-08-21T13:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813574",
+    "matchName": "Wolverhampton Wanderers-vs-West Ham United_Sat, Jan 3, 2026, 15:00 UTC",
+    "matchRound": "20",
+    "teamColors": {
+      "darkMode": {
+        "home": "#F8A01A",
+        "away": "#8B3249"
+      },
+      "lightMode": {
+        "home": "#eb9504",
+        "away": "#7B2B3A"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "20",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Wolverhampton Wanderers",
+      "id": 8602
+    },
+    "awayTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Jan 3, 2026, 15:00 UTC",
+    "matchTimeUTCDate": "2026-01-03T15:00:00.000Z",
     "started": true,
     "finished": true
   },
