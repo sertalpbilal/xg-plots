@@ -26341,6 +26341,47 @@
     "finished": true
   },
   {
+    "matchId": "4813565",
+    "matchName": "AFC Bournemouth-vs-Arsenal_Sat, Jan 3, 2026, 17:30 UTC",
+    "matchRound": "20",
+    "teamColors": {
+      "darkMode": {
+        "home": "#D71921",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#D71921",
+        "away": "#101010"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "20",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Jan 3, 2026, 17:30 UTC",
+    "matchTimeUTCDate": "2026-01-03T17:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193878",
     "matchName": "Tottenham Hotspur-vs-Arsenal_Sun, Apr 28, 2024, 13:00 UTC",
     "matchRound": "35",
