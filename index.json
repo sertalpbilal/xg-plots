@@ -17152,6 +17152,47 @@
     "finished": true
   },
   {
+    "matchId": "4813569",
+    "matchName": "Fulham-vs-Liverpool_Sun, Jan 4, 2026, 15:15 UTC",
+    "matchRound": "20",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#911712"
+      },
+      "lightMode": {
+        "home": "#000000",
+        "away": "#911712"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "20",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "awayTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Jan 4, 2026, 15:15 UTC",
+    "matchTimeUTCDate": "2026-01-04T15:15:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506612",
     "matchName": "Wolverhampton Wanderers-vs-Arsenal_Sat, Jan 25, 2025, 15:00 UTC",
     "matchRound": "23",
