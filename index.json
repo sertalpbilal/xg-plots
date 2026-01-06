@@ -1486,6 +1486,47 @@
     "finished": true
   },
   {
+    "matchId": "4813584",
+    "matchName": "West Ham United-vs-Nottingham Forest_Tue, Jan 6, 2026, 20:00 UTC",
+    "matchRound": "21",
+    "teamColors": {
+      "darkMode": {
+        "home": "#8B3249",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#7B2B3A",
+        "away": "#203866"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "21",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "awayTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Tue, Jan 6, 2026, 20:00 UTC",
+    "matchTimeUTCDate": "2026-01-06T20:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4813532",
     "matchName": "Nottingham Forest-vs-Tottenham Hotspur_Sun, Dec 14, 2025, 14:00 UTC",
     "matchRound": "16",
