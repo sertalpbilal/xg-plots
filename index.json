@@ -1648,6 +1648,47 @@
     "finished": true
   },
   {
+    "matchId": "4813580",
+    "matchName": "Everton-vs-Wolverhampton Wanderers_Wed, Jan 7, 2026, 19:30 UTC",
+    "matchRound": "21",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0051d6",
+        "away": "#F8A01A"
+      },
+      "lightMode": {
+        "home": "#0035b8",
+        "away": "#eb9504"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "21",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "Wolverhampton Wanderers",
+      "id": 8602
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Wed, Jan 7, 2026, 19:30 UTC",
+    "matchTimeUTCDate": "2026-01-07T19:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506486",
     "matchName": "Chelsea-vs-Fulham_Thu, Dec 26, 2024, 15:00 UTC",
     "matchRound": "18",
@@ -6427,6 +6468,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sun, Mar 16, 2025, 13:30 UTC",
     "matchTimeUTCDate": "2025-03-16T13:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813579",
+    "matchName": "Crystal Palace-vs-Aston Villa_Wed, Jan 7, 2026, 19:30 UTC",
+    "matchRound": "21",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0055A5",
+        "away": "#9d2358"
+      },
+      "lightMode": {
+        "home": "#0055A5",
+        "away": "#7D1142"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "21",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "awayTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Wed, Jan 7, 2026, 19:30 UTC",
+    "matchTimeUTCDate": "2026-01-07T19:30:00.000Z",
     "started": true,
     "finished": true
   },
@@ -11850,6 +11932,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Feb 17, 2024, 15:00 UTC",
     "matchTimeUTCDate": "2024-02-17T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813581",
+    "matchName": "Fulham-vs-Chelsea_Wed, Jan 7, 2026, 19:30 UTC",
+    "matchRound": "21",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#1E4492"
+      },
+      "lightMode": {
+        "home": "#000000",
+        "away": "#064b95"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "21",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "awayTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Wed, Jan 7, 2026, 19:30 UTC",
+    "matchTimeUTCDate": "2026-01-07T19:30:00.000Z",
     "started": true,
     "finished": true
   },
@@ -31307,6 +31430,47 @@
     "finished": true
   },
   {
+    "matchId": "4813582",
+    "matchName": "Manchester City-vs-Brighton & Hove Albion_Wed, Jan 7, 2026, 19:30 UTC",
+    "matchRound": "21",
+    "teamColors": {
+      "darkMode": {
+        "home": "#76b4e5",
+        "away": "#095bb6"
+      },
+      "lightMode": {
+        "home": "#69A8D8",
+        "away": "#0850A0"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "21",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "awayTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Wed, Jan 7, 2026, 19:30 UTC",
+    "matchTimeUTCDate": "2026-01-07T19:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193710",
     "matchName": "Wolverhampton Wanderers-vs-Chelsea_Sun, Dec 24, 2023, 13:00 UTC",
     "matchRound": "18",
@@ -35485,6 +35649,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sun, May 25, 2025, 15:00 UTC",
     "matchTimeUTCDate": "2025-05-25T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813577",
+    "matchName": "Brentford-vs-Sunderland_Wed, Jan 7, 2026, 19:30 UTC",
+    "matchRound": "21",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C00808",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#C00808",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "21",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "awayTeam": {
+      "name": "Sunderland",
+      "id": 8472
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Wed, Jan 7, 2026, 19:30 UTC",
+    "matchTimeUTCDate": "2026-01-07T19:30:00.000Z",
     "started": true,
     "finished": true
   },
@@ -43781,6 +43986,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Sep 21, 2024, 16:30 UTC",
     "matchTimeUTCDate": "2024-09-21T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813575",
+    "matchName": "AFC Bournemouth-vs-Tottenham Hotspur_Wed, Jan 7, 2026, 19:30 UTC",
+    "matchRound": "21",
+    "teamColors": {
+      "darkMode": {
+        "home": "#D71921",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#D71921",
+        "away": "#132257"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "21",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "awayTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Wed, Jan 7, 2026, 19:30 UTC",
+    "matchTimeUTCDate": "2026-01-07T19:30:00.000Z",
     "started": true,
     "finished": true
   },
