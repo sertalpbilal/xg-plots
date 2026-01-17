@@ -31300,6 +31300,47 @@
     "finished": true
   },
   {
+    "matchId": "4813591",
+    "matchName": "Nottingham Forest-vs-Arsenal_Sat, Jan 17, 2026, 17:30 UTC",
+    "matchRound": "22",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C8102E",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#C8102E",
+        "away": "#101010"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "22",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Jan 17, 2026, 17:30 UTC",
+    "matchTimeUTCDate": "2026-01-17T17:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193573",
     "matchName": "Brighton & Hove Albion-vs-Sheffield United_Sun, Nov 12, 2023, 14:00 UTC",
     "matchRound": "12",
