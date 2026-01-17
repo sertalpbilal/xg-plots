@@ -34287,6 +34287,47 @@
     "finished": true
   },
   {
+    "matchId": "4813590",
+    "matchName": "Manchester United-vs-Manchester City_Sat, Jan 17, 2026, 12:30 UTC",
+    "matchRound": "22",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C70101",
+        "away": "#76b4e5"
+      },
+      "lightMode": {
+        "home": "#C70101",
+        "away": "#69A8D8"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "22",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "awayTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Jan 17, 2026, 12:30 UTC",
+    "matchTimeUTCDate": "2026-01-17T12:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4813422",
     "matchName": "Sunderland-vs-Aston Villa_Sun, Sep 21, 2025, 13:00 UTC",
     "matchRound": "5",
