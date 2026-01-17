@@ -5401,6 +5401,47 @@
     "finished": true
   },
   {
+    "matchId": "4813592",
+    "matchName": "Sunderland-vs-Crystal Palace_Sat, Jan 17, 2026, 15:00 UTC",
+    "matchRound": "22",
+    "teamColors": {
+      "darkMode": {
+        "home": "#DC0814",
+        "away": "#0055A5"
+      },
+      "lightMode": {
+        "home": "#DC0814",
+        "away": "#0055A5"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "22",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Sunderland",
+      "id": 8472
+    },
+    "awayTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Jan 17, 2026, 15:00 UTC",
+    "matchTimeUTCDate": "2026-01-17T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901174",
     "matchName": "Everton-vs-Aston Villa_Sat, Feb 25, 2023, 15:00 UTC",
     "matchRound": "25",
@@ -22390,6 +22431,47 @@
     "finished": true
   },
   {
+    "matchId": "4813587",
+    "matchName": "Chelsea-vs-Brentford_Sat, Jan 17, 2026, 15:00 UTC",
+    "matchRound": "22",
+    "teamColors": {
+      "darkMode": {
+        "home": "#1E4492",
+        "away": "#C00808"
+      },
+      "lightMode": {
+        "home": "#064b95",
+        "away": "#C00808"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "22",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "awayTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Jan 17, 2026, 15:00 UTC",
+    "matchTimeUTCDate": "2026-01-17T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506509",
     "matchName": "Manchester City-vs-West Ham United_Sat, Jan 4, 2025, 15:00 UTC",
     "matchRound": "20",
@@ -22738,6 +22820,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Dec 14, 2024, 17:30 UTC",
     "matchTimeUTCDate": "2024-12-14T17:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813588",
+    "matchName": "Leeds United-vs-Fulham_Sat, Jan 17, 2026, 15:00 UTC",
+    "matchRound": "22",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#C90000"
+      },
+      "lightMode": {
+        "home": "#0060A0",
+        "away": "#000000"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "22",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Leeds United",
+      "id": 8463
+    },
+    "awayTeam": {
+      "name": "Fulham",
+      "id": 9879
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Jan 17, 2026, 15:00 UTC",
+    "matchTimeUTCDate": "2026-01-17T15:00:00.000Z",
     "started": true,
     "finished": true
   },
@@ -37135,6 +37258,47 @@
     "coverageLevel": "xG",
     "matchTimeUTC": "Sat, Feb 22, 2025, 15:00 UTC",
     "matchTimeUTCDate": "2025-02-22T15:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813589",
+    "matchName": "Liverpool-vs-Burnley_Sat, Jan 17, 2026, 15:00 UTC",
+    "matchRound": "22",
+    "teamColors": {
+      "darkMode": {
+        "home": "#911712",
+        "away": "#813868"
+      },
+      "lightMode": {
+        "home": "#911712",
+        "away": "#5E1444"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "22",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "awayTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Jan 17, 2026, 15:00 UTC",
+    "matchTimeUTCDate": "2026-01-17T15:00:00.000Z",
     "started": true,
     "finished": true
   },
