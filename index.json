@@ -53281,6 +53281,47 @@
     "finished": true
   },
   {
+    "matchId": "4813585",
+    "matchName": "Aston Villa-vs-Everton_Sun, Jan 18, 2026, 16:30 UTC",
+    "matchRound": "22",
+    "teamColors": {
+      "darkMode": {
+        "home": "#9d2358",
+        "away": "#0051d6"
+      },
+      "lightMode": {
+        "home": "#7D1142",
+        "away": "#0035b8"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "22",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Aston Villa",
+      "id": 10252
+    },
+    "awayTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Jan 18, 2026, 16:30 UTC",
+    "matchTimeUTCDate": "2026-01-18T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4813376",
     "matchName": "Brighton & Hove Albion-vs-Fulham_Sat, Aug 16, 2025, 14:00 UTC",
     "matchRound": "1",
