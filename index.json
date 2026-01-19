@@ -21695,6 +21695,47 @@
     "finished": true
   },
   {
+    "matchId": "4813586",
+    "matchName": "Brighton & Hove Albion-vs-AFC Bournemouth_Mon, Jan 19, 2026, 20:00 UTC",
+    "matchRound": "22",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#D71921"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#D71921"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "22",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Mon, Jan 19, 2026, 20:00 UTC",
+    "matchTimeUTCDate": "2026-01-19T20:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506334",
     "matchName": "Brighton & Hove Albion-vs-AFC Bournemouth_Tue, Feb 25, 2025, 19:30 UTC",
     "matchRound": "27",
