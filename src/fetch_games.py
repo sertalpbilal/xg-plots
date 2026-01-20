@@ -3,6 +3,7 @@ import json
 import os
 import glob
 import time
+import os
 
 cookies = {}
 # header_name = 'x-fm-req'
@@ -17,7 +18,11 @@ params = {
     'ccode3': 'USA_NC',
 }
 
+x_secret_key = os.environ.get('X_SECRET_KEY')
 
+rheaders = {
+    'x-secret-key': x_secret_key
+}
 
 
 # PREM_URL = r"https://www.fotmob.com/api/leagues?id=47"
@@ -26,7 +31,7 @@ GAME_URL = r"https://www.fotmob.com/api/matchDetails?matchId={match_id}"
 
 def refresh_cookie():
     global headers
-    r = requests.get("http://46.101.91.154:6006/")
+    r = requests.get("http://46.101.91.154:6006/", headers=rheaders)
     result = r.json()
     headers[header_name] = result[header_name]    
     print(headers)
