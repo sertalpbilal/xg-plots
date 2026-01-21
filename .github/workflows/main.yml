@@ -27,6 +27,8 @@ jobs:
           pip install -r requirements.txt
       - name: Run Python script
         run: cd src && python fetch_games.py
+        env:
+          X_SECRET_KEY: ${{ secrets.X_SECRET_KEY }}
       - name: Add changes to the branch
         run: |
           git add -u
