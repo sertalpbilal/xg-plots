@@ -45147,6 +45147,47 @@
     "finished": true
   },
   {
+    "matchId": "4813609",
+    "matchName": "Liverpool-vs-Newcastle United_Sat, Jan 31, 2026, 20:00 UTC",
+    "matchRound": "24",
+    "teamColors": {
+      "darkMode": {
+        "home": "#911712",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#911712",
+        "away": "#141413"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "24",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Liverpool",
+      "id": 8650
+    },
+    "awayTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sat, Jan 31, 2026, 20:00 UTC",
+    "matchTimeUTCDate": "2026-01-31T20:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506427",
     "matchName": "Fulham-vs-Brighton & Hove Albion_Thu, Dec 5, 2024, 19:30 UTC",
     "matchRound": "14",
