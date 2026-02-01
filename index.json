@@ -58010,6 +58010,47 @@
     "finished": true
   },
   {
+    "matchId": "4813611",
+    "matchName": "Nottingham Forest-vs-Crystal Palace_Sun, Feb 1, 2026, 14:00 UTC",
+    "matchRound": "24",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C8102E",
+        "away": "#0055A5"
+      },
+      "lightMode": {
+        "home": "#C8102E",
+        "away": "#0055A5"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "24",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Nottingham Forest",
+      "id": 10203
+    },
+    "awayTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Feb 1, 2026, 14:00 UTC",
+    "matchTimeUTCDate": "2026-02-01T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193716",
     "matchName": "Chelsea-vs-Crystal Palace_Wed, Dec 27, 2023, 19:30 UTC",
     "matchRound": "19",
