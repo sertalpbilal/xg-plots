@@ -25959,6 +25959,47 @@
     "finished": true
   },
   {
+    "matchId": "4813613",
+    "matchName": "Tottenham Hotspur-vs-Manchester City_Sun, Feb 1, 2026, 16:30 UTC",
+    "matchRound": "24",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#76b4e5"
+      },
+      "lightMode": {
+        "home": "#132257",
+        "away": "#69A8D8"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "24",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "awayTeam": {
+      "name": "Manchester City",
+      "id": 8456
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Feb 1, 2026, 16:30 UTC",
+    "matchTimeUTCDate": "2026-02-01T16:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506527",
     "matchName": "Ipswich Town-vs-Manchester City_Sun, Jan 19, 2025, 16:30 UTC",
     "matchRound": "22",
