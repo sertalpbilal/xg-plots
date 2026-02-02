@@ -5018,6 +5018,47 @@
     "finished": true
   },
   {
+    "matchId": "4813612",
+    "matchName": "Sunderland-vs-Burnley_Mon, Feb 2, 2026, 20:00 UTC",
+    "matchRound": "24",
+    "teamColors": {
+      "darkMode": {
+        "home": "#DC0814",
+        "away": "#813868"
+      },
+      "lightMode": {
+        "home": "#DC0814",
+        "away": "#5E1444"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "24",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Sunderland",
+      "id": 8472
+    },
+    "awayTeam": {
+      "name": "Burnley",
+      "id": 8191
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Mon, Feb 2, 2026, 20:00 UTC",
+    "matchTimeUTCDate": "2026-02-02T20:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901257",
     "matchName": "Wolverhampton Wanderers-vs-Crystal Palace_Tue, Apr 25, 2023, 18:30 UTC",
     "matchRound": "33",
