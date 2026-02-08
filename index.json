@@ -17518,6 +17518,47 @@
     "finished": true
   },
   {
+    "matchId": "4813617",
+    "matchName": "Brighton & Hove Albion-vs-Crystal Palace_Sun, Feb 8, 2026, 14:00 UTC",
+    "matchRound": "25",
+    "teamColors": {
+      "darkMode": {
+        "home": "#095bb6",
+        "away": "#E91D12"
+      },
+      "lightMode": {
+        "home": "#0850A0",
+        "away": "#E91D12"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "25",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Brighton & Hove Albion",
+      "id": 10204
+    },
+    "awayTeam": {
+      "name": "Crystal Palace",
+      "id": 9826
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Sun, Feb 8, 2026, 14:00 UTC",
+    "matchTimeUTCDate": "2026-02-08T14:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506496",
     "matchName": "Everton-vs-Nottingham Forest_Sun, Dec 29, 2024, 15:00 UTC",
     "matchRound": "19",
