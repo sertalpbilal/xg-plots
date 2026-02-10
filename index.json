@@ -30711,6 +30711,47 @@
     "finished": true
   },
   {
+    "matchId": "4813634",
+    "matchName": "West Ham United-vs-Manchester United_Tue, Feb 10, 2026, 20:15 UTC",
+    "matchRound": "26",
+    "teamColors": {
+      "darkMode": {
+        "home": "#8B3249",
+        "away": "#FFFFFF"
+      },
+      "lightMode": {
+        "home": "#7B2B3A",
+        "away": "#2B3737"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "26",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "West Ham United",
+      "id": 8654
+    },
+    "awayTeam": {
+      "name": "Manchester United",
+      "id": 10260
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Tue, Feb 10, 2026, 20:15 UTC",
+    "matchTimeUTCDate": "2026-02-10T20:15:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4506278",
     "matchName": "Liverpool-vs-Brentford_Sun, Aug 25, 2024, 15:30 UTC",
     "matchRound": "2",
@@ -45010,6 +45051,47 @@
     "finished": true
   },
   {
+    "matchId": "4813633",
+    "matchName": "Tottenham Hotspur-vs-Newcastle United_Tue, Feb 10, 2026, 19:30 UTC",
+    "matchRound": "26",
+    "teamColors": {
+      "darkMode": {
+        "home": "#ffffff",
+        "away": "#00733f"
+      },
+      "lightMode": {
+        "home": "#132257",
+        "away": "#141413"
+      },
+      "fontDarkMode": {
+        "home": "rgba(29, 29, 29, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "26",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Tottenham Hotspur",
+      "id": 8586
+    },
+    "awayTeam": {
+      "name": "Newcastle United",
+      "id": 10261
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Tue, Feb 10, 2026, 19:30 UTC",
+    "matchTimeUTCDate": "2026-02-10T19:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "3901247",
     "matchName": "Fulham-vs-Leeds United_Sat, Apr 22, 2023, 11:30 UTC",
     "matchRound": "32",
@@ -53489,6 +53571,47 @@
     "finished": true
   },
   {
+    "matchId": "4813627",
+    "matchName": "Chelsea-vs-Leeds United_Tue, Feb 10, 2026, 19:30 UTC",
+    "matchRound": "26",
+    "teamColors": {
+      "darkMode": {
+        "home": "#1E4492",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#064b95",
+        "away": "#FFCD00"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "26",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Chelsea",
+      "id": 8455
+    },
+    "awayTeam": {
+      "name": "Leeds United",
+      "id": 8463
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Tue, Feb 10, 2026, 19:30 UTC",
+    "matchTimeUTCDate": "2026-02-10T19:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193781",
     "matchName": "AFC Bournemouth-vs-Manchester City_Sat, Feb 24, 2024, 17:30 UTC",
     "matchRound": "26",
@@ -57573,6 +57696,47 @@
     },
     "matchTimeUTC": "Sun, Oct 9, 2022, 15:30 UTC",
     "matchTimeUTCDate": "2022-10-09T15:30:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
+    "matchId": "4813629",
+    "matchName": "Everton-vs-AFC Bournemouth_Tue, Feb 10, 2026, 19:30 UTC",
+    "matchRound": "26",
+    "teamColors": {
+      "darkMode": {
+        "home": "#0051d6",
+        "away": "#D71921"
+      },
+      "lightMode": {
+        "home": "#0035b8",
+        "away": "#D71921"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "26",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Everton",
+      "id": 8668
+    },
+    "awayTeam": {
+      "name": "AFC Bournemouth",
+      "id": 8678
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Tue, Feb 10, 2026, 19:30 UTC",
+    "matchTimeUTCDate": "2026-02-10T19:30:00.000Z",
     "started": true,
     "finished": true
   },
