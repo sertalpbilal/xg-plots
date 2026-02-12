@@ -27603,6 +27603,47 @@
     "finished": true
   },
   {
+    "matchId": "4813626",
+    "matchName": "Brentford-vs-Arsenal_Thu, Feb 12, 2026, 20:00 UTC",
+    "matchRound": "26",
+    "teamColors": {
+      "darkMode": {
+        "home": "#C00808",
+        "away": "#ffffff"
+      },
+      "lightMode": {
+        "home": "#C00808",
+        "away": "#101010"
+      },
+      "fontDarkMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(29, 29, 29, 1.0)"
+      },
+      "fontLightMode": {
+        "home": "rgba(255, 255, 255, 1.0)",
+        "away": "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "leagueId": 47,
+    "leagueName": "Premier League",
+    "leagueRoundName": "26",
+    "parentLeagueId": 47,
+    "countryCode": "ENG",
+    "homeTeam": {
+      "name": "Brentford",
+      "id": 9937
+    },
+    "awayTeam": {
+      "name": "Arsenal",
+      "id": 9825
+    },
+    "coverageLevel": "xG",
+    "matchTimeUTC": "Thu, Feb 12, 2026, 20:00 UTC",
+    "matchTimeUTCDate": "2026-02-12T20:00:00.000Z",
+    "started": true,
+    "finished": true
+  },
+  {
     "matchId": "4193531",
     "matchName": "Brighton & Hove Albion-vs-Liverpool_Sun, Oct 8, 2023, 13:00 UTC",
     "matchRound": "8",
